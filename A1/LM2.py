@@ -346,6 +346,7 @@ class Evaluation():
             self.perplexities.append(self.sentence + '\t' + str(prp) + '\n')
             self.avg_perplexity += prp
         self.avg_perplexity = self.avg_perplexity / len(self.text)
+        self.write_to_file()
         
 
 def preprocessing(path, n):
