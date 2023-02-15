@@ -116,46 +116,146 @@ class N_Gram():
         return self.d_final
   
 # handle the case where length of sentence is less than 3
+# class KneserNey():
+#     def __init__(self, n_gram, d_final, sentence):
+#         self.n_init = n_gram - 1
+#         self.n = n_gram - 1
+#         self.final_dict = d_final
+#         self.sentence = sentence.split(' ')
+#         self.ans_dict = dict()
+#         self.d = 0
+#         self.prob = 0
+        
+#     def first_term(self, key):
+#         if (self.n == self.n_init):
+#             key2 = key + ' ' + self.word # whole string
+#             numer = max((self.final_dict[self.n][key2] - self.d), 0)
+#             denom = self.final_dict[self.n - 1][key]
+#             res = numer / denom
+#             return res
+        
+#         # conti count
+#         key2 = key + ' ' + self.word
+#         key2 = key2.split(' ')
+#         x = 0
+# #         print(key2, key)
+#         if len(key2) == 2:
+#             self.n = 2
+#         elif len(key2) == 3:
+#             self.n = 3
+            
+#         numer = len(dict(filter(lambda item: key2 == item[0].split(' ')[1:], self.final_dict[self.n].items())))
+#         denom = len(dict(filter(lambda item: key == item[0].split(' ')[-1], self.final_dict[self.n].items())))
+# #         print(numer, denom)
+#         res = numer / denom
+#         return res
+    
+#     def lamda_term(self):
+#         if self.d == 0:
+#             return 0
+#         key = ' '.join(map(str, self.sentence))
+#         c_w = self.final_dict[self.n - 1][key]
+#         search_key = self.sentence # list
+#         final_word_types = len(dict(filter(lambda item: search_key == item[0].split(' ')[:-1], self.final_dict[self.n].items())))
+#         res = (self.d / c_w) * (final_word_types)
+#         return res
+        
+    
+#     def conti_term(self, key):
+#         key = key.split(' ')[-1]
+#         denom = sum(self.final_dict[self.n].values())
+#         numer = len(dict(filter(lambda item: key == item[0].split(' ')[-1], self.final_dict[self.n].items())))
+#         x = numer / denom
+#         return x
+    
+#     def smooth(self):
+#         x = self.sentence[:-1]
+#         self.word = self.sentence[-1]
+#         self.sentence = x
+        
+#         while(self.n > 0):
+#             key = ' '.join(map(str, self.sentence))
+#             if self.final_dict[self.n - 1][key] > 0:
+#                 break
+#             self.n -= 1
+#             self.sentence = self.sentence[1:]
+            
+#         if self.n == self.n_init:
+#             self.d = 0
+#         else:
+#             self.d = 0.75
+#         # print(self.n)
+        
+#         if self.n > 0:
+#             key = ' '.join(map(str, self.sentence))
+#             f_term = self.first_term(key)
+#             l_term = self.lamda_term()
+#             c_term = self.conti_term(key)
+# #             print(f_term, l_term, c_term)
+#             self.prob = f_term + (l_term*c_term)
+#         else:
+#             denom = sum(self.final_dict[0].values())
+#             numer = 0
+#             for k,v in d_final[0].items():
+#                 if v < 5:
+#                     numer += v
+#             self.prob = numer / denom
+            
+#         return self.prob
+
 class KneserNey():
     def __init__(self, n_gram, d_final, sentence):
         self.n_init = n_gram - 1
         self.n = n_gram - 1
         self.final_dict = d_final
         self.sentence = sentence.split(' ')
-        self.ans_dict = dict()
-        self.d = 0
+        self.ans = list()
+        self.d = 0.75
         self.prob = 0
+        self.unk_threshold = 10
+        
+    def handle_zero(self):
+        if self.n == 1:
+            return self.handle_unk()
+        else:
+            return 1e-6
         
     def first_term(self, key):
-        if (self.n == self.n_init):
-            key2 = key + ' ' + self.word # whole string
-            numer = max((self.final_dict[self.n][key2] - self.d), 0)
-            denom = self.final_dict[self.n - 1][key]
-            res = numer / denom
-            return res
-        
-        # conti count
-        key2 = key + ' ' + self.word
-        key2 = key2.split(' ')
-        x = 0
-#         print(key2, key)
-        if len(key2) == 2:
-            self.n = 2
-        elif len(key2) == 3:
-            self.n = 3
-            
-        numer = len(dict(filter(lambda item: key2 == item[0].split(' ')[1:], self.final_dict[self.n].items())))
-        denom = len(dict(filter(lambda item: key == item[0].split(' ')[-1], self.final_dict[self.n].items())))
-#         print(numer, denom)
+#         if (self.n == self.n_init):
+        key2 = key + ' ' + self.word # whole string
+        numer = max((self.final_dict[self.n][key2] - self.d), 0)
+        denom = self.final_dict[self.n - 1][key]
+        if denom == 0:
+            return self.handle_zero()
         res = numer / denom
         return res
+        
+        # conti count
+#         key2 = key + ' ' + self.word
+#         key2 = key2.split(' ')
+#         x = 0
+# #         print(key2, key)
+#         if len(key2) == 2:
+#             self.n = 2
+#         elif len(key2) == 3:
+#             self.n = 3
+            
+#         numer = len(dict(filter(lambda item: key2 == item[0].split(' ')[1:], self.final_dict[self.n].items())))
+#         denom = len(dict(filter(lambda item: key == item[0].split(' ')[-1], self.final_dict[self.n].items())))
+#         if denom == 0:
+#             return self.handle_zero()
+#         res = numer / denom
+#         return res
     
-    def lamda_term(self):
-        if self.d == 0:
-            return 0
-        key = ' '.join(map(str, self.sentence))
+    def lamda_term(self, key):
+#         key  = self.sentence.split(' ')
+#         key = ' '.join(map(str, self.sentence))
+#         print(key)
         c_w = self.final_dict[self.n - 1][key]
-        search_key = self.sentence # list
+        if c_w == 0:
+            return self.handle_zero()
+#         print(c_w, 'cw')
+        search_key = key.split(' ') # list
         final_word_types = len(dict(filter(lambda item: search_key == item[0].split(' ')[:-1], self.final_dict[self.n].items())))
         res = (self.d / c_w) * (final_word_types)
         return res
@@ -163,46 +263,134 @@ class KneserNey():
     
     def conti_term(self, key):
         key = key.split(' ')[-1]
-        denom = sum(self.final_dict[self.n].values())
+        denom = len(self.final_dict[self.n].values())
+#         denom =1
         numer = len(dict(filter(lambda item: key == item[0].split(' ')[-1], self.final_dict[self.n].items())))
+        if numer == 0:
+            numer = self.handle_zero()
         x = numer / denom
+#         print('x',x)
         return x
     
+    def handle_unk(self):
+        denom = sum(self.final_dict[0].values())
+        numer = 0
+        for k,v in d_final[0].items():
+            if v < self.unk_threshold:
+                numer += v
+        res = numer / denom
+        return res
+
     def smooth(self):
         x = self.sentence[:-1]
         self.word = self.sentence[-1]
         self.sentence = x
         
-        while(self.n > 0):
-            key = ' '.join(map(str, self.sentence))
-            if self.final_dict[self.n - 1][key] > 0:
-                break
-            self.n -= 1
-            self.sentence = self.sentence[1:]
+#         check = False
+#         while(self.n > 0):
+#             key = ' '.join(map(str, self.sentence))
+#             if self.final_dict[self.n - 1][key] > 0:
+#                 check = True
+#                 break
+#             self.n -= 1
+#             self.sentence = self.sentence[1:]
             
-        if self.n == self.n_init:
-            self.d = 0
-        else:
-            self.d = 0.75
-        # print(self.n)
+        for i in range(self.n_init):
+            self.n = i+1
+            x = self.n_init - i - 1
+            key = self.sentence[x:]
+            key = ' '.join(map(str, key))
+#             print(key)
+            if self.final_dict[self.n - 1][key] == 0:
+                self.ans.append(0)
+                continue
+            if i == 0:
+                res = self.conti_term(key)
+                self.ans.append(res)
+            else:
+                f_term = self.first_term(key)
+                l_term = self.lamda_term(key)
+#                 print(l_term)
+                res = f_term + (l_term*self.ans[i-1])
+                self.ans.append(res)
+        self.prob = self.ans[self.n_init - 1]
+#         print(self.ans)
+        if self.prob == 0:
+            self.prob = self.handle_unk()
         
-        if self.n > 0:
-            key = ' '.join(map(str, self.sentence))
-            f_term = self.first_term(key)
-            l_term = self.lamda_term()
-            c_term = self.conti_term(key)
-#             print(f_term, l_term, c_term)
-            self.prob = f_term + (l_term*c_term)
-        else:
-            denom = sum(self.final_dict[0].values())
-            numer = 0
-            for k,v in d_final[0].items():
-                if v < 5:
-                    numer += v
-            self.prob = numer / denom
+#         if self.n > 0:
+#             key = ' '.join(map(str, self.sentence))
+#             f_term = self.first_term(key)
+#             l_term = self.lamda_term()
+#             c_term = self.conti_term(key)
+# #             print(f_term, l_term, c_term)
+#             self.prob = f_term + (l_term*c_term)
+#         else:
+#             denom = sum(self.final_dict[0].values())
+#             numer = 0
+#             for k,v in d_final[0].items():
+#                 if v < 5:
+#                     numer += v
+#             self.prob = numer / denom
             
         return self.prob
     
+class WittenBell():
+    def __init__(self, n_gram, d_final, sentence):
+        self.n_init = n_gram - 1
+        self.n = n_gram - 1
+        self.final_dict = d_final
+        self.sentence = sentence.split(' ')
+        self.prob = 0
+        self.unk_threshold = 10
+        
+    def handle_zero(self):
+        if self.n == 1:
+            return self.handle_unk()
+        else:
+            return 1e-6
+        
+    def handle_unk(self):
+        denom = sum(self.final_dict[0].values())
+        numer = 0
+        for k,v in d_final[0].items():
+            if v < self.unk_threshold:
+                numer += v
+        res = numer / denom
+        return res
+    
+    def smooth_2(self, n_val, sent):
+        self.n = n_val
+        key = ' '.join(map(str, sent))
+        
+        if self.n == 0:
+            key = self.word
+            numer = self.final_dict[self.n][key]
+            if numer == 0:
+                numer = self.handle_zero()
+            denom = sum(self.final_dict[self.n].values())
+            res = numer / denom
+            return res
+        
+        numer = self.final_dict[self.n - 1][key]
+        if numer == 0:
+                numer = self.handle_zero()
+        key2 = key + ' ' + self.word
+        x = self.final_dict[self.n][key2]
+        pml = x / numer
+        endings = self.final_dict[self.n - 1][key]
+        if endings == 0:
+            endings = self.handle_zero()
+        lambda_term = numer / (max(1, numer+endings))
+        
+        return lambda_term*pml + (1 - lambda_term)*(self.smooth_2(self.n - 1, sent[1:]))
+    
+    def smooth(self):
+        x = self.sentence[:-1]
+        self.word = self.sentence[-1]
+        self.sentence = x
+        self.prob = self.smooth_2(self.n_init, self.sentence)
+        return self.prob   
 
 if __name__ == '__main__':    
     filenames = ['Pride and Prejudice - Jane Austen', 'Ulysses - James Joyce']
@@ -229,7 +417,11 @@ if __name__ == '__main__':
             break
 
     # for kneser ney pass only the last 4 words of the sentence. Correct using placeholders in case length is not sufficient.
-    test_str = '<SOS> hey why my'
+    test_str = 'or views of such'
     kneser = KneserNey(n_gram, d_final, test_str)
     prob = kneser.smooth()
+    print(prob)
+
+    witten = WittenBell(n_gram, d_final, test_str)
+    prob = witten.smooth()
     print(prob)
