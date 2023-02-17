@@ -1,0 +1,1001 @@
+Average Perplexity: 3.2115348791455087
+<SOS> <SOS> <SOS> the project gutenberg ebook of ulysses by james joyce this ebook is for the use of anyone anywhere in the united states and most other parts of the world at no cost and with almost no restrictions <EOS>	4.5960598255707925
+<SOS> <SOS> <SOS> you may copy it give it away or reuse it under the terms of the project gutenberg license included with this ebook or online at www.gutenberg.<EOS>	4.3726723842096575
+<SOS> <SOS> <SOS> if you are not located in the united states you will have to check the laws of the country where you are located before using this <EOS>	4.397555720525408
+<SOS> <SOS> <SOS> title ulysses author james joyce release date december NUM NUM ebook NUM most recently updated december NUM NUM language english character set encoding utfNUM produced by col choat and david widger start of the project gutenberg ebook ulysses illustration ulysses by james joyce contents i NUM NUM NUM ii NUM NUM NUM NUM NUM NUM NUM NUM NUM NUM NUM NUM iii NUM NUM NUM i NUM stately plump buck mulligan came from the stairhead bearing a bowl of lather on which a mirror and a razor lay <EOS>	4.913313998976971
+<SOS> <SOS> <SOS> a yellow dressinggown ungirdled was sustained gently behind him on the mild morning <EOS>	3.877567852589526
+<SOS> <SOS> <SOS> he held the bowl aloft and intoned _introibo ad altare <EOS>	3.643625385151988
+<SOS> <SOS> <SOS> halted he peered down the dark winding stairs and called out coarsely come up kinch! come up you fearful jesuit! solemnly he came forward and mounted the round <EOS>	4.443018243606574
+<SOS> <SOS> <SOS> he faced about and blessed gravely thrice the tower the surrounding land and the awaking <EOS>	3.9979299676086484
+<SOS> <SOS> <SOS> then catching sight of stephen dedalus he bent towards him and made rapid crosses in the air gurgling in his throat and shaking his <EOS>	4.346167891704427
+<SOS> <SOS> <SOS> stephen dedalus displeased and sleepy leaned his arms on the top of the staircase and looked coldly at the shaking gurgling face that blessed him equine in its length and at the light untonsured hair grained and hued like pale <EOS>	4.633947895723362
+<SOS> <SOS> <SOS> buck mulligan peeped an instant under the mirror and then covered the bowl <EOS>	3.877567852589526
+<SOS> <SOS> <SOS> back to barracks! he said <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> slow music <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> shut your eyes <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> one <EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> a little trouble about those white <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> silence <EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> he peered sideways up and gave a long slow whistle of call then paused awhile in rapt attention his even white teeth glistening here and there with gold <EOS>	4.443018243606574
+<SOS> <SOS> <SOS> two strong shrill whistles answered through the <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> thanks old chap he cried <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> that will do <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> switch off the current will<EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> he skipped off the gunrest and looked gravely at his watcher gathering about his legs the loose folds of his <EOS>	4.2203101565380825
+<SOS> <SOS> <SOS> the plump shadowed face and sullen oval jowl recalled a prelate patron of arts in the middle <EOS>	4.098097050363507
+<SOS> <SOS> <SOS> a pleasant smile broke quietly over his <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> the mockery of it! he said <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> stephen dedalus stepped up followed him wearily halfway and sat down on the edge of the gunrest watching him still as he propped his mirror on the parapet dipped the brush in the bowl and lathered cheeks and <EOS>	4.609255249630315
+<SOS> <SOS> <SOS> buck mulligans gay voice went <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> my name is absurd too malachi mulligan two <EOS>	3.4356543087122065
+<SOS> <SOS> <SOS> but it has a hellenic ring hasnt<EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> tripping and sunny like the buck <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> we must go to <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> will you come if i can get the aunt to fork out twenty<EOS>	3.807824414729749
+<SOS> <SOS> <SOS> he laid the brush aside and laughing with delight cried will he<EOS>	3.730297104315393
+<SOS> <SOS> <SOS> the jejune jesuit! ceasing he began to shave with <EOS>	3.546118885587792
+<SOS> <SOS> <SOS> tell me mulligan stephen said <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> yes my<EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> how long is haines going to stay in this<EOS>	3.4356543087122065
+<SOS> <SOS> <SOS> buck mulligan showed a shaven cheek over his right <EOS>	3.546118885587792
+<SOS> <SOS> <SOS> god isnt he<EOS>	2.276877363775991
+<SOS> <SOS> <SOS> he said <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> he thinks youre not a <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> god these bloody english! bursting with money and <EOS>	3.4356543087122065
+<SOS> <SOS> <SOS> because he comes from <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> you know dedalus you have the real oxford <EOS>	3.4356543087122065
+<SOS> <SOS> <SOS> he cant make you <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> o my name for you is the best kinch the <EOS>	3.643625385151988
+<SOS> <SOS> <SOS> he shaved warily over his <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> he was raving all night about a black panther stephen <EOS>	3.643625385151988
+<SOS> <SOS> <SOS> where is his<EOS>	2.276877363775991
+<SOS> <SOS> <SOS> a woful lunatic! mulligan <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> were you in a<EOS>	2.560873696443578
+<SOS> <SOS> <SOS> i was stephen said with energy and growing <EOS>	3.4356543087122065
+<SOS> <SOS> <SOS> out here in the dark with a man i dont know raving and moaning to himself about shooting a black <EOS>	4.2203101565380825
+<SOS> <SOS> <SOS> you saved men from <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> im not a hero <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> if he stays on here i am <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> buck mulligan frowned at the lather on his <EOS>	3.4356543087122065
+<SOS> <SOS> <SOS> he hopped down from his perch and began to search his trouser pockets <EOS>	3.877567852589526
+<SOS> <SOS> <SOS> scutter! he cried <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> he came over to the gunrest and thrusting a hand into stephens upper pocket said lend us a loan of your noserag to wipe my <EOS>	4.3726723842096575
+<SOS> <SOS> <SOS> stephen suffered him to pull out and hold up on show by its corner a dirty crumpled <EOS>	4.098097050363507
+<SOS> <SOS> <SOS> buck mulligan wiped the razorblade <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> then gazing over the handkerchief he said the bards noserag! a new art colour for our irish poets <EOS>	4.142123214766831
+<SOS> <SOS> <SOS> he mounted to the parapet again and gazed out over dublin bay his fair oakpale hair stirring <EOS>	4.098097050363507
+<SOS> <SOS> <SOS> god! he said <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> isnt the sea what algy calls it a great sweet<EOS>	3.546118885587792
+<SOS> <SOS> <SOS> the snotgreen <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> the scrotumtightening <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> _epi oinopa <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> ah dedalus the greeks! i must teach <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> you must read them in the <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> _thalatta! thalatta!_ she is our great sweet <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> come and <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> stephen stood up and went over to the <EOS>	3.4356543087122065
+<SOS> <SOS> <SOS> leaning on it he looked down on the water and on the mailboat clearing the harbourmouth of <EOS>	4.098097050363507
+<SOS> <SOS> <SOS> our mighty mother! buck mulligan <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> he turned abruptly his grey searching eyes from the sea to stephens <EOS>	3.807824414729749
+<SOS> <SOS> <SOS> the aunt thinks you killed your mother he <EOS>	3.4356543087122065
+<SOS> <SOS> <SOS> thats why she wont let me have anything to do with <EOS>	3.730297104315393
+<SOS> <SOS> <SOS> someone killed her stephen said <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> you could have knelt down damn it kinch when your dying mother asked you buck mulligan <EOS>	4.050208558869719
+<SOS> <SOS> <SOS> im hyperborean as much as <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> and you <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> there is something sinister in you...<EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> a tolerant smile curled his <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> but a lovely mummer! he murmured to <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> kinch the loveliest mummer of them all! he shaved evenly and with care in silence <EOS>	3.9979299676086484
+<SOS> <SOS> <SOS> stephen an elbow rested on the jagged granite leaned his palm against his brow and gazed at the fraying edge of his shiny black <EOS>	4.346167891704427
+<SOS> <SOS> <SOS> pain that was not yet the pain of love fretted his <EOS>	3.730297104315393
+<SOS> <SOS> <SOS> silently in a dream she had come to him after her death her wasted body within its loose brown graveclothes giving off an odour of wax and rosewood her breath that had bent upon him mute reproachful a faint odour of wetted <EOS>	4.656608866231511
+<SOS> <SOS> <SOS> the ring of bay and skyline held a dull green mass of <EOS>	3.807824414729749
+<SOS> <SOS> <SOS> a bowl of white china had stood beside her deathbed holding the green sluggish bile which she had torn up from her rotting liver by fits of loud groaning <EOS>	4.4638381070759365
+<SOS> <SOS> <SOS> buck mulligan wiped again his <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> ah poor dogsbody! he said in a kind <EOS>	3.4356543087122065
+<SOS> <SOS> <SOS> i must give you a shirt and a few <EOS>	3.546118885587792
+<SOS> <SOS> <SOS> how are the secondhand<EOS>	2.560873696443578
+<SOS> <SOS> <SOS> they fit well enough stephen <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> buck mulligan attacked the hollow beneath his <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> the mockery of it he said <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> secondleg they should <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> god knows what poxy bowsy left them <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> i have a lovely pair with a hair stripe <EOS>	3.546118885587792
+<SOS> <SOS> <SOS> youll look spiffing in <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> you look damn well when youre <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> thanks stephen <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> i cant wear them if they are <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> he cant wear them buck mulligan told his face in the <EOS>	3.730297104315393
+<SOS> <SOS> <SOS> etiquette is <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> he kills his mother but he cant wear grey <EOS>	3.546118885587792
+<SOS> <SOS> <SOS> he folded his razor neatly and with stroking palps of fingers felt the smooth <EOS>	3.940633688064753
+<SOS> <SOS> <SOS> stephen turned his gaze from the sea and to the plump face with its smokeblue mobile <EOS>	4.050208558869719
+<SOS> <SOS> <SOS> that fellow i was with in the ship last night said buck mulligan says you have <EOS>	4.050208558869719
+<SOS> <SOS> <SOS> hes up in dottyville with connolly <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> general paralysis of the insane! he swept the mirror a half circle in the air to flash the tidings abroad in sunlight now radiant on the <EOS>	4.397555720525408
+<SOS> <SOS> <SOS> his curling shaven lips laughed and the edges of his white glittering <EOS>	3.807824414729749
+<SOS> <SOS> <SOS> laughter seized all his strong wellknit <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> look at yourself he said you dreadful bard! stephen bent forward and peered at the mirror held out to him cleft by a crooked <EOS>	4.346167891704427
+<SOS> <SOS> <SOS> hair on <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> as he and others see <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> who chose this face for<EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> this dogsbody to rid of <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> it asks me <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> i pinched it out of the skivvys room buck mulligan <EOS>	3.643625385151988
+<SOS> <SOS> <SOS> it does her all <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> the aunt always keeps plainlooking servants for <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> lead him not into <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> and her name is <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> laughing again he brought the mirror away from stephens peering <EOS>	3.643625385151988
+<SOS> <SOS> <SOS> the rage of caliban at not seeing his face in a mirror he <EOS>	3.877567852589526
+<SOS> <SOS> <SOS> if wilde were only alive to see you! drawing back and pointing stephen said with bitterness it is a symbol of irish <EOS>	4.2876199716614325
+<SOS> <SOS> <SOS> the cracked lookingglass of a <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> its not fair to tease you like that kinch is<EOS>	3.546118885587792
+<SOS> <SOS> <SOS> he said <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> god knows you have more spirit than any of <EOS>	3.546118885587792
+<SOS> <SOS> <SOS> parried <EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> he fears the lancet of my art as i fear that of <EOS>	3.807824414729749
+<SOS> <SOS> <SOS> the cold steel <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> cracked lookingglass of a servant! tell that to the oxy chap downstairs and touch him for a <EOS>	4.098097050363507
+<SOS> <SOS> <SOS> hes stinking with money and thinks youre not a <EOS>	3.546118885587792
+<SOS> <SOS> <SOS> his old fellow made his tin by selling jalap to zulus or some bloody swindle or <EOS>	4.050208558869719
+<SOS> <SOS> <SOS> god kinch if you and i could only work together we might do something for the <EOS>	4.050208558869719
+<SOS> <SOS> <SOS> hellenise <EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> cranlys <EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> his <EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> and to think of your having to beg from these <EOS>	3.643625385151988
+<SOS> <SOS> <SOS> im the only one that knows what you <EOS>	3.4356543087122065
+<SOS> <SOS> <SOS> why dont you trust me<EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> what have you up your nose against<EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> is it<EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> if he makes any noise here ill bring down seymour and well give him a ragging worse than they gave clive <EOS>	4.255178328239177
+<SOS> <SOS> <SOS> young shouts of moneyed voices in clive kempthorpes <EOS>	3.4356543087122065
+<SOS> <SOS> <SOS> palefaces they hold their ribs with laughter one clasping <EOS>	3.546118885587792
+<SOS> <SOS> <SOS> o i shall expire! break the news to her gently aubrey! i shall die! with slit ribbons of his shirt whipping the air he hops and hobbles round the table with trousers down at heels chased by ades of magdalen with the tailors <EOS>	4.667254172123282
+<SOS> <SOS> <SOS> i dont want to be debagged! dont you play the giddy ox with me! shouts from the open window startling evening in the <EOS>	4.3178790220421535
+<SOS> <SOS> <SOS> a deaf gardener aproned masked with matthew arnolds face pushes his mower on the sombre lawn watching narrowly the dancing motes of <EOS>	4.2876199716614325
+<SOS> <SOS> <SOS> to ourselves..<EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> new paganism..<EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> let him stay stephen <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> theres nothing wrong with him except at <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> then what is<EOS>	2.276877363775991
+<SOS> <SOS> <SOS> buck mulligan asked <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> cough it <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> im quite frank with <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> what have you against me<EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> they halted looking towards the blunt cape of bray head that lay on the water like the snout of a sleeping <EOS>	4.255178328239177
+<SOS> <SOS> <SOS> stephen freed his arm <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> do you wish me to tell<EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> he <EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> yes what is<EOS>	2.276877363775991
+<SOS> <SOS> <SOS> buck mulligan <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> i dont remember <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> he looked in stephens face as he <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> a light wind passed his brow fanning softly his fair uncombed hair and stirring silver points of anxiety in his <EOS>	4.2203101565380825
+<SOS> <SOS> <SOS> stephen depressed by his own voice said do you remember the first day i went to your house after my mothers<EOS>	4.2203101565380825
+<SOS> <SOS> <SOS> buck mulligan frowned quickly and said<EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> i cant remember <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> i remember only ideas and <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> why? what happened in the name of<EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> you were making tea stephen said and went across the landing to get more hot <EOS>	3.9979299676086484
+<SOS> <SOS> <SOS> your mother and some visitor came out of the <EOS>	3.546118885587792
+<SOS> <SOS> <SOS> she asked you who was in your <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> yes? buck mulligan <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> what did i<EOS>	2.276877363775991
+<SOS> <SOS> <SOS> i <EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> you said stephen answered _o its only dedalus whose mother is beastly dead._ a flush which made him seem younger and more engaging rose to buck mulligans <EOS>	4.420961858181132
+<SOS> <SOS> <SOS> did i say<EOS>	2.276877363775991
+<SOS> <SOS> <SOS> he <EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> well? what harm is<EOS>	2.560873696443578
+<SOS> <SOS> <SOS> he shook his constraint from him <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> and what is death he asked your mothers or yours or my<EOS>	3.730297104315393
+<SOS> <SOS> <SOS> you saw only your mother <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> i see them pop off every day in the mater and richmond and cut up into tripes in the <EOS>	4.182733960802633
+<SOS> <SOS> <SOS> its a beastly thing and nothing <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> it simply doesnt <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> you wouldnt kneel down to pray for your mother on her deathbed when she asked <EOS>	3.9979299676086484
+<SOS> <SOS> <SOS> why? because you have the cursed jesuit strain in you only its injected the wrong <EOS>	3.9979299676086484
+<SOS> <SOS> <SOS> to me its all a mockery and <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> her cerebral lobes are not <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> she calls the doctor sir peter teazle and picks buttercups off the <EOS>	3.807824414729749
+<SOS> <SOS> <SOS> humour her till its <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> you crossed her last wish in death and yet you sulk with me because i dont whinge like some hired mute from <EOS>	4.2876199716614325
+<SOS> <SOS> <SOS> absurd! i suppose i did say <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> i didnt mean to offend the memory of your <EOS>	3.546118885587792
+<SOS> <SOS> <SOS> he had spoken himself into <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> stephen shielding the gaping wounds which the words had left in his heart said very coldly i am not thinking of the offence to my <EOS>	4.3726723842096575
+<SOS> <SOS> <SOS> of what<EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> buck mulligan <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> of the offence to me stephen <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> buck mulligan swung round on his <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> o an impossible person! he <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> he walked off quickly round the <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> stephen stood at his post gazing over the calm sea towards the <EOS>	3.807824414729749
+<SOS> <SOS> <SOS> sea and headland now grew <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> pulses were beating in his eyes veiling their sight and he felt the fever of his <EOS>	4.050208558869719
+<SOS> <SOS> <SOS> a voice within the tower called loudly are you up there<EOS>	3.643625385151988
+<SOS> <SOS> <SOS> he turned towards stephen and said look at the <EOS>	3.546118885587792
+<SOS> <SOS> <SOS> what does it care about<EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> chuck loyola kinch and come on <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> the sassenach wants his morning <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> his head halted again for a moment at the top of the staircase level with the roof dont mope over it all day he <EOS>	4.346167891704427
+<SOS> <SOS> <SOS> im <EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> give up the moody <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> his head vanished but the drone of his descending voice boomed out of the stairhead and no more turn aside and brood upon loves bitter mystery for fergus rules the brazen <EOS>	4.502161346550516
+<SOS> <SOS> <SOS> woodshadows floated silently by through the morning peace from the stairhead seaward where he <EOS>	3.940633688064753
+<SOS> <SOS> <SOS> inshore and farther out the mirror of water whitened spurned by lightshod hurrying <EOS>	3.877567852589526
+<SOS> <SOS> <SOS> white breast of the dim <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> the twining stresses two by <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> a hand plucking the harpstrings merging their twining <EOS>	3.4356543087122065
+<SOS> <SOS> <SOS> a cloud began to cover the sun slowly wholly shadowing the bay in deeper <EOS>	3.940633688064753
+<SOS> <SOS> <SOS> it lay beneath him a bowl of bitter <EOS>	3.4356543087122065
+<SOS> <SOS> <SOS> fergus song i sang it alone in the house holding down the long dark <EOS>	3.940633688064753
+<SOS> <SOS> <SOS> her door was open she wanted to hear my <EOS>	3.546118885587792
+<SOS> <SOS> <SOS> silent with awe and pity i went to her <EOS>	3.546118885587792
+<SOS> <SOS> <SOS> she was crying in her wretched <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> for those words stephen loves bitter <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> where<EOS>	1.5089325245934595
+<SOS> <SOS> <SOS> her secrets old featherfans tasselled dancecards powdered with musk a gaud of amber beads in her locked <EOS>	4.098097050363507
+<SOS> <SOS> <SOS> a birdcage hung in the sunny window of her house when she was a <EOS>	3.940633688064753
+<SOS> <SOS> <SOS> phantasmal mirth folded away <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> and no more turn aside and <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> folded away in the memory of nature with her <EOS>	3.546118885587792
+<SOS> <SOS> <SOS> memories beset his brooding <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> her glass of water from the kitchen tap when she had approached the <EOS>	3.877567852589526
+<SOS> <SOS> <SOS> a cored apple filled with brown sugar roasting for her at the hob on a dark autumn <EOS>	4.098097050363507
+<SOS> <SOS> <SOS> her shapely fingernails reddened by the blood of squashed lice from the childrens <EOS>	3.877567852589526
+<SOS> <SOS> <SOS> in a dream silently she had come to him her wasted body within its loose graveclothes giving off an odour of wax and rosewood her breath bent over him with mute secret words a faint odour of wetted <EOS>	4.609255249630315
+<SOS> <SOS> <SOS> her glazing eyes staring out of death to shake and bend my <EOS>	3.807824414729749
+<SOS> <SOS> <SOS> on me <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> the ghostcandle to light her <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> her hoarse loud breath rattling in horror while all prayed on their <EOS>	3.807824414729749
+<SOS> <SOS> <SOS> her eyes on me to strike me <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> _liliata rutilantium te confessorum turma circumdet iubilantium te virginum chorus excipiat._ ghoul! chewer of corpses! no mother! let me be and let me <EOS>	4.3178790220421535
+<SOS> <SOS> <SOS> kinch ahoy! buck mulligans voice sang from within the <EOS>	3.546118885587792
+<SOS> <SOS> <SOS> it came nearer up the staircase calling <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> stephen still trembling at his souls cry heard warm running sunlight and in the air behind him friendly <EOS>	4.142123214766831
+<SOS> <SOS> <SOS> dedalus come down like a good <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> breakfast is <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> haines is apologising for waking us last <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> its all <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> im coming stephen said <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> do for jesus sake buck mulligan <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> for my sake and for all our <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> his head disappeared and <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> i told him your symbol of irish <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> he says its very <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> touch him for a quid will<EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> a guinea i <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> i get paid this morning stephen <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> the school<EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> buck mulligan <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> how<EOS>	1.5089325245934595
+<SOS> <SOS> <SOS> four<EOS>	1.5089325245934595
+<SOS> <SOS> <SOS> lend us <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> if you want it stephen <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> four shining sovereigns buck mulligan cried with <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> well have a glorious drunk to astonish the druidy <EOS>	3.546118885587792
+<SOS> <SOS> <SOS> four omnipotent <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> he flung up his hands and tramped down the stone stairs singing out of tune with a cockney accent o wont we have a merry time drinking whisky beer and wine! on coronation coronation day! o wont we have a merry time on coronation day! warm sunshine merrying over the <EOS>	4.731238862790065
+<SOS> <SOS> <SOS> the nickel shavingbowl shone forgotten on the <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> why should i bring it<EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> or leave it there all day forgotten<EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> he went over to it held it in his hands awhile feeling its coolness smelling the clammy slaver of the lather in which the brush was <EOS>	4.397555720525408
+<SOS> <SOS> <SOS> so i carried the boat of incense then at <EOS>	3.546118885587792
+<SOS> <SOS> <SOS> i am another now and yet the <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> a servant <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> a server of a <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> in the gloomy domed livingroom of the tower buck mulligans gowned form moved briskly to and fro about the hearth hiding and revealing its yellow <EOS>	4.3726723842096575
+<SOS> <SOS> <SOS> two shafts of soft daylight fell across the flagged floor from the high barbacans and at the meeting of their rays a cloud of coalsmoke and fumes of fried grease floated <EOS>	4.502161346550516
+<SOS> <SOS> <SOS> well be choked buck mulligan <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> haines open that door will<EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> a tall figure rose from the hammock where it had been sitting went to the doorway and pulled open the inner <EOS>	4.255178328239177
+<SOS> <SOS> <SOS> have you the<EOS>	2.276877363775991
+<SOS> <SOS> <SOS> a voice <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> dedalus has it buck mulligan <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> janey mack im choked! he howled without looking up from the fire kinch! its in the lock stephen said coming <EOS>	4.2203101565380825
+<SOS> <SOS> <SOS> the key scraped round harshly twice and when the heavy door had been set ajar welcome light and bright air <EOS>	4.2203101565380825
+<SOS> <SOS> <SOS> haines stood at the doorway looking <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> stephen haled his upended valise to the table and sat down to <EOS>	3.807824414729749
+<SOS> <SOS> <SOS> buck mulligan tossed the fry on to the dish beside <EOS>	3.643625385151988
+<SOS> <SOS> <SOS> then he carried the dish and a large teapot over to the table set them down heavily and sighed with <EOS>	4.2203101565380825
+<SOS> <SOS> <SOS> im melting he said as the candle remarked when..<EOS>	3.4356543087122065
+<SOS> <SOS> <SOS> but hush! not a word more on that subject! kinch wake up! bread butter <EOS>	3.940633688064753
+<SOS> <SOS> <SOS> haines come <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> the grub is <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> bless us o lord and these thy <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> wheres the<EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> o jay theres no <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> stephen fetched the loaf and the pot of honey and the buttercooler from the <EOS>	3.940633688064753
+<SOS> <SOS> <SOS> buck mulligan sat down in a sudden <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> what sort of a kip is<EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> he <EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> i told her to come after <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> we can drink it black stephen said <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> theres a lemon in the <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> o damn you and your paris fads! buck mulligan <EOS>	3.546118885587792
+<SOS> <SOS> <SOS> i want sandycove <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> haines came in from the doorway and said quietly that woman is coming up with the <EOS>	4.050208558869719
+<SOS> <SOS> <SOS> the blessings of god on you! buck mulligan cried jumping up from his <EOS>	3.877567852589526
+<SOS> <SOS> <SOS> sit <EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> pour out the tea <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> the sugar is in the <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> here i cant go fumbling at the damned <EOS>	3.4356543087122065
+<SOS> <SOS> <SOS> he hacked through the fry on the dish and slapped it out on three plates saying _in nomine patris et filii et spiritus sancti._ haines sat down to pour out the <EOS>	4.502161346550516
+<SOS> <SOS> <SOS> im giving you two lumps each he <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> but i say mulligan you do make strong tea dont<EOS>	3.546118885587792
+<SOS> <SOS> <SOS> buck mulligan hewing thick slices from the loaf said in an old womans wheedling voice when i makes tea i makes tea as old mother grogan <EOS>	4.397555720525408
+<SOS> <SOS> <SOS> and when i makes water i makes <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> by jove it is tea haines <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> buck mulligan went on hewing and wheedling _so i do mrs cahill_ says <EOS>	3.877567852589526
+<SOS> <SOS> <SOS> _begob maam_ says mrs cahill _god send you dont make them in the one pot._ he lunged towards his messmates in turn a thick slice of bread impaled on his <EOS>	4.483522386273069
+<SOS> <SOS> <SOS> thats folk he said very earnestly for your book <EOS>	3.546118885587792
+<SOS> <SOS> <SOS> five lines of text and ten pages of notes about the folk and the fishgods of <EOS>	4.050208558869719
+<SOS> <SOS> <SOS> printed by the weird sisters in the year of the big <EOS>	3.730297104315393
+<SOS> <SOS> <SOS> he turned to stephen and asked in a fine puzzled voice lifting his brows can you recall brother is mother grogans tea and water pot spoken of in the mabinogion or is it in the<EOS>	4.5525762725937176
+<SOS> <SOS> <SOS> i doubt it said stephen <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> do you<EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> buck mulligan said in the same <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> your reasons<EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> i fancy stephen said as he ate it did not exist in or out of the <EOS>	4.050208558869719
+<SOS> <SOS> <SOS> mother grogan was one imagines a kinswoman of mary <EOS>	3.546118885587792
+<SOS> <SOS> <SOS> buck mulligans face smiled with <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> charming! he said in a finical sweet voice showing his white teeth and blinking his eyes <EOS>	4.050208558869719
+<SOS> <SOS> <SOS> quite charming! then suddenly overclouding all his features he growled in a hoarsened rasping voice as he hewed again vigorously at the loaf _for old mary ann she doesnt care a <EOS>	4.502161346550516
+<SOS> <SOS> <SOS> but hising up her petticoats..._ he crammed his mouth with fry and munched and <EOS>	3.940633688064753
+<SOS> <SOS> <SOS> the doorway was darkened by an entering <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> the milk sir! come in maam mulligan <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> kinch get the <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> an old woman came forward and stood by stephens <EOS>	3.546118885587792
+<SOS> <SOS> <SOS> thats a lovely morning sir she <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> glory be to <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> to<EOS>	1.5089325245934595
+<SOS> <SOS> <SOS> mulligan said glancing at <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> ah to be sure! stephen reached back and took the milkjug from the <EOS>	3.877567852589526
+<SOS> <SOS> <SOS> the islanders mulligan said to haines casually speak frequently of the collector of <EOS>	3.877567852589526
+<SOS> <SOS> <SOS> how much<EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> asked the old <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> a quart stephen <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> he watched her pour into the measure and thence into the jug rich white milk not <EOS>	4.050208558869719
+<SOS> <SOS> <SOS> old shrunken <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> old and secret she had entered from a morning world maybe a <EOS>	3.807824414729749
+<SOS> <SOS> <SOS> she praised the goodness of the milk pouring it <EOS>	3.546118885587792
+<SOS> <SOS> <SOS> crouching by a patient cow at daybreak in the lush field a witch on her toadstool her wrinkled fingers quick at the squirting <EOS>	4.3178790220421535
+<SOS> <SOS> <SOS> they lowed about her whom they knew dewsilky <EOS>	3.4356543087122065
+<SOS> <SOS> <SOS> silk of the kine and poor old woman names given her in old <EOS>	3.877567852589526
+<SOS> <SOS> <SOS> a wandering crone lowly form of an immortal serving her conqueror and her gay betrayer their common cuckquean a messenger from the secret <EOS>	4.3178790220421535
+<SOS> <SOS> <SOS> to serve or to upbraid whether he could not tell but scorned to beg her <EOS>	3.9979299676086484
+<SOS> <SOS> <SOS> it is indeed maam buck mulligan said pouring milk into their <EOS>	3.730297104315393
+<SOS> <SOS> <SOS> taste it sir she <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> he drank at her <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> if we could live on good food like that he said to her somewhat loudly we wouldnt have the country full of rotten teeth and rotten <EOS>	4.397555720525408
+<SOS> <SOS> <SOS> living in a bogswamp eating cheap food and the streets paved with dust horsedung and consumptives <EOS>	4.050208558869719
+<SOS> <SOS> <SOS> are you a medical student<EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> the old woman <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> i am maam buck mulligan <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> look at that now she <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> stephen listened in scornful <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> she bows her old head to a voice that speaks to her loudly her bonesetter her medicineman me she <EOS>	4.182733960802633
+<SOS> <SOS> <SOS> to the voice that will shrive and oil for the grave all there is of her but her womans unclean loins of mans flesh made not in gods likeness the serpents <EOS>	4.502161346550516
+<SOS> <SOS> <SOS> and to the loud voice that now bids her be silent with wondering unsteady <EOS>	3.940633688064753
+<SOS> <SOS> <SOS> do you understand what he<EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> stephen asked <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> is it french you are talking<EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> the old woman said to <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> haines spoke to her again a longer speech <EOS>	3.4356543087122065
+<SOS> <SOS> <SOS> irish buck mulligan <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> is there gaelic on<EOS>	2.560873696443578
+<SOS> <SOS> <SOS> i thought it was irish she said by the sound of <EOS>	3.730297104315393
+<SOS> <SOS> <SOS> are you from the west<EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> i am an englishman haines <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> sure we ought to the old woman said and im ashamed i dont speak the language <EOS>	4.050208558869719
+<SOS> <SOS> <SOS> im told its a grand language by them that <EOS>	3.546118885587792
+<SOS> <SOS> <SOS> grand is no name for it said buck <EOS>	3.4356543087122065
+<SOS> <SOS> <SOS> wonderful <EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> fill us out some more tea <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> would you like a cup<EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> no thank you sir the old woman said slipping the ring of the milkcan on her forearm and about to <EOS>	4.2203101565380825
+<SOS> <SOS> <SOS> haines said to her have you your<EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> we had better pay her mulligan hadnt<EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> stephen filled again the three <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> bill<EOS>	1.5089325245934595
+<SOS> <SOS> <SOS> she said <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> well its seven mornings a pint at twopence is seven twos is a shilling and twopence over and these three mornings a quart at fourpence is three quarts is a <EOS>	4.483522386273069
+<SOS> <SOS> <SOS> thats a shilling and one and two is two and two <EOS>	3.730297104315393
+<SOS> <SOS> <SOS> buck mulligan sighed and having filled his mouth with a crust thickly buttered on both sides stretched forth his legs and began to search his trouser <EOS>	4.397555720525408
+<SOS> <SOS> <SOS> pay up and look pleasant haines said to him <EOS>	3.546118885587792
+<SOS> <SOS> <SOS> stephen filled a third cup a spoonful of tea colouring faintly the thick rich <EOS>	3.940633688064753
+<SOS> <SOS> <SOS> buck mulligan brought up a florin twisted it round in his fingers and cried a miracle! he passed it along the table towards the old woman saying ask nothing more of me <EOS>	4.519835952101779
+<SOS> <SOS> <SOS> all i can give you i <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> stephen laid the coin in her uneager <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> well owe twopence he <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> time enough sir she said taking the <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> time <EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> she curtseyed and went out followed by buck mulligans tender chant _heart of my heart were it more more would be laid at your feet._ he turned to stephen and said seriously <EOS>	4.519835952101779
+<SOS> <SOS> <SOS> im <EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> hurry out to your school kip and bring us back some <EOS>	3.730297104315393
+<SOS> <SOS> <SOS> today the bards must drink and <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> ireland expects that every man this day will do his <EOS>	3.643625385151988
+<SOS> <SOS> <SOS> that reminds me haines said rising that i have to visit your national library <EOS>	3.940633688064753
+<SOS> <SOS> <SOS> our swim first buck mulligan <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> he turned to stephen and asked blandly is this the day for your monthly wash<EOS>	3.940633688064753
+<SOS> <SOS> <SOS> then he said to haines the unclean bard makes a point of washing once a <EOS>	3.9979299676086484
+<SOS> <SOS> <SOS> all ireland is washed by the gulfstream stephen said as he let honey trickle over a slice of the <EOS>	4.182733960802633
+<SOS> <SOS> <SOS> haines from the corner where he was knotting easily a scarf about the loose collar of his tennis shirt spoke i intend to make a collection of your sayings if you will let <EOS>	4.536619031495789
+<SOS> <SOS> <SOS> speaking to <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> they wash and tub and <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> yet heres a <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> that one about the cracked lookingglass of a servant being the symbol of irish art is deuced <EOS>	4.098097050363507
+<SOS> <SOS> <SOS> buck mulligan kicked stephens foot under the table and said with warmth of tone wait till you hear him on hamlet <EOS>	4.255178328239177
+<SOS> <SOS> <SOS> well i mean it haines said still speaking to <EOS>	3.546118885587792
+<SOS> <SOS> <SOS> i was just thinking of it when that poor old creature came <EOS>	3.807824414729749
+<SOS> <SOS> <SOS> would i make any money by<EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> stephen <EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> haines laughed and as he took his soft grey hat from the holdfast of the hammock said i dont know im <EOS>	4.255178328239177
+<SOS> <SOS> <SOS> he strolled out to the <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> buck mulligan bent across to stephen and said with coarse vigour you put your hoof in it <EOS>	4.098097050363507
+<SOS> <SOS> <SOS> what did you say that<EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> stephen <EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> the problem is to get <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> from<EOS>	1.5089325245934595
+<SOS> <SOS> <SOS> from the milkwoman or from <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> its a toss up i <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> i blow him out about you buck mulligan said and then you come along with your lousy leer and your gloomy jesuit <EOS>	4.2876199716614325
+<SOS> <SOS> <SOS> i see little hope stephen said from her or from <EOS>	3.643625385151988
+<SOS> <SOS> <SOS> buck mulligan sighed tragically and laid his hand on stephens <EOS>	3.643625385151988
+<SOS> <SOS> <SOS> from me kinch he <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> in a suddenly changed tone he added to tell you the gods truth i think youre <EOS>	4.050208558869719
+<SOS> <SOS> <SOS> damn all else they are good <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> why dont you play them as i<EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> to hell with them <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> let us get out of the <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> he stood up gravely ungirdled and disrobed himself of his gown saying resignedly mulligan is stripped of his <EOS>	4.142123214766831
+<SOS> <SOS> <SOS> he emptied his pockets on to the <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> theres your snotrag he <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> his hands plunged and rummaged in his trunk while he called for a clean <EOS>	3.940633688064753
+<SOS> <SOS> <SOS> god well simply have to dress the <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> i want puce gloves and green <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> do i contradict<EOS>	2.276877363775991
+<SOS> <SOS> <SOS> very well then i contradict <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> mercurial <EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> a limp black missile flew out of his talking <EOS>	3.546118885587792
+<SOS> <SOS> <SOS> and theres your latin quarter hat he <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> stephen picked it up and put it <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> haines called to them from the doorway are you coming you<EOS>	3.643625385151988
+<SOS> <SOS> <SOS> im ready buck mulligan answered going towards the <EOS>	3.4356543087122065
+<SOS> <SOS> <SOS> come out <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> you have eaten all we left i <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> resigned he passed out with grave words and gait saying wellnigh with sorrow and going forth he met <EOS>	4.142123214766831
+<SOS> <SOS> <SOS> stephen taking his ashplant from its leaningplace followed them out and as they went down the ladder pulled to the slow iron door and locked <EOS>	4.3726723842096575
+<SOS> <SOS> <SOS> he put the huge key in his inner <EOS>	3.4356543087122065
+<SOS> <SOS> <SOS> at the foot of the ladder buck mulligan asked did you bring the<EOS>	3.807824414729749
+<SOS> <SOS> <SOS> i have it stephen said preceding <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> he walked <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> behind him he heard buck mulligan club with his heavy bathtowel the leader shoots of ferns or <EOS>	4.098097050363507
+<SOS> <SOS> <SOS> down sir! how dare you sir! haines asked do you pay rent for this<EOS>	3.877567852589526
+<SOS> <SOS> <SOS> twelve quid buck mulligan <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> to the secretary of state for war stephen added over his <EOS>	3.730297104315393
+<SOS> <SOS> <SOS> they halted while haines surveyed the tower and said at last rather bleak in wintertime i should <EOS>	4.098097050363507
+<SOS> <SOS> <SOS> martello you call<EOS>	2.276877363775991
+<SOS> <SOS> <SOS> billy pitt had them built buck mulligan said when the french were on the <EOS>	3.940633688064753
+<SOS> <SOS> <SOS> but ours is the <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> what is your idea of<EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> haines asked <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> no no buck mulligan shouted in <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> im not equal to thomas aquinas and the fiftyfive reasons he has made out to prop it <EOS>	4.098097050363507
+<SOS> <SOS> <SOS> wait till i have a few pints in me <EOS>	3.546118885587792
+<SOS> <SOS> <SOS> it has waited so long stephen said listlessly it can wait <EOS>	3.730297104315393
+<SOS> <SOS> <SOS> you pique my curiosity haines said <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> is it some<EOS>	2.276877363775991
+<SOS> <SOS> <SOS> pooh! buck mulligan <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> we have grown out of wilde and <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> its quite <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> he proves by algebra that hamlets grandson is shakespeares grandfather and that he himself is the ghost of his own <EOS>	4.2203101565380825
+<SOS> <SOS> <SOS> what? haines said beginning to point at <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> buck mulligan slung his towel stolewise round his neck and bending in loose laughter said to stephens ear o shade of kinch the elder! japhet in search of a father! were always tired in the morning stephen said to <EOS>	4.621872213797281
+<SOS> <SOS> <SOS> and it is rather long to <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> buck mulligan walking forward again raised his <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> the sacred pint alone can unbind the tongue of dedalus he <EOS>	3.730297104315393
+<SOS> <SOS> <SOS> i mean to say haines explained to stephen as they followed this tower and these cliffs here remind me somehow of <EOS>	4.255178328239177
+<SOS> <SOS> <SOS> _that beetles oer his base into the sea_ isnt<EOS>	3.4356543087122065
+<SOS> <SOS> <SOS> buck mulligan turned suddenly for an instant towards stephen but did not <EOS>	3.807824414729749
+<SOS> <SOS> <SOS> in the bright silent instant stephen saw his own image in cheap dusty mourning between their gay <EOS>	4.098097050363507
+<SOS> <SOS> <SOS> its a wonderful tale haines said bringing them to halt <EOS>	3.643625385151988
+<SOS> <SOS> <SOS> eyes pale as the sea the wind had freshened paler firm and <EOS>	3.807824414729749
+<SOS> <SOS> <SOS> the seas ruler he gazed southward over the bay empty save for the smokeplume of the mailboat vague on the bright skyline and a sail tacking by the <EOS>	4.443018243606574
+<SOS> <SOS> <SOS> i read a theological interpretation of it somewhere he said <EOS>	3.643625385151988
+<SOS> <SOS> <SOS> the father and the son <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> the son striving to be atoned with the <EOS>	3.4356543087122065
+<SOS> <SOS> <SOS> buck mulligan at once put on a blithe broadly smiling <EOS>	3.643625385151988
+<SOS> <SOS> <SOS> he looked at them his wellshaped mouth open happily his eyes from which he had suddenly withdrawn all shrewd sense blinking with mad <EOS>	4.3178790220421535
+<SOS> <SOS> <SOS> he moved a dolls head to and fro the brims of his panama hat quivering and began to chant in a quiet happy foolish voice _im the queerest young fellow that ever you <EOS>	4.536619031495789
+<SOS> <SOS> <SOS> my mothers a jew my fathers a <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> with joseph the joiner i cannot <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> so heres to disciples and calvary._ he held up a forefinger of <EOS>	3.807824414729749
+<SOS> <SOS> <SOS> _if anyone thinks that i amnt divine hell get no free drinks when im making the wine but have to drink water and wish it were plain that i make when the wine becomes water again._ he tugged swiftly at stephens ashplant in farewell and running forward to a brow of the cliff fluttered his hands at his sides like fins or wings of one about to rise in the air and chanted _goodbye now goodbye! write down all i said and tell tom dick and harry i rose from the <EOS>	4.921646982013063
+<SOS> <SOS> <SOS> goodbye now goodbye!_ he capered before them down towards the fortyfoot hole fluttering his winglike hands leaping nimbly mercurys hat quivering in the fresh wind that bore back to them his brief birdsweet <EOS>	4.536619031495789
+<SOS> <SOS> <SOS> haines who had been laughing guardedly walked on beside stephen and said we oughtnt to laugh i <EOS>	4.098097050363507
+<SOS> <SOS> <SOS> hes rather <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> im not a believer myself that is to <EOS>	3.4356543087122065
+<SOS> <SOS> <SOS> still his gaiety takes the harm out of it somehow doesnt<EOS>	3.643625385151988
+<SOS> <SOS> <SOS> what did he call<EOS>	2.560873696443578
+<SOS> <SOS> <SOS> joseph the<EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> the ballad of joking jesus stephen <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> o haines said you have heard it<EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> youre not a believer are<EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> haines <EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> creation from nothing and miracles and a personal <EOS>	3.4356543087122065
+<SOS> <SOS> <SOS> theres only one sense of the word it seems to me stephen <EOS>	3.807824414729749
+<SOS> <SOS> <SOS> haines stopped to take out a smooth silver case in which twinkled a green <EOS>	3.940633688064753
+<SOS> <SOS> <SOS> he sprang it open with his thumb and offered <EOS>	3.546118885587792
+<SOS> <SOS> <SOS> thank you stephen said taking a <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> haines helped himself and snapped the case <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> yes of course he said as they went on <EOS>	3.546118885587792
+<SOS> <SOS> <SOS> either you believe or you dont isnt<EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> personally i couldnt stomach that idea of a personal <EOS>	3.546118885587792
+<SOS> <SOS> <SOS> you dont stand for that i<EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> you behold in me stephen said with grim displeasure a horrible example of free <EOS>	3.940633688064753
+<SOS> <SOS> <SOS> he walked on waiting to be spoken to trailing his ashplant by his <EOS>	3.877567852589526
+<SOS> <SOS> <SOS> its ferrule followed lightly on the path squealing at his <EOS>	3.643625385151988
+<SOS> <SOS> <SOS> my familiar after me calling steeeeeeeeeeeephen! a wavering line along the <EOS>	3.730297104315393
+<SOS> <SOS> <SOS> they will walk on it tonight coming here in the <EOS>	3.643625385151988
+<SOS> <SOS> <SOS> he wants that <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> it is <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> i paid the <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> now i eat his salt <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> give him the key <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> he will ask for <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> that was in his <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> after all haines began..<EOS>	2.560873696443578
+<SOS> <SOS> <SOS> stephen turned and saw that the cold gaze which had measured him was not all <EOS>	3.9979299676086484
+<SOS> <SOS> <SOS> after all i should think you are able to free <EOS>	3.643625385151988
+<SOS> <SOS> <SOS> you are your own master it seems to <EOS>	3.4356543087122065
+<SOS> <SOS> <SOS> i am a servant of two masters stephen said an english and an <EOS>	3.877567852589526
+<SOS> <SOS> <SOS> italian? haines <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> a crazy queen old and <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> kneel down before <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> and a third stephen said there is who wants me for odd <EOS>	3.807824414729749
+<SOS> <SOS> <SOS> italian? haines said <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> what do you<EOS>	2.276877363775991
+<SOS> <SOS> <SOS> the imperial british state stephen answered his colour rising and the holy roman catholic and apostolic <EOS>	4.050208558869719
+<SOS> <SOS> <SOS> haines detached from his underlip some fibres of tobacco before he <EOS>	3.730297104315393
+<SOS> <SOS> <SOS> i can quite understand that he said <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> an irishman must think like that i <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> we feel in england that we have treated you rather <EOS>	3.643625385151988
+<SOS> <SOS> <SOS> it seems history is to <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> the proud potent titles clanged over stephens memory the triumph of their brazen bells _et unam sanctam catholicam et apostolicam ecclesiam_ the slow growth and change of rite and dogma like his own rare thoughts a chemistry of <EOS>	4.609255249630315
+<SOS> <SOS> <SOS> symbol of the apostles in the mass for pope marcellus the voices blended singing alone loud in affirmation and behind their chant the vigilant angel of the church militant disarmed and menaced her <EOS>	4.536619031495789
+<SOS> <SOS> <SOS> a horde of heresies fleeing with mitres awry photius and the brood of mockers of whom mulligan was one and arius warring his life long upon the consubstantiality of the son with the father and valentine spurning christs terrene body and the subtle african heresiarch sabellius who held that the father was himself his own <EOS>	4.768037413756809
+<SOS> <SOS> <SOS> words mulligan had spoken a moment since in mockery to the <EOS>	3.730297104315393
+<SOS> <SOS> <SOS> idle <EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> the void awaits surely all them that weave the wind a menace a disarming and a worsting from those embattled angels of the church michaels host who defend her ever in the hour of conflict with their lances and their <EOS>	4.633947895723362
+<SOS> <SOS> <SOS> hear hear! prolonged <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> _zut! nom de dieu!_ of course im a britisher hainess voice said and i feel as <EOS>	4.050208558869719
+<SOS> <SOS> <SOS> i dont want to see my country fall into the hands of german jews <EOS>	3.940633688064753
+<SOS> <SOS> <SOS> two men stood at the verge of the cliff watching businessman <EOS>	3.730297104315393
+<SOS> <SOS> <SOS> the boatman nodded towards the north of the bay with some <EOS>	3.730297104315393
+<SOS> <SOS> <SOS> theres five fathoms out there he <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> itll be swept up that way when the tide comes in about <EOS>	3.807824414729749
+<SOS> <SOS> <SOS> its nine days <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> the man that was <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> a sail veering about the blank bay waiting for a swollen bundle to bob up roll over to the sun a puffy face <EOS>	4.3178790220421535
+<SOS> <SOS> <SOS> here i <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> they followed the winding path down to the <EOS>	3.4356543087122065
+<SOS> <SOS> <SOS> buck mulligan stood on a stone in shirtsleeves his unclipped tie rippling over his <EOS>	3.940633688064753
+<SOS> <SOS> <SOS> a young man clinging to a spur of rock near him moved slowly frogwise his green legs in the deep jelly of the <EOS>	4.3178790220421535
+<SOS> <SOS> <SOS> is the brother with you<EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> down in <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> with the <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> still<EOS>	1.5089325245934595
+<SOS> <SOS> <SOS> i got a card from <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> says he found a sweet young thing down <EOS>	3.4356543087122065
+<SOS> <SOS> <SOS> photo girl he calls <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> snapshot<EOS>	1.5089325245934595
+<SOS> <SOS> <SOS> brief <EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> buck mulligan sat down to unlace his <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> an elderly man shot up near the spur of rock a blowing red <EOS>	3.877567852589526
+<SOS> <SOS> <SOS> he scrambled up by the stones water glistening on his pate and on its garland of grey hair water rilling over his chest and paunch and spilling jets out of his black sagging <EOS>	4.536619031495789
+<SOS> <SOS> <SOS> buck mulligan made way for him to scramble past and glancing at haines and stephen crossed himself piously with his thumbnail at brow and lips and <EOS>	4.397555720525408
+<SOS> <SOS> <SOS> seymours back in town the young man said grasping again his spur of <EOS>	3.877567852589526
+<SOS> <SOS> <SOS> chucked medicine and going in for the <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> ah go to god! buck mulligan <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> going over next week to <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> you know that red carlisle girl<EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> <EOS>	1.5089325245934595
+<SOS> <SOS> <SOS> spooning with him last night on the <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> the father is rotto with <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> is she up the<EOS>	2.560873696443578
+<SOS> <SOS> <SOS> better ask seymour <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> seymour a bleeding officer! buck mulligan <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> he nodded to himself as he drew off his trousers and stood up saying tritely redheaded women buck like <EOS>	4.182733960802633
+<SOS> <SOS> <SOS> he broke off in alarm feeling his side under his flapping <EOS>	3.730297104315393
+<SOS> <SOS> <SOS> my twelfth rib is gone he <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> im the _übermensch._ toothless kinch and i the <EOS>	3.4356543087122065
+<SOS> <SOS> <SOS> he struggled out of his shirt and flung it behind him to where his clothes <EOS>	3.9979299676086484
+<SOS> <SOS> <SOS> are you going in here<EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> <EOS>	1.5089325245934595
+<SOS> <SOS> <SOS> make room in the <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> the young man shoved himself backward through the water and reached the middle of the creek in two long clean <EOS>	4.2203101565380825
+<SOS> <SOS> <SOS> haines sat down on a stone <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> are you not coming<EOS>	2.560873696443578
+<SOS> <SOS> <SOS> later on haines <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> not on my <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> stephen turned <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> im going mulligan he <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> give us that key kinch buck mulligan said to keep my chemise <EOS>	3.807824414729749
+<SOS> <SOS> <SOS> stephen handed him the <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> buck mulligan laid it across his heaped <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> and twopence he said for a <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> throw it <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> stephen threw two pennies on the soft <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> dressing <EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> thus spake <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> his plump body <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> well see you again haines said turning as stephen walked up the path and smiling at wild <EOS>	4.098097050363507
+<SOS> <SOS> <SOS> horn of a bull hoof of a horse smile of a <EOS>	3.730297104315393
+<SOS> <SOS> <SOS> the ship buck mulligan <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> half <EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> good stephen <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> he walked along the upwardcurving <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> liliata <EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> turma <EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> iubilantium te <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> the priests grey nimbus in a niche where he dressed <EOS>	3.643625385151988
+<SOS> <SOS> <SOS> i will not sleep here <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> home also i cannot <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> a voice sweettoned and sustained called to him from the <EOS>	3.643625385151988
+<SOS> <SOS> <SOS> turning the curve he waved his <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> it called <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> a sleek brown head a seals far out on the water <EOS>	3.730297104315393
+<SOS> <SOS> <SOS> NUM you cochrane what city sent for<EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> tarentum <EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> very <EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> well? there was a battle <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> very <EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> where? the boys blank face asked the blank <EOS>	3.4356543087122065
+<SOS> <SOS> <SOS> and yet it was in some way if not as memory fabled <EOS>	3.807824414729749
+<SOS> <SOS> <SOS> a phrase then of impatience thud of blakes wings of <EOS>	3.643625385151988
+<SOS> <SOS> <SOS> whats left us<EOS>	2.276877363775991
+<SOS> <SOS> <SOS> i forget the place <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> NUM <EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> asculum stephen said glancing at the name and date in the gorescarred <EOS>	3.807824414729749
+<SOS> <SOS> <SOS> yes <EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> a dull ease of the <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> from a hill above a corpsestrewn plain a general speaking to his officers leaned upon his <EOS>	4.050208558869719
+<SOS> <SOS> <SOS> any general to any <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> they lend <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> you armstrong stephen <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> what was the end of<EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> end of pyrrhus<EOS>	2.276877363775991
+<SOS> <SOS> <SOS> i know <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> you <EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> do you know anything about<EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> a bag of figrolls lay snugly in armstrongs <EOS>	3.4356543087122065
+<SOS> <SOS> <SOS> crumbs adhered to the tissue of his <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> a sweetened boys <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> welloff people proud that their eldest son was in the <EOS>	3.643625385151988
+<SOS> <SOS> <SOS> vico road <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> pyrrhus<EOS>	1.5089325245934595
+<SOS> <SOS> <SOS> pyrrhus a <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> all <EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> mirthless high malicious <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> armstrong looked round at his classmates silly glee in <EOS>	3.546118885587792
+<SOS> <SOS> <SOS> in a moment they will laugh more loudly aware of my lack of rule and of the fees their papas <EOS>	4.2203101565380825
+<SOS> <SOS> <SOS> tell me now stephen said poking the boys shoulder with the book what is a <EOS>	3.9979299676086484
+<SOS> <SOS> <SOS> a pier sir armstrong <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> a thing out in the <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> a kind of a <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> kingstown pier <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> some laughed again mirthless but with <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> two in the back bench <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> they knew had never learned nor ever been <EOS>	3.4356543087122065
+<SOS> <SOS> <SOS> with envy he watched their faces edith ethel gerty <EOS>	3.546118885587792
+<SOS> <SOS> <SOS> their likes their breaths too sweetened with tea and jam their bracelets tittering in the <EOS>	3.9979299676086484
+<SOS> <SOS> <SOS> kingstown pier stephen <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> yes a disappointed <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> the words troubled their <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> how<EOS>	1.5089325245934595
+<SOS> <SOS> <SOS> comyn <EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> a bridge is across a <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> for hainess <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> noone here to <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> tonight deftly amid wild drink and talk to pierce the polished mail of his <EOS>	3.940633688064753
+<SOS> <SOS> <SOS> what<EOS>	1.5089325245934595
+<SOS> <SOS> <SOS> a jester at the court of his master indulged and disesteemed winning a clement masters <EOS>	3.9979299676086484
+<SOS> <SOS> <SOS> why had they chosen all that<EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> not wholly for the smooth <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> for them too history was a tale like any other too often heard their land a <EOS>	4.050208558869719
+<SOS> <SOS> <SOS> had pyrrhus not fallen by a beldams hand in argos or julius caesar not been knifed to <EOS>	4.098097050363507
+<SOS> <SOS> <SOS> they are not to be thought <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> time has branded them and fettered they are lodged in the room of the infinite possibilities they have <EOS>	4.142123214766831
+<SOS> <SOS> <SOS> but can those have been possible seeing that they never<EOS>	3.546118885587792
+<SOS> <SOS> <SOS> or was that only possible which came to<EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> weave weaver of the <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> tell us a story <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> o do <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> a <EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> where do you begin in<EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> stephen asked opening another <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> _weep no more_ comyn <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> go on then <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> and the story<EOS>	2.276877363775991
+<SOS> <SOS> <SOS> after stephen <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> go on <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> a swarthy boy opened a book and propped it nimbly under the breastwork of his <EOS>	3.9979299676086484
+<SOS> <SOS> <SOS> he recited jerks of verse with odd glances at the text _weep no more woful shepherds weep no more for lycidas your sorrow is not dead sunk though he be beneath the watery floor..._ it must be a movement then an actuality of the possible as <EOS>	4.696761659672698
+<SOS> <SOS> <SOS> aristotles phrase formed itself within the gabbled verses and floated out into the studious silence of the library of saint genevieve where he had read sheltered from the sin of paris night by <EOS>	4.536619031495789
+<SOS> <SOS> <SOS> by his elbow a delicate siamese conned a handbook of <EOS>	3.643625385151988
+<SOS> <SOS> <SOS> fed and feeding brains about me under glowlamps impaled with faintly beating feelers and in my minds darkness a sloth of the underworld reluctant shy of brightness shifting her dragon scaly <EOS>	4.502161346550516
+<SOS> <SOS> <SOS> thought is the thought of <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> tranquil <EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> the soul is in a manner all that is the soul is the form of <EOS>	3.9979299676086484
+<SOS> <SOS> <SOS> tranquility sudden vast candescent form of <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> talbot repeated _through the dear might of him that walked the waves through the dear might..._ turn over stephen said <EOS>	4.2203101565380825
+<SOS> <SOS> <SOS> i dont see <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> what<EOS>	1.5089325245934595
+<SOS> <SOS> <SOS> talbot asked simply bending <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> his hand turned the page <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> he leaned back and went on again having just <EOS>	3.546118885587792
+<SOS> <SOS> <SOS> of him that walked the <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> here also over these craven hearts his shadow lies and on the scoffers heart and lips and on <EOS>	4.142123214766831
+<SOS> <SOS> <SOS> it lies upon their eager faces who offered him a coin of the <EOS>	3.877567852589526
+<SOS> <SOS> <SOS> to caesar what is caesars to god what is <EOS>	3.546118885587792
+<SOS> <SOS> <SOS> a long look from dark eyes a riddling sentence to be woven and woven on the churchs <EOS>	4.098097050363507
+<SOS> <SOS> <SOS> riddle me riddle me randy <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> my father gave me seeds to <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> talbot slid his closed book into his <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> have i heard<EOS>	2.276877363775991
+<SOS> <SOS> <SOS> stephen <EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> yes <EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> hockey at ten <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> half day <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> stephen <EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> they bundled their books away pencils clacking pages <EOS>	3.4356543087122065
+<SOS> <SOS> <SOS> crowding together they strapped and buckled their satchels all gabbling gaily a riddle<EOS>	3.807824414729749
+<SOS> <SOS> <SOS> ask me <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> o ask me <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> a hard one <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> this is the riddle stephen said the cock crew the sky was blue the bells in heaven were striking <EOS>	4.182733960802633
+<SOS> <SOS> <SOS> tis time for this poor soul to go to <EOS>	3.546118885587792
+<SOS> <SOS> <SOS> what is<EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> what<EOS>	1.5089325245934595
+<SOS> <SOS> <SOS> again <EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> we didnt <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> their eyes grew bigger as the lines were <EOS>	3.4356543087122065
+<SOS> <SOS> <SOS> after a silence cochrane said what is it<EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> we give it <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> stephen his throat itching answered the fox burying his grandmother under a <EOS>	3.807824414729749
+<SOS> <SOS> <SOS> he stood up and gave a shout of nervous laughter to which their cries echoed <EOS>	3.9979299676086484
+<SOS> <SOS> <SOS> a stick struck the door and a voice in the corridor called hockey! they broke asunder sidling out of their benches leaping <EOS>	4.2876199716614325
+<SOS> <SOS> <SOS> quickly they were gone and from the lumberroom came the rattle of sticks and clamour of their boots and <EOS>	4.182733960802633
+<SOS> <SOS> <SOS> sargent who alone had lingered came forward slowly showing an open <EOS>	3.730297104315393
+<SOS> <SOS> <SOS> his tangled hair and scraggy neck gave witness of unreadiness and through his misty glasses weak eyes looked up <EOS>	4.182733960802633
+<SOS> <SOS> <SOS> on his cheek dull and bloodless a soft stain of ink lay dateshaped recent and damp as a snails <EOS>	4.182733960802633
+<SOS> <SOS> <SOS> he held out his <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> the word _sums_ was written on the <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> beneath were sloping figures and at the foot a crooked signature with blind loops and a <EOS>	4.050208558869719
+<SOS> <SOS> <SOS> cyril sargent his name and <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> stephen touched the edges of the <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> do you understand how to do them<EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> he <EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> numbers eleven to fifteen sargent <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> mr deasy said i was to copy them off the board <EOS>	3.730297104315393
+<SOS> <SOS> <SOS> can you do them<EOS>	2.560873696443578
+<SOS> <SOS> <SOS> stephen <EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> no <EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> ugly and futile lean neck and tangled hair and a stain of ink a snails <EOS>	3.9979299676086484
+<SOS> <SOS> <SOS> yet someone had loved him borne him in her arms and in her <EOS>	3.877567852589526
+<SOS> <SOS> <SOS> but for her the race of the world would have trampled him underfoot a squashed boneless <EOS>	4.050208558869719
+<SOS> <SOS> <SOS> she had loved his weak watery blood drained from her <EOS>	3.643625385151988
+<SOS> <SOS> <SOS> was that then<EOS>	2.276877363775991
+<SOS> <SOS> <SOS> the only true thing in<EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> she was no more the trembling skeleton of a twig burnt in the fire an odour of rosewood and wetted <EOS>	4.2203101565380825
+<SOS> <SOS> <SOS> a poor soul gone to heaven and on a heath beneath winking stars a fox red reek of rapine in his fur with merciless bright eyes scraped in the earth listened scraped up the earth listened scraped and <EOS>	4.609255249630315
+<SOS> <SOS> <SOS> sitting at his side stephen solved out the <EOS>	3.4356543087122065
+<SOS> <SOS> <SOS> he proves by algebra that shakespeares ghost is hamlets <EOS>	3.546118885587792
+<SOS> <SOS> <SOS> sargent peered askance through his slanted <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> hockeysticks rattled in the lumberroom the hollow knock of a ball and calls from the <EOS>	3.9979299676086484
+<SOS> <SOS> <SOS> across the page the symbols moved in grave morrice in the mummery of their letters wearing quaint caps of squares and <EOS>	4.255178328239177
+<SOS> <SOS> <SOS> give hands traverse bow to partner so imps of fancy of the <EOS>	3.807824414729749
+<SOS> <SOS> <SOS> do you understand<EOS>	2.276877363775991
+<SOS> <SOS> <SOS> can you work the second for<EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> yes <EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> in long shaky strokes sargent copied the <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> waiting always for a word of help his hand moved faithfully the unsteady symbols a faint hue of shame flickering behind his dull <EOS>	4.3178790220421535
+<SOS> <SOS> <SOS> _amor matris_ subjective and objective <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> with her weak blood and wheysour milk she had fed him and hid from sight of others his swaddling <EOS>	4.182733960802633
+<SOS> <SOS> <SOS> like him was i these sloping shoulders this <EOS>	3.4356543087122065
+<SOS> <SOS> <SOS> my childhood bends beside <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> too far for me to lay a hand there once or <EOS>	3.730297104315393
+<SOS> <SOS> <SOS> secrets silent stony sit in the dark palaces of both our hearts secrets weary of their tyranny tyrants willing to be <EOS>	4.255178328239177
+<SOS> <SOS> <SOS> the sum was <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> it is very simple stephen said as he stood <EOS>	3.546118885587792
+<SOS> <SOS> <SOS> yes <EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> thanks sargent <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> you had better get your stick and go out to the others stephen said as he followed towards the door the boys graceless <EOS>	4.3178790220421535
+<SOS> <SOS> <SOS> yes <EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> in the corridor his name was heard called from the <EOS>	3.643625385151988
+<SOS> <SOS> <SOS> sargent! run on stephen <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> mr deasy is calling <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> he stood in the porch and watched the laggard hurry towards the scrappy field where sharp voices were in <EOS>	4.182733960802633
+<SOS> <SOS> <SOS> they were sorted in teams and mr deasy came away stepping over wisps of grass with gaitered <EOS>	4.098097050363507
+<SOS> <SOS> <SOS> when he had reached the schoolhouse voices again contending called to <EOS>	3.730297104315393
+<SOS> <SOS> <SOS> he turned his angry white <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> what is it<EOS>	2.276877363775991
+<SOS> <SOS> <SOS> he cried continually without <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> cochrane and halliday are on the same side sir stephen <EOS>	3.643625385151988
+<SOS> <SOS> <SOS> will you wait in my study for a moment mr deasy said till i restore order <EOS>	4.050208558869719
+<SOS> <SOS> <SOS> and as he stepped fussily back across the field his old mans voice cried sternly what is the<EOS>	4.098097050363507
+<SOS> <SOS> <SOS> what is it<EOS>	2.276877363775991
+<SOS> <SOS> <SOS> their sharp voices cried about him on all sides their many forms closed round him the garish sunshine bleaching the honey of his illdyed <EOS>	4.346167891704427
+<SOS> <SOS> <SOS> stale smoky air hung in the study with the smell of drab abraded leather of its <EOS>	4.050208558869719
+<SOS> <SOS> <SOS> as on the first day he bargained with me <EOS>	3.546118885587792
+<SOS> <SOS> <SOS> as it was in the beginning is <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> on the sideboard the tray of stuart coins base treasure of a bog and ever shall <EOS>	4.050208558869719
+<SOS> <SOS> <SOS> and snug in their spooncase of purple plush faded the twelve apostles having preached to all the gentiles world without <EOS>	4.2203101565380825
+<SOS> <SOS> <SOS> blowing out his rare moustache mr deasy halted at the <EOS>	3.643625385151988
+<SOS> <SOS> <SOS> first our little financial settlement he <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> he brought out of his coat a pocketbook bound by a leather <EOS>	3.807824414729749
+<SOS> <SOS> <SOS> it slapped open and he took from it two notes one of joined halves and laid them carefully on the <EOS>	4.2203101565380825
+<SOS> <SOS> <SOS> two he said strapping and stowing his pocketbook <EOS>	3.4356543087122065
+<SOS> <SOS> <SOS> and now his strongroom for the <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> stephens embarrassed hand moved over the shells heaped in the cold stone mortar whelks and money cowries and leopard shells and this whorled as an emirs turban and this the scallop of saint <EOS>	4.536619031495789
+<SOS> <SOS> <SOS> an old pilgrims hoard dead treasure hollow <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> a sovereign fell bright and new on the soft pile of the <EOS>	3.807824414729749
+<SOS> <SOS> <SOS> these are handy things to <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> this is for <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> this is for <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> sixpences <EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> and here <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> he shot from it two crowns and two <EOS>	3.4356543087122065
+<SOS> <SOS> <SOS> three twelve he <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> i think youll find thats <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> thank you sir stephen said gathering the money together with shy haste and putting it all in a pocket of his <EOS>	4.255178328239177
+<SOS> <SOS> <SOS> no thanks at all mr deasy <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> you have earned <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> stephens hand free again went back to the hollow <EOS>	3.546118885587792
+<SOS> <SOS> <SOS> symbols too of beauty and of <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> a lump in my pocket symbols soiled by greed and <EOS>	3.643625385151988
+<SOS> <SOS> <SOS> dont carry it like that mr deasy <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> youll pull it out somewhere and lose <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> you just buy one of these <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> youll find them very <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> answer <EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> mine would be often empty stephen <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> the same room and hour the same wisdom and i the <EOS>	3.730297104315393
+<SOS> <SOS> <SOS> three times <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> three nooses round me <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> well? i can break them in this instant if i <EOS>	3.643625385151988
+<SOS> <SOS> <SOS> because you dont save mr deasy said pointing his <EOS>	3.546118885587792
+<SOS> <SOS> <SOS> you dont know yet what money <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> money is <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> when you have lived as long as i <EOS>	3.4356543087122065
+<SOS> <SOS> <SOS> i know i <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> but what does shakespeare<EOS>	2.560873696443578
+<SOS> <SOS> <SOS> _put but money in thy purse._ iago stephen <EOS>	3.4356543087122065
+<SOS> <SOS> <SOS> he lifted his gaze from the idle shells to the old mans <EOS>	3.807824414729749
+<SOS> <SOS> <SOS> he knew what money was mr deasy <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> he made <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> a poet yes but an englishman <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> do you know what is the pride of the<EOS>	3.4356543087122065
+<SOS> <SOS> <SOS> do you know what is the proudest word you will ever hear from an englishmans<EOS>	3.940633688064753
+<SOS> <SOS> <SOS> the seas <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> his seacold eyes looked on the empty bay it seems history is to blame on me and on my words <EOS>	4.2203101565380825
+<SOS> <SOS> <SOS> that on his empire stephen said the sun never <EOS>	3.546118885587792
+<SOS> <SOS> <SOS> ba! mr deasy <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> thats not <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> a french celt said <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> he tapped his savingsbox against his <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> i will tell you he said solemnly what is his proudest <EOS>	3.730297104315393
+<SOS> <SOS> <SOS> _i paid my way._ good man good <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> _i paid my <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> i never borrowed a shilling in my life._ can you feel<EOS>	3.643625385151988
+<SOS> <SOS> <SOS> _i owe nothing._ can<EOS>	2.560873696443578
+<SOS> <SOS> <SOS> fred ryan two <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> temple two <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> russell one guinea cousins ten shillings bob reynolds half a guinea koehler three guineas mrs mackernan five weeks <EOS>	4.142123214766831
+<SOS> <SOS> <SOS> the lump i have is <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> for the moment no stephen <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> mr deasy laughed with rich delight putting back his <EOS>	3.546118885587792
+<SOS> <SOS> <SOS> i knew you couldnt he said <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> but one day you must feel <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> we are a generous people but we must also be <EOS>	3.643625385151988
+<SOS> <SOS> <SOS> i fear those big words stephen said which make us so <EOS>	3.730297104315393
+<SOS> <SOS> <SOS> mr deasy stared sternly for some moments over the mantelpiece at the shapely bulk of a man in tartan fillibegs albert edward prince of <EOS>	4.346167891704427
+<SOS> <SOS> <SOS> you think me an old fogey and an old tory his thoughtful voice <EOS>	3.877567852589526
+<SOS> <SOS> <SOS> i saw three generations since oconnells <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> i remember the famine in <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> do you know that the orange lodges agitated for repeal of the union twenty years before oconnell did or before the prelates of your communion denounced him as a<EOS>	4.443018243606574
+<SOS> <SOS> <SOS> you fenians forget some <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> glorious pious and immortal <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> the lodge of diamond in armagh the splendid behung with corpses of <EOS>	3.807824414729749
+<SOS> <SOS> <SOS> hoarse masked and armed the planters <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> the black north and true blue <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> croppies lie <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> stephen sketched a brief <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> i have rebel blood in me too mr deasy <EOS>	3.546118885587792
+<SOS> <SOS> <SOS> on the spindle <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> but i am descended from sir john blackwood who voted for the <EOS>	3.807824414729749
+<SOS> <SOS> <SOS> we are all irish all kings <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> alas stephen <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> _per vias rectas_ mr deasy said firmly was his <EOS>	3.546118885587792
+<SOS> <SOS> <SOS> he voted for it and put on his topboots to ride to dublin from the ards of down to do <EOS>	4.2203101565380825
+<SOS> <SOS> <SOS> lal the ral the ra the rocky road to <EOS>	3.546118885587792
+<SOS> <SOS> <SOS> a gruff squire on horseback with shiny <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> soft day sir john! soft day your honour!..<EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> day!..<EOS>	1.5089325245934595
+<SOS> <SOS> <SOS> day!..<EOS>	1.5089325245934595
+<SOS> <SOS> <SOS> two topboots jog dangling on to <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> lal the ral the <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> lal the ral the <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> that reminds me mr deasy <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> i have a letter here for the <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> sit down a <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> i have just to copy the <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> he went to the desk near the window pulled in his chair twice and read off some words from the sheet on the drum of his <EOS>	4.397555720525408
+<SOS> <SOS> <SOS> excuse me he said over his shoulder _the dictates of common sense._ just a <EOS>	3.940633688064753
+<SOS> <SOS> <SOS> he peered from under his shaggy brows at the manuscript by his elbow and muttering began to prod the stiff buttons of the keyboard slowly sometimes blowing as he screwed up the drum to erase an <EOS>	4.582245284784731
+<SOS> <SOS> <SOS> stephen seated himself noiselessly before the princely <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> framed around the walls images of vanished horses stood in homage their meek heads poised in air lord hastings _repulse_ the duke of westminsters _shotover_ the duke of beauforts _ceylon_ _prix de paris_ <EOS>	4.536619031495789
+<SOS> <SOS> <SOS> elfin riders sat them watchful of a <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> he saw their speeds backing kings colours and shouted with the shouts of vanished <EOS>	3.940633688064753
+<SOS> <SOS> <SOS> full stop mr deasy bade his <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> _but prompt ventilation of this allimportant question..._ where cranly led me to get rich quick hunting his winners among the mudsplashed brakes amid the bawls of bookies on their pitches and reek of the canteen over the motley <EOS>	4.609255249630315
+<SOS> <SOS> <SOS> even money _fair rebel._ ten to one the <EOS>	3.4356543087122065
+<SOS> <SOS> <SOS> dicers and thimbleriggers we hurried by after the hoofs the vying caps and jackets and past the meatfaced woman a butchers dame nuzzling thirstily her clove of <EOS>	4.420961858181132
+<SOS> <SOS> <SOS> shouts rang shrill from the boys playfield and a whirring <EOS>	3.643625385151988
+<SOS> <SOS> <SOS> again a <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> i am among them among their battling bodies in a medley the joust of <EOS>	3.940633688064753
+<SOS> <SOS> <SOS> you mean that knockkneed mothers darling who seems to be slightly<EOS>	3.643625385151988
+<SOS> <SOS> <SOS> <EOS>	1.5089325245934595
+<SOS> <SOS> <SOS> time shocked rebounds shock by <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> now then mr deasy said <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> he came to the table pinning together his <EOS>	3.4356543087122065
+<SOS> <SOS> <SOS> stephen stood <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> i have put the matter into a nutshell mr deasy <EOS>	3.643625385151988
+<SOS> <SOS> <SOS> its about the foot and mouth <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> just look through <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> there can be no two opinions on the <EOS>	3.4356543087122065
+<SOS> <SOS> <SOS> may i trespass on your valuable <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> that doctrine of _laissez faire_ which so often in our <EOS>	3.643625385151988
+<SOS> <SOS> <SOS> our cattle <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> the way of all our old <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> liverpool ring which jockeyed the galway harbour <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> european <EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> grain supplies through the narrow waters of the <EOS>	3.4356543087122065
+<SOS> <SOS> <SOS> the pluterperfect imperturbability of the department of <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> pardoned a classical <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> by a woman who was no better than she should <EOS>	3.643625385151988
+<SOS> <SOS> <SOS> to come to the point at <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> i dont mince words do<EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> mr deasy asked as stephen read <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> foot and mouth <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> known as kochs <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> serum and <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> percentage of salted <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> emperors horses at mürzsteg lower <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> veterinary <EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> mr henry blackwood <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> courteous offer a fair <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> dictates of common <EOS>	2.560873696443578
+<SOS> <SOS> <SOS> allimportant <EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> in every sense of the word take the bull by the <EOS>	3.730297104315393
+<SOS> <SOS> <SOS> thanking you for the hospitality of your <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> i want that to be printed and read mr deasy <EOS>	3.643625385151988
+<SOS> <SOS> <SOS> you will see at the next outbreak they will put an embargo on irish <EOS>	3.940633688064753
+<SOS> <SOS> <SOS> and it can be <EOS>	2.7968846106456153
+<SOS> <SOS> <SOS> it is <EOS>	2.276877363775991
+<SOS> <SOS> <SOS> my cousin blackwood price writes to me it is regularly treated and cured in austria by cattledoctors <EOS>	4.098097050363507
+<SOS> <SOS> <SOS> they offer to come over <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> i am trying to work up influence with the <EOS>	3.546118885587792
+<SOS> <SOS> <SOS> now im going to try <EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> i am surrounded by difficulties by..<EOS>	2.9953863929863433
+<SOS> <SOS> <SOS> intrigues by..<EOS>	1.9313977074428232
+<SOS> <SOS> <SOS> backstairs influence by..<EOS>	2.276877363775991
+<SOS> <SOS> <SOS> he raised his forefinger and beat the air oldly before his voice <EOS>	3.807824414729749
+<SOS> <SOS> <SOS> mark my words mr dedalus he <EOS>	3.1642842912747144
+<SOS> <SOS> <SOS> england is in the hands of the <EOS>	3.3095332470446763
+<SOS> <SOS> <SOS> in all the highest places her finance her <EOS>	3.4356543087122065
+<SOS> <SOS> <SOS> and they are the signs of a nations <EOS>	3.4356543087122065
+<SOS> <SOS> <SOS> wherever they gather they eat up the nations vital <EOS>	3.546118885587792

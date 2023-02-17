@@ -4,7 +4,7 @@ import math
 import sys
 import numpy as np
 
-make_scores = True
+make_scores = False
 
 class Tokeniser():
     def __init__(self):
@@ -25,6 +25,9 @@ class Tokeniser():
         
     def change_mentions(self):
         self.text = re.sub(r'@(\w+)', r'<MENTION>', self.text) # changing mentions
+        
+    def change_nums(self):
+        self.text = re.sub(r'\d+', r'<NUM>', self.text)
     
     def remove_punctuations(self):
         self.text = re.sub(r'[^\w+^\.^\?^\!\s]', r'', self.text)
@@ -65,6 +68,7 @@ class Tokeniser():
         self.change_urls()
         self.change_hashtags()
         self.change_mentions()
+        self.change_nums()
     
     def modify_text(self, text):
         self.text = text
@@ -134,7 +138,7 @@ class KneserNey():
         self.unk_threshold = 10
         
     def handle_zero(self):
-        if self.n == 1:
+        if self.n == 0:
             return self.handle_unk()
         else:
             return 1e-6
@@ -156,9 +160,13 @@ class KneserNey():
             self.n = 2
         elif len(key2) == 3:
             self.n = 3
+        key = key.split(' ')
             
+        # print('key:', key, 'key2:', key2)
         numer = len(dict(filter(lambda item: key2 == item[0].split(' ')[1:], self.final_dict[self.n].items())))
+        # print('numer', numer)
         denom = len(dict(filter(lambda item: key == item[0].split(' ')[2:], self.final_dict[self.n].items())))
+        # print('denom', denom)
         if denom == 0:
             return self.handle_zero()
         res = numer / denom
@@ -199,10 +207,12 @@ class KneserNey():
         self.sentence = x
             
         for i in range(self.n_init):
+            # print('i', i)
             self.n = i+1
             x = self.n_init - i - 1
             key = self.sentence[x:]
             key = ' '.join(map(str, key))
+            # print('key', key)
             if self.final_dict[self.n - 1][key] == 0:
                 self.ans.append(0)
                 continue
@@ -212,6 +222,7 @@ class KneserNey():
             else:
                 f_term = self.first_term(key)
                 l_term = self.lamda_term(key)
+                # print('fterm', f_term, 'lterm', l_term)
                 res = f_term + (l_term*self.ans[i-1])
                 self.ans.append(res)
         self.prob = self.ans[self.n_init - 1]
@@ -220,18 +231,16 @@ class KneserNey():
             
         return self.prob
 
- 
 class WittenBell():
     def __init__(self, n_gram, d_final):
         self.n_init = n_gram - 1
         self.n = n_gram - 1
         self.final_dict = d_final
-#         self.sentence = sentence.split(' ')
         self.prob = 0
         self.unk_threshold = 10
         
     def handle_zero(self):
-        if self.n == 1:
+        if self.n == 0:
             return self.handle_unk()
         else:
             return 1e-6
@@ -239,7 +248,7 @@ class WittenBell():
     def handle_unk(self):
         denom = sum(self.final_dict[0].values())
         numer = 0
-        for k,v in d_final[0].items():
+        for k,v in self.final_dict[0].items():
             if v < self.unk_threshold:
                 numer += v
         res = numer / denom
@@ -252,26 +261,31 @@ class WittenBell():
             key = self.word
             numer = self.final_dict[self.n][key]
             if numer == 0:
-                res = 1 / len(self.final_dict[self.n])
-                return res
+                numer = self.handle_zero()
             denom = sum(self.final_dict[self.n].values())
             res = numer / denom
             return res
         
         search_key = key.split(' ') # list
+        # print('search key', search_key)
         d = dict(filter(lambda item: search_key == item[0].split(' ')[:-1], self.final_dict[self.n].items()))
         numer = len(d)
+        # print('numer', numer)
         denom = sum(d.values())
+        # print('denom', denom)
+        if denom == 0:
+            denom = self.handle_zero()
+            
         denom2 = denom + numer
-        if denom2 == 0:
-            res = 1 / len(self.final_dict[self.n])
-            return res
         lambda_term = numer / denom2
-        key2 = key + ' ' + self.word
+        
+        key2 = key + ' ' +  self.word
         x = self.final_dict[self.n][key2]
+        if x == 0:
+            x = self.handle_zero()
         pml = x / denom
         
-        return (1 - lambda_term)*pml + (lambda_term)*(self.smooth_2(self.n - 1, sent[1:]))
+        return (1 - lambda_term )*pml + (lambda_term)*(self.smooth_2(self.n - 1, sent[1:]))
     
     def smooth(self, sentence):
         self.sentence = sentence.split(' ')
@@ -279,6 +293,7 @@ class WittenBell():
         self.word = self.sentence[-1]
         self.sentence = x
         self.prob = self.smooth_2(self.n_init, self.sentence)
+        # print('prob', self.prob)
         return self.prob
     
 class Evaluation():
@@ -294,7 +309,7 @@ class Evaluation():
     def write_to_file(self):
         with open(self.output_path, 'w', encoding="utf-8") as f:
             f.write("Average Perplexity: " + str(self.avg_perplexity) + "\n")
-            f.write(self.perplexities)
+            f.writelines(self.perplexities)
         
     def get_perpelexity(self):
         base = 1/self.prob
@@ -342,6 +357,7 @@ class Evaluation():
                 continue
             self.get_probabilities(sentence)
             prp = self.get_perpelexity()
+            print('prp', prp)
             self.sentence = ' '.join(map(str, self.sentence))
             self.perplexities.append(self.sentence + '\t' + str(prp) + '\n')
             self.avg_perplexity += prp
@@ -395,12 +411,13 @@ def get_scores(n_gram):
     ## PRIDE AND PREJUDICE:
     path = './datasets/' + filenames[0] + '.txt'
     text, train_text, test_text, d_final = preprocessing(path, n_gram)
+    train_text = train_text[:1000]
     # print(len(train_text), len(test_text), test_text)
     eval = Evaluation(n_gram, d_final)
     
     ################## 1 #####################
     out_path = dir + "/" + roll_num + "_" + l_models[0] + "_" + types[0] + ".txt"
-    eval.evaluate(test_text, smoothing_types[1], out_path) # kneser ney
+    # eval.evaluate(test_text, smoothing_types[1], out_path) # kneser ney
     
     ################## 2 #####################
     out_path = dir + "/" + roll_num + "_" + l_models[0] + "_" + types[1] + ".txt"
@@ -417,6 +434,7 @@ def get_scores(n_gram):
     ## ULYSSES:
     path = './datasets/' + filenames[1] + '.txt'
     text, train_text, test_text, d_final = preprocessing(path, n_gram)
+    train_text = train_text[:1000]
     # print(len(train_text), len(test_text), test_text)
     eval = Evaluation(n_gram, d_final)
     
@@ -426,7 +444,7 @@ def get_scores(n_gram):
     
     ################## 6 #####################
     out_path = dir + "/" + roll_num + "_" + l_models[2] + "_" + types[1] + ".txt"
-    # eval.evaluate(train_text, smoothing_types[1], out_path) # kneser ney
+    eval.evaluate(train_text, smoothing_types[1], out_path) # kneser ney
     
     ################## 7 #####################
     out_path = dir + "/" + roll_num + "_" + l_models[3] + "_" + types[0] + ".txt"
@@ -434,13 +452,13 @@ def get_scores(n_gram):
     
     ################## 8 #####################
     out_path = dir + "/" + roll_num + "_" + l_models[3] + "_" + types[1] + ".txt"
-    # eval.evaluate(train_text, smoothing_types[0], out_path) # witten bell
+    eval.evaluate(train_text, smoothing_types[0], out_path) # witten bell
      
 if __name__ == '__main__':
     n_gram = 4
     if make_scores:
         get_scores(n_gram)
-    exit(0)
+        exit(0)
         
     smoothing_type = str(sys.argv[1])
     if smoothing_type != 'w' and smoothing_type != 'k':
@@ -458,6 +476,9 @@ if __name__ == '__main__':
     test_str.append(sentence)
     test_str = tokeniser.modify_text(test_str)
     test_str = ' '.join(map(str, test_str))
+    test_str = re.sub(r'\bsos\s+', '<SOS> ', test_str)
+    test_str = re.sub(r'\s+eos', ' <EOS>', test_str)
+    # print(test_str)
     sentence = test_str.split(' ')
     
     l = sentence[0:n_gram]
