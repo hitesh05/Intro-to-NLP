@@ -1,0 +1,1001 @@
+Average Perplexity: 6.673558064695263
+<SOS> <SOS> <SOS> robert william chapman release date may NUM NUM ebook NUM language english start of the project gutenberg ebook pride and prejudice etext prepared by greg weeks jon hurst mary meehan and the online distributed proofreading team URLfrom page images generously made available by internet archive URLnote project gutenberg also has an html version of this file which includes the original <EOS>	7.27159908262283
+<SOS> <SOS> <SOS> see URLtranscribers note text enclosed by underscores is in italics <EOS>	5.132036957500384
+<SOS> <SOS> <SOS> multiple superscripted characters are enclosed by curly brackets example m^<EOS>	4.958937002444641
+<SOS> <SOS> <SOS> in three <EOS>	2.831408843767187
+<SOS> <SOS> <SOS> by the author of sense and <EOS>	4.293422401174083
+<SOS> <SOS> <SOS> london printed for <EOS>	3.285295070035791
+<SOS> <SOS> <SOS> illustration morning <EOS>	2.831408843767187
+<SOS> <SOS> <SOS> however little known the feelings or views of such a man may be on his first entering a neighbourhood this truth is so well fixed in the minds of the surrounding families that he is considered as the rightful property of some one or other of their <EOS>	7.092974423588428
+<SOS> <SOS> <SOS> but it is returned she for mrs long has just been here and she told me all about <EOS>	6.035756856319554
+<SOS> <SOS> <SOS> this was invitation <EOS>	3.285295070035791
+<SOS> <SOS> <SOS> why my dear you must know mrs long says that netherfield is taken by a young man of large fortune from the north of england that he came down on monday in a chaise and four to see the place and was so much delighted with it that he agreed with mr morris immediately that he is to take possession before michaelmas and some of his servants are to be in the house by the end of next <EOS>	7.429024808435267
+<SOS> <SOS> <SOS> is that his design in settling<EOS>	4.005623370923401
+<SOS> <SOS> <SOS> i see no occasion for <EOS>	4.005623370923401
+<SOS> <SOS> <SOS> sir william and lady lucas are determined to go merely on that account for in general you know they visit no new <EOS>	6.305171150853872
+<SOS> <SOS> <SOS> indeed you must go for it will be impossible for _us_ to visit him if you do <EOS>	5.954723124084382
+<SOS> <SOS> <SOS> i desire you will do no such <EOS>	4.544209071498869
+<SOS> <SOS> <SOS> they have none of them much to recommend them replied he they are all silly and ignorant like other girls but lizzy has something more of quickness than her <EOS>	6.634724293164914
+<SOS> <SOS> <SOS> but i hope you will get over it and live to see many young men of four thousand a year come into the <EOS>	6.3615090556320295
+<SOS> <SOS> <SOS> it will be no use to us if twenty such should come since you will not visit <EOS>	5.954723124084382
+<SOS> <SOS> <SOS> mr bennet was so odd a mixture of quick parts sarcastic humour reserve and caprice that the experience of three and twenty years had been insufficient to make his wife understand his <EOS>	6.740178598023261
+<SOS> <SOS> <SOS> mr bennet was among the earliest of those who waited on mr <EOS>	5.426304982158432
+<SOS> <SOS> <SOS> mrs bennet said only nonsense nonsense! what can be the meaning of that emphatic<EOS>	5.552324557747837
+<SOS> <SOS> <SOS> i was sure you loved your girls too well to neglect such an <EOS>	5.552324557747837
+<SOS> <SOS> <SOS> well how pleased i am! and it is such a good joke too that you should have gone this morning and never said a word about it till <EOS>	6.595605688657698
+<SOS> <SOS> <SOS> lydia my love though you _are_ the youngest i dare say mr bingley will dance with you at the next <EOS>	6.180228357013515
+<SOS> <SOS> <SOS> not all that mrs bennet however with the assistance of her five daughters could ask on the subject was sufficient to draw from her husband any satisfactory description of mr <EOS>	6.671753721206922
+<SOS> <SOS> <SOS> her report was highly <EOS>	3.6728503235444143
+<SOS> <SOS> <SOS> the ladies were somewhat more fortunate for they had the advantage of ascertaining from an upper window that he wore a blue coat and rode a black <EOS>	6.554216716401523
+<SOS> <SOS> <SOS> an invitation to dinner was soon afterwards dispatched and already had mrs bennet planned the courses that were to do credit to her housekeeping when an answer arrived which deferred it <EOS>	6.706856451936717
+<SOS> <SOS> <SOS> mr bingley was obliged to be in town the following day and consequently unable to accept the honour of their invitation <EOS>	6.244886481337671
+<SOS> <SOS> <SOS> his sisters were fine women with an air of decided <EOS>	5.132036957500384
+<SOS> <SOS> <SOS> his brotherinlaw mr hurst merely looked the gentleman but his friend mr darcy soon drew the attention of the room by his fine tall person handsome features noble mien and the report which was in general circulation within five minutes after his entrance of his having ten thousand a <EOS>	7.125823557408646
+<SOS> <SOS> <SOS> what a contrast between him and his friend! mr darcy danced only once with mrs hurst and once with miss bingley declined being introduced to any other lady and spent the rest of the evening in walking about the room speaking occasionally to one of his own <EOS>	7.092974423588428
+<SOS> <SOS> <SOS> elizabeth bennet had been obliged by the scarcity of gentlemen to sit down for two dances and during part of that time mr darcy had been standing near enough for her to overhear a conversation between him and mr bingley who came from the dance for a few minutes to press his friend to join <EOS>	7.211719125880477
+<SOS> <SOS> <SOS> i certainly shall <EOS>	3.285295070035791
+<SOS> <SOS> <SOS> you know how i detest it unless i am particularly acquainted with my <EOS>	5.552324557747837
+<SOS> <SOS> <SOS> at such an assembly as this it would be <EOS>	4.958937002444641
+<SOS> <SOS> <SOS> only think of _that_ my dear he actually danced with her twice and she was the only creature in the room that he asked a second <EOS>	6.510354714573011
+<SOS> <SOS> <SOS> first of all he asked miss <EOS>	4.293422401174083
+<SOS> <SOS> <SOS> then the two third he danced with miss king and the two fourth with maria lucas and the two fifth with jane again and the two sixth with lizzy and the boulanger if he had had any compassion for _me_ cried her husband impatiently he would not have danced half so much! for gods sake say no more of his <EOS>	7.27159908262283
+<SOS> <SOS> <SOS> oh! that he had sprained his ancle in the first dance! oh! my dear continued mrs bennet i am quite delighted with <EOS>	6.305171150853872
+<SOS> <SOS> <SOS> his character is thereby <EOS>	3.6728503235444143
+<SOS> <SOS> <SOS> and so you like this mans sisters too do<EOS>	4.764352392575034
+<SOS> <SOS> <SOS> their manners are not equal to <EOS>	4.293422401174083
+<SOS> <SOS> <SOS> certainly not at <EOS>	3.285295070035791
+<SOS> <SOS> <SOS> they were rather handsome had been educated in one of the first private seminaries in town had a fortune of twenty thousand pounds were in the habit of spending more than they ought and of associating with people of rank and were therefore in every respect entitled to think well of themselves and meanly of <EOS>	7.211719125880477
+<SOS> <SOS> <SOS> they were of a respectable family in the north of england a circumstance more deeply impressed on their memories than that their brothers fortune and their own had been acquired by <EOS>	6.706856451936717
+<SOS> <SOS> <SOS> mr bingley inherited property to the amount of nearly an hundred thousand pounds from his father who had intended to purchase an estate but did not live to do it.mr bingley intended it likewise and sometimes made choice of his county but as he was now provided with a good house and the liberty of a manor it was doubtful to many of those who best knew the easiness of his temper whether he might not spend the remainder of his days at netherfield and leave the next generation to <EOS>	7.501600633442375
+<SOS> <SOS> <SOS> bingley was by no means deficient but darcy was <EOS>	4.958937002444641
+<SOS> <SOS> <SOS> sir william lucas had been formerly in trade in meryton where he had made a tolerable fortune and risen to the honour of knighthood by an address to the king during his <EOS>	6.740178598023261
+<SOS> <SOS> <SOS> by nature inoffensive friendly and obliging his presentation at <EOS>	4.958937002444641
+<SOS> <SOS> <SOS> that the miss lucases and the miss bennets should meet to talk over a ball was absolutely necessary and the morning after the assembly brought the former to longbourn to hear and to <EOS>	6.771851908504817
+<SOS> <SOS> <SOS> oh!you mean jane i supposebecause he danced with her <EOS>	4.958937002444641
+<SOS> <SOS> <SOS> upon my word!well that was very decided indeedthat does seem as ifbut however it may all come to nothing you <EOS>	6.180228357013515
+<SOS> <SOS> <SOS> miss bingley told me said jane that he never speaks much unless among his intimate <EOS>	5.771218408857729
+<SOS> <SOS> <SOS> the ladies of longbourn soon waited on those of <EOS>	4.958937002444641
+<SOS> <SOS> <SOS> she mentioned this to her friend miss <EOS>	4.544209071498869
+<SOS> <SOS> <SOS> this is not quite enough to make her understand his <EOS>	5.132036957500384
+<SOS> <SOS> <SOS> well said charlotte i wish jane success with all my heart and if she were married to him tomorrow i should think she had as good a chance of happiness as if she were to be studying his character for a <EOS>	6.978115559749559
+<SOS> <SOS> <SOS> if the dispositions of the parties are ever so well known to each other or ever so similar beforehand it does not advance their felicity in the <EOS>	6.554216716401523
+<SOS> <SOS> <SOS> you make me laugh charlotte but it is not <EOS>	4.958937002444641
+<SOS> <SOS> <SOS> occupied in observing mr bingleys attentions to her sister elizabeth was far from suspecting that she was herself becoming an object of some interest in the eyes of his <EOS>	6.634724293164914
+<SOS> <SOS> <SOS> mr darcy had at first scarcely allowed her to be pretty he had looked at her without admiration at the ball and when they next met he looked at her only to <EOS>	6.740178598023261
+<SOS> <SOS> <SOS> of this she was perfectly unawareto her he was only the man who made himself agreeable no where and who had not thought her handsome enough to dance <EOS>	6.595605688657698
+<SOS> <SOS> <SOS> he has a very satirical eye and if i do not begin by being impertinent myself i shall soon grow afraid of <EOS>	6.305171150853872
+<SOS> <SOS> <SOS> you are severe on <EOS>	3.6728503235444143
+<SOS> <SOS> <SOS> her performance was pleasing though by no means <EOS>	4.764352392575034
+<SOS> <SOS> <SOS> mary had neither genius nor taste and though vanity had given her application it had given her likewise a pedantic air and conceited manner which would have injured a higher degree of excellence than she had <EOS>	6.858115276834963
+<SOS> <SOS> <SOS> elizabeth easy and unaffected had been listened to with much more pleasure though not playing half so well and mary at the end of a long concerto was glad to purchase praise and gratitude by scotch and irish airs at the request of her younger sisters who with some of the lucases and two or three officers joined eagerly in dancing at one end of the <EOS>	7.332669145476775
+<SOS> <SOS> <SOS> mr darcy stood near them in silent indignation at such a mode of passing the evening to the exclusion of all conversation and was too much engrossed by his own thoughts to perceive that sir william lucas was his neighbour till sir william thus <EOS>	7.038900811955651
+<SOS> <SOS> <SOS> sir william only <EOS>	3.285295070035791
+<SOS> <SOS> <SOS> you saw me dance at meryton i believe <EOS>	4.764352392575034
+<SOS> <SOS> <SOS> mr darcy <EOS>	2.831408843767187
+<SOS> <SOS> <SOS> he paused in hopes of an answer but his companion was not disposed to make any and elizabeth at that instant moving towards them he was struck with the notion of doing a very gallant thing and called out to her my dear miss eliza why are not you<EOS>	7.10969588174696
+<SOS> <SOS> <SOS> mr darcy with grave propriety requested to be allowed the honour of her hand but in <EOS>	5.866842010825683
+<SOS> <SOS> <SOS> you excel so much in the dance miss eliza that it is cruel to deny me the happiness of seeing you and though this gentleman dislikes the amusement in general he can have no objection i am sure to oblige us for one half <EOS>	7.038900811955651
+<SOS> <SOS> <SOS> elizabeth looked archly and turned <EOS>	4.005623370923401
+<SOS> <SOS> <SOS> my mind was more agreeably <EOS>	4.005623370923401
+<SOS> <SOS> <SOS> the two youngest of the family catherine and lydia were particularly frequent in these attentions their minds were more vacant than their sisters and when nothing better offered a walk to meryton was necessary to amuse their morning hours and furnish conversation for the evening and however bare of news the country in general might be they always contrived to learn some from their <EOS>	7.313454898752099
+<SOS> <SOS> <SOS> mr philips visited them all and this opened to his nieces a source of felicity unknown <EOS>	5.866842010825683
+<SOS> <SOS> <SOS> after listening one morning to their effusions on this subject mr bennet coolly observed from all that i can collect by your manner of talking you must be two of the silliest girls in the <EOS>	6.830717262184083
+<SOS> <SOS> <SOS> i remember the time when i liked a red coat myself very welland indeed so i do still at my heart and if a smart young colonel with five or six thousand a year should want one of my girls i shall not say nay to him and i thought colonel forster looked very becoming the other night at sir williams in his <EOS>	7.303437634470123
+<SOS> <SOS> <SOS> what is it<EOS>	2.831408843767187
+<SOS> <SOS> <SOS> it is from miss bingley said jane and then read it <EOS>	5.286936993301231
+<SOS> <SOS> <SOS> i wonder my aunt did not tell us of <EOS>	4.958937002444641
+<SOS> <SOS> <SOS> dining out said mrs bennet that is very <EOS>	4.764352392575034
+<SOS> <SOS> <SOS> is this a hint to me lizzy said her father to send for the<EOS>	5.552324557747837
+<SOS> <SOS> <SOS> the latter was thinking only of his <EOS>	4.544209071498869
+<SOS> <SOS> <SOS> when breakfast was over they were joined by the sisters and elizabeth began to like them herself when she saw how much affection and solicitude they shewed for <EOS>	6.595605688657698
+<SOS> <SOS> <SOS> to the civil enquiries which then poured in and amongst which she had the pleasure of distinguishing the much superior solicitude of mr bingleys she could not make a very favourable <EOS>	6.706856451936717
+<SOS> <SOS> <SOS> jane was by no means <EOS>	4.005623370923401
+<SOS> <SOS> <SOS> i shall never forget her appearance this <EOS>	4.544209071498869
+<SOS> <SOS> <SOS> i thought miss elizabeth bennet looked remarkably well when she came into the room this <EOS>	5.771218408857729
+<SOS> <SOS> <SOS> her dirty petticoat quite escaped my <EOS>	4.293422401174083
+<SOS> <SOS> <SOS> to walk three miles or four miles or five miles or whatever it is above her ancles in dirt and alone quite alone! what could she mean by<EOS>	6.554216716401523
+<SOS> <SOS> <SOS> i am afraid mr darcy observed miss bingley in a half whisper that this adventure has rather affected your admiration of her fine <EOS>	6.3615090556320295
+<SOS> <SOS> <SOS> i have an excessive regard for jane bennet she is really a very sweet girl and i wish with all my heart she were well <EOS>	6.463792293003369
+<SOS> <SOS> <SOS> but it must very materially lessen their chance of marrying men of any consideration in the world replied <EOS>	6.035756856319554
+<SOS> <SOS> <SOS> to this speech bingley made no answer but his sisters gave it their hearty assent and indulged their mirth for some time at the expense of their dear friends vulgar <EOS>	6.671753721206922
+<SOS> <SOS> <SOS> on entering the drawingroom she found the whole party at loo and was immediately invited to join them but suspecting them to be playing high she declined it and making her sister the excuse said she would amuse herself for the short time she could stay below with a <EOS>	7.125823557408646
+<SOS> <SOS> <SOS> in nursing your sister i am sure you have pleasure said bingley and i hope it will soon be increased by seeing her quite <EOS>	6.414273468123172
+<SOS> <SOS> <SOS> but i would really advise you to make your purchase in that neighbourhood and take pemberley for a kind of <EOS>	6.180228357013515
+<SOS> <SOS> <SOS> i think she <EOS>	3.285295070035791
+<SOS> <SOS> <SOS> it is amazing to me said bingley how young ladies can have patience to be so very accomplished as they all <EOS>	6.244886481337671
+<SOS> <SOS> <SOS> yes i do comprehend a great deal in <EOS>	4.764352392575034
+<SOS> <SOS> <SOS> all this she must possess added darcy and to all this she must yet add something more substantial in the improvement of her mind by extensive <EOS>	6.510354714573011
+<SOS> <SOS> <SOS> mrs hurst and miss bingley both cried out against the injustice of her implied doubt and were both protesting that they knew many women who answered this description when mr hurst called them to order with bitter complaints of their inattention to what was going <EOS>	7.057614183758726
+<SOS> <SOS> <SOS> eliza bennet said miss bingley when the door was closed on her is one of those young ladies who seek to recommend themselves to the other sex by undervaluing their own and with many men i dare say it <EOS>	6.933220946371466
+<SOS> <SOS> <SOS> chapter <EOS>	2.29933403256274
+<SOS> <SOS> <SOS> the note was immediately dispatched and its contents as quickly complied <EOS>	5.286936993301231
+<SOS> <SOS> <SOS> my sister i am sure will not hear of her <EOS>	5.132036957500384
+<SOS> <SOS> <SOS> you have a sweet room here mr bingley and a charming prospect over that gravel <EOS>	5.771218408857729
+<SOS> <SOS> <SOS> i do not know a place in the country that is equal to <EOS>	5.552324557747837
+<SOS> <SOS> <SOS> they have at least that <EOS>	4.005623370923401
+<SOS> <SOS> <SOS> mrs bennet who fancied she had gained a complete victory over him continued her <EOS>	5.666796805063259
+<SOS> <SOS> <SOS> they have each their advantages and i can be equally happy in <EOS>	5.426304982158432
+<SOS> <SOS> <SOS> his sister was less delicate and directed her eye towards mr darcy with a very expressive <EOS>	5.866842010825683
+<SOS> <SOS> <SOS> lady lucas herself has often said so and envied me janes <EOS>	5.286936993301231
+<SOS> <SOS> <SOS> i do not trust my own <EOS>	4.293422401174083
+<SOS> <SOS> <SOS> when she was only fifteen there was a gentleman at my brother gardiners in town so much in love with her that my sisterinlaw was sure he would make her an offer before we came <EOS>	6.830717262184083
+<SOS> <SOS> <SOS> lydia was a stout wellgrown girl of fifteen with a fine complexion and goodhumoured countenance a favourite with her mother whose affection had brought her into public at an early <EOS>	6.671753721206922
+<SOS> <SOS> <SOS> his answer to this sudden attack was delightful to their mothers <EOS>	5.286936993301231
+<SOS> <SOS> <SOS> the loo table however did not <EOS>	4.293422401174083
+<SOS> <SOS> <SOS> pray tell your sister that i long to see <EOS>	4.958937002444641
+<SOS> <SOS> <SOS> tell your sister i am delighted to hear of her improvement on the harp and pray let her know that i am quite in raptures with her beautiful little design for a table and i think it infinitely superior to miss <EOS>	6.978115559749559
+<SOS> <SOS> <SOS> at present i have not room to do them <EOS>	4.958937002444641
+<SOS> <SOS> <SOS> oh! it is of no <EOS>	4.005623370923401
+<SOS> <SOS> <SOS> my style of writing is very different from <EOS>	4.764352392575034
+<SOS> <SOS> <SOS> he leaves out half his words and blots the <EOS>	4.958937002444641
+<SOS> <SOS> <SOS> your humility mr bingley said elizabeth must disarm <EOS>	4.764352392575034
+<SOS> <SOS> <SOS> and which of the two do you call _my_ little recent piece of<EOS>	5.426304982158432
+<SOS> <SOS> <SOS> nay cried bingley this is too much to remember at night all the foolish things that were said in the <EOS>	6.180228357013515
+<SOS> <SOS> <SOS> i dare say you believed it but i am by no means convinced that you would be gone with such <EOS>	6.180228357013515
+<SOS> <SOS> <SOS> but i am afraid you are giving it a turn which that gentleman did by no means intend for he would certainly think the better of me if under such a circumstance i were to give a flat denial and ride off as fast as i <EOS>	7.075625824495809
+<SOS> <SOS> <SOS> upon my word i cannot exactly explain the matter darcy must speak for <EOS>	5.552324557747837
+<SOS> <SOS> <SOS> you expect me to account for opinions which you chuse to call mine but which i have never <EOS>	6.035756856319554
+<SOS> <SOS> <SOS> allowing the case however to stand according to your representation you must remember miss bennet that the friend who is supposed to desire his return to the house and the delay of his plan has merely desired it asked it without offering one argument in favour of its <EOS>	7.10969588174696
+<SOS> <SOS> <SOS> you appear to me mr darcy to allow nothing for the influence of friendship and <EOS>	5.771218408857729
+<SOS> <SOS> <SOS> by all means cried bingley let us hear all the particulars not forgetting their comparative height and size for that will have more weight in the argument miss bennet than you may be aware <EOS>	6.80199548565183
+<SOS> <SOS> <SOS> miss bingley warmly resented the indignity he had received in an expostulation with her brother for talking such <EOS>	6.035756856319554
+<SOS> <SOS> <SOS> perhaps i <EOS>	2.831408843767187
+<SOS> <SOS> <SOS> arguments are too much like <EOS>	4.005623370923401
+<SOS> <SOS> <SOS> mr darcy took her advice and did finish his <EOS>	4.958937002444641
+<SOS> <SOS> <SOS> when that business was over he applied to miss bingley and elizabeth for the indulgence of some <EOS>	5.954723124084382
+<SOS> <SOS> <SOS> miss bingley moved with alacrity to the pianoforte and after a polite request that elizabeth would lead the way which the other as politely and more earnestly negatived she seated <EOS>	6.671753721206922
+<SOS> <SOS> <SOS> she smiled but made no <EOS>	4.005623370923401
+<SOS> <SOS> <SOS> indeed i do not <EOS>	3.6728503235444143
+<SOS> <SOS> <SOS> i did not know that you intended to walk said miss bingley in some confusion lest they had been <EOS>	6.110706865383714
+<SOS> <SOS> <SOS> then taking the disengaged arm of mr darcy she left elizabeth to walk by <EOS>	5.666796805063259
+<SOS> <SOS> <SOS> but elizabeth who had not the least inclination to remain with them laughingly answered no no stay where you are.you are charmingly groupd and appear to uncommon <EOS>	6.554216716401523
+<SOS> <SOS> <SOS> when the ladies removed after dinner elizabeth ran up to her sister and seeing her well guarded from cold attended her into the drawingroom where she was welcomed by her two friends with many professions of pleasure and elizabeth had never seen them so agreeable as they were during the hour which passed before the gentlemen <EOS>	7.22445200183564
+<SOS> <SOS> <SOS> but when the gentlemen entered jane was no longer the first <EOS>	5.286936993301231
+<SOS> <SOS> <SOS> he addressed himself directly to miss bennet with a polite congratulation mr hurst also made her a slight bow and said he was very glad but diffuseness and warmth remained for bingleys <EOS>	6.740178598023261
+<SOS> <SOS> <SOS> he then sat down by her and talked scarcely to any one <EOS>	5.426304982158432
+<SOS> <SOS> <SOS> at length quite exhausted by the attempt to be amused with her own book which she had only chosen because it was the second volume of his she gave a great yawn and said how pleasant it is to spend an evening in this way! i declare after all there is no enjoyment like reading! how much sooner one tires of any thing than of a book!when i have a house of my own i shall be miserable if i have not an excellent <EOS>	7.467699101165711
+<SOS> <SOS> <SOS> it would surely be much more rational if conversation instead of dancing made the order of the <EOS>	5.954723124084382
+<SOS> <SOS> <SOS> miss bingley made no answer and soon afterwards got up and walked about the <EOS>	5.666796805063259
+<SOS> <SOS> <SOS> miss bingley succeeded no less in the real object of her civility mr darcy looked <EOS>	5.771218408857729
+<SOS> <SOS> <SOS> oh! shocking! cried miss <EOS>	3.6728503235444143
+<SOS> <SOS> <SOS> i do assure you that my intimacy has not yet taught me <EOS>	5.426304982158432
+<SOS> <SOS> <SOS> miss bingley said he has given me credit for more than can <EOS>	5.426304982158432
+<SOS> <SOS> <SOS> yes vanity is a weakness <EOS>	4.005623370923401
+<SOS> <SOS> <SOS> he owns it himself without <EOS>	4.005623370923401
+<SOS> <SOS> <SOS> _that_ is a failing indeed!cried <EOS>	4.005623370923401
+<SOS> <SOS> <SOS> you are safe from <EOS>	3.6728503235444143
+<SOS> <SOS> <SOS> and _your_ defect is a propensity to hate every <EOS>	4.958937002444641
+<SOS> <SOS> <SOS> chapter <EOS>	2.29933403256274
+<SOS> <SOS> <SOS> to mr darcy it was welcome intelligenceelizabeth had been at netherfield long <EOS>	5.426304982158432
+<SOS> <SOS> <SOS> miss bingleys civility to elizabeth increased at last very rapidly as well as her affection for jane and when they parted after assuring the latter of the pleasure it would always give her to see her either at longbourn or netherfield and embracing her most tenderly she even shook hands with the former.elizabeth took leave of the whole party in the liveliest <EOS>	7.293131167174724
+<SOS> <SOS> <SOS> i do not believe she often sees such at <EOS>	4.958937002444641
+<SOS> <SOS> <SOS> why janeyou never dropt a word of this you sly thing! well i am sure i shall be extremely glad to see mr bingley.butgood lord! how unlucky! there is not a bit of fish to be got <EOS>	6.884278779551959
+<SOS> <SOS> <SOS> lydia my love ring the <EOS>	4.005623370923401
+<SOS> <SOS> <SOS> after amusing himself some time with their curiosity he thus <EOS>	5.132036957500384
+<SOS> <SOS> <SOS> jane and elizabeth attempted to explain to her the nature of an <EOS>	5.426304982158432
+<SOS> <SOS> <SOS> he must be an oddity i think said <EOS>	4.764352392575034
+<SOS> <SOS> <SOS> i cannot make him out.there is something very pompous in his style.and what can he mean by apologizing for being next in the<EOS>	6.305171150853872
+<SOS> <SOS> <SOS> as for their mother mr collinss letter had done away much of her illwill and she was preparing to see him with a degree of composure which astonished her husband and <EOS>	6.706856451936717
+<SOS> <SOS> <SOS> this gallantry was not much to the taste of some of his hearers but mrs bennet who quarrelled with no compliments answered most readily you are very kind sir i am sure and i wish with all my heart it may prove so for else they will be destitute <EOS>	7.125823557408646
+<SOS> <SOS> <SOS> there is no knowing how estates will go when once they come to be <EOS>	5.666796805063259
+<SOS> <SOS> <SOS> i am very sensible madam of the hardship to my fair cousinsand could say much on the subject but that i am cautious of appearing forward and <EOS>	6.554216716401523
+<SOS> <SOS> <SOS> but here he was set right by mrs bennet who assured him with some asperity that they were very well able to keep a good cook and that her daughters had nothing to do in the <EOS>	6.858115276834963
+<SOS> <SOS> <SOS> mr collins was eloquent in her <EOS>	4.293422401174083
+<SOS> <SOS> <SOS> that is all very proper and civil i am sure said mrs bennet and i dare say she is a very agreeable <EOS>	6.305171150853872
+<SOS> <SOS> <SOS> has she any<EOS>	2.831408843767187
+<SOS> <SOS> <SOS> is she<EOS>	2.29933403256274
+<SOS> <SOS> <SOS> has she been<EOS>	2.831408843767187
+<SOS> <SOS> <SOS> i do not remember her name among the ladies at <EOS>	5.132036957500384
+<SOS> <SOS> <SOS> mr bennet accepted the challenge observing that he acted very wisely in leaving the girls to their own trifling <EOS>	6.110706865383714
+<SOS> <SOS> <SOS> mrs bennet and her daughters apologised most civilly for lydias interruption and promised that it should not occur again if he would resume his book but mr collins after assuring them that he bore his young cousin no ill will and should never resent her behaviour as any affront seated himself at another table with mr bennet and prepared for <EOS>	7.27159908262283
+<SOS> <SOS> <SOS> the subjection in which his father had brought him up had given him originally great humility of manner but it was now a good deal counteracted by the selfconceit of a weak head living in retirement and the consequential feelings of early and unexpected <EOS>	7.038900811955651
+<SOS> <SOS> <SOS> his plan did not vary on seeing them.miss bennets lovely face confirmed his views and established all his strictest notions of what was due to seniority and for the first evening _she_ was his settled <EOS>	6.830717262184083
+<SOS> <SOS> <SOS> mrs bennet treasured up the hint and trusted that she might soon have two daughters married and the man whom she could not bear to speak of the day before was now high in her good <EOS>	6.858115276834963
+<SOS> <SOS> <SOS> such doings discomposed mr bennet <EOS>	4.005623370923401
+<SOS> <SOS> <SOS> mr darcy corroborated it with a bow and was beginning to determine not to fix his eyes on elizabeth when they were suddenly arrested by the sight of the stranger and elizabeth happening to see the countenance of both as they looked at each other was all astonishment at the effect of the <EOS>	7.184986377459123
+<SOS> <SOS> <SOS> mrs philips was quite awed by such an excess of good breeding but her contemplation of one stranger was soon put an end to by exclamations and inquiries about the other of whom however she could only tell her nieces what they already knew that mr denny had brought him from london and that he was to have a lieutenants commission in the <EOS>	7.303437634470123
+<SOS> <SOS> <SOS> the prospect of such delights was very cheering and they parted in mutual good <EOS>	5.666796805063259
+<SOS> <SOS> <SOS> mr collins repeated his apologies in quitting the room and was assured with unwearying civility that they were perfectly <EOS>	6.110706865383714
+<SOS> <SOS> <SOS> mr collins on his return highly gratified mrs bennet by admiring mrs philipss manners and <EOS>	5.771218408857729
+<SOS> <SOS> <SOS> the gentlemen did approach and when mr wickham walked into the room elizabeth felt that she had neither been seeing him before nor thinking of him since with the smallest degree of unreasonable <EOS>	6.771851908504817
+<SOS> <SOS> <SOS> the officers of the shire were in general a very creditable gentlemanlike set and the best of them were of the present party but mr wickham was as far beyond them all in person countenance air and walk as _they_ were superior to the broadfaced stuffy uncle philips breathing port wine who followed them into the <EOS>	7.22445200183564
+<SOS> <SOS> <SOS> i know little of the game at present said he but i shall be glad to improve myself for in my situation of life mrs philips was very thankful for his compliance but could not wait for his <EOS>	6.909289192214983
+<SOS> <SOS> <SOS> allowing for the common demands of the game mr wickham was therefore at leisure to talk to elizabeth and she was very willing to hear him though what she chiefly wished to hear she could not hope to be told the history of his acquaintance with mr <EOS>	7.092974423588428
+<SOS> <SOS> <SOS> mr wickham began the subject <EOS>	4.005623370923401
+<SOS> <SOS> <SOS> a clear ten thousand per <EOS>	4.005623370923401
+<SOS> <SOS> <SOS> his father miss bennet the late mr darcy was one of the best men that ever breathed and the truest friend i ever had and i can never be in company with this mr darcy without being grieved to the soul by a thousand tender <EOS>	7.057614183758726
+<SOS> <SOS> <SOS> his behaviour to myself has been scandalous but i verily believe i could forgive him any thing and every thing rather than his disappointing the hopes and disgracing the memory of his <EOS>	6.740178598023261
+<SOS> <SOS> <SOS> mr wickham began to speak on more general topics meryton the neighbourhood the society appearing highly pleased with all that he had yet seen and speaking of the latter especially with gentle but very intelligible <EOS>	6.830717262184083
+<SOS> <SOS> <SOS> he meant to provide for me amply and thought he had done it but when the living fell it was given <EOS>	6.244886481337671
+<SOS> <SOS> <SOS> some time or other he _will_ bebut it shall not be by <EOS>	5.426304982158432
+<SOS> <SOS> <SOS> a thorough determined dislike of mea dislike which i cannot but attribute in some measure to <EOS>	5.866842010825683
+<SOS> <SOS> <SOS> i had not thought mr darcy so bad as thisthough i have never liked him i had not thought so very ill of himi had supposed him to be despising his fellowcreatures in general but did not suspect him of descending to such malicious revenge such injustice such inhumanity as this! after a few minutes reflection however she continued i _do_ remember his boasting one day at netherfield of the implacability of his resentments of his having an unforgiving <EOS>	7.435844221120311
+<SOS> <SOS> <SOS> _my_ father began life in the profession which your uncle mr philips appears to do so much credit tobut he gave up every thing to be of use to the late mr darcy and devoted all his time to the care of the pemberley <EOS>	7.038900811955651
+<SOS> <SOS> <SOS> what sort of a girl is miss<EOS>	4.293422401174083
+<SOS> <SOS> <SOS> but she is nothing to me <EOS>	4.293422401174083
+<SOS> <SOS> <SOS> since her fathers death her home has been london where a lady lives with her and superintends her <EOS>	6.035756856319554
+<SOS> <SOS> <SOS> not at <EOS>	2.831408843767187
+<SOS> <SOS> <SOS> he cannot know what mr darcy <EOS>	4.293422401174083
+<SOS> <SOS> <SOS> the whist party soon afterwards breaking up the players gathered round the other table and mr collins took his station between his cousin elizabeth and mrs philips.the usual inquiries as to his success were made by the <EOS>	6.884278779551959
+<SOS> <SOS> <SOS> it had not been very great he had lost every point but when mrs philips began to express her concern thereupon he assured her with much earnest gravity that it was not of the least importance that he considered the money as a mere trifle and begged she would not make herself <EOS>	7.170943821019367
+<SOS> <SOS> <SOS> lady catherine de bourgh she replied has very lately given him a <EOS>	5.426304982158432
+<SOS> <SOS> <SOS> i hardly know how mr collins was first introduced to her notice but he certainly has not known her <EOS>	6.110706865383714
+<SOS> <SOS> <SOS> no indeed i did not.i knew nothing at all of lady catherines <EOS>	5.426304982158432
+<SOS> <SOS> <SOS> her daughter miss de bourgh will have a very large fortune and it is believed that she and her cousin will unite the two <EOS>	6.414273468123172
+<SOS> <SOS> <SOS> she has the reputation of being remarkably sensible and clever but i rather believe she derives part of her abilities from her rank and fortune part from her authoritative manner and the rest from the pride of her nephew who chuses that every one connected with him should have an understanding of the first <EOS>	7.198570800162678
+<SOS> <SOS> <SOS> laugh as much as you chuse but you will not laugh me out of my <EOS>	5.771218408857729
+<SOS> <SOS> <SOS> but jane could think with certainty on only one pointthat mr bingley if he _had been_ imposed on would have much to suffer when the affair became <EOS>	6.554216716401523
+<SOS> <SOS> <SOS> the two young ladies were summoned from the shrubbery where this conversation passed by the arrival of some of the very persons of whom they had been speaking mr bingley and his sisters came to give their personal invitation for the long expected ball at netherfield which was fixed for the following <EOS>	7.170943821019367
+<SOS> <SOS> <SOS> to the rest of the family they paid little attention avoiding mrs bennet as much as possible saying not much to elizabeth and nothing at all to the <EOS>	6.595605688657698
+<SOS> <SOS> <SOS> elizabeth felt herself completely taken <EOS>	4.005623370923401
+<SOS> <SOS> <SOS> she had fully proposed being engaged by wickham for those very dancesand to have mr collins instead! her liveliness had been never worse <EOS>	6.3615090556320295
+<SOS> <SOS> <SOS> there was no help for it <EOS>	4.293422401174083
+<SOS> <SOS> <SOS> if there had not been a netherfield ball to prepare for and talk of the younger miss bennets would have been in a pitiable state at this time for from the day of the invitation to the day of the ball there was such a succession of rain as prevented their walking to meryton <EOS>	7.198570800162678
+<SOS> <SOS> <SOS> she had dressed with more than usual care and prepared in the highest spirits for the conquest of all that remained unsubdued of his heart trusting that it was not more than might be won in the course of the <EOS>	6.956142215919131
+<SOS> <SOS> <SOS> the moment of her release from him was <EOS>	4.764352392575034
+<SOS> <SOS> <SOS> she danced next with an officer and had the refreshment of talking of wickham and of hearing that he was universally <EOS>	6.244886481337671
+<SOS> <SOS> <SOS> he walked away again immediately and she was left to fret over her own want of presence of mind charlotte tried to console <EOS>	6.3615090556320295
+<SOS> <SOS> <SOS> i must not decide on my own <EOS>	4.544209071498869
+<SOS> <SOS> <SOS> the effect was <EOS>	3.285295070035791
+<SOS> <SOS> <SOS> it is evident that you belong to the first <EOS>	4.958937002444641
+<SOS> <SOS> <SOS> the latter part of this address was scarcely heard by darcy but sir williams allusion to his friend seemed to strike him forcibly and his eyes were directed with a very serious expression towards bingley and jane who were dancing <EOS>	6.956142215919131
+<SOS> <SOS> <SOS> sir william could not have interrupted any two people in the room who had less to say for themselves.we have tried two or three subjects already without success and what we are to talk of next i cannot <EOS>	6.909289192214983
+<SOS> <SOS> <SOS> said he <EOS>	2.831408843767187
+<SOS> <SOS> <SOS> may i ask to what these questions<EOS>	4.293422401174083
+<SOS> <SOS> <SOS> she shook her <EOS>	3.285295070035791
+<SOS> <SOS> <SOS> they had not long separated when miss bingley came towards her and with an expression of civil disdain thus accosted her so miss eliza i hear you are quite delighted with george wickham!your sister has been talking to me about him and asking me a thousand questions and i find that the young man forgot to tell you among his other communications that he was the son of old wickham the late mr darcys <EOS>	7.400068483403646
+<SOS> <SOS> <SOS> i do not know the particulars but i know very well that mr darcy is not in the least to blame that he cannot bear to hear george wickham mentioned and that though my brother thought he could not well avoid including him in his invitation to the officers he was excessively glad to find that he had taken himself out of the <EOS>	7.303437634470123
+<SOS> <SOS> <SOS> his guilt and his descent appear by your account to be the same said elizabeth angrily for i have heard you accuse him of nothing worse than of being the son of mr darcys steward and of _that_ i can assure you he informed me <EOS>	7.057614183758726
+<SOS> <SOS> <SOS> no he never saw him till the other morning at <EOS>	5.132036957500384
+<SOS> <SOS> <SOS> mr bingleys defence of his friend was a very able one i dare say but since he is unacquainted with several parts of the story and has learnt the rest from that friend himself i shall venture still to think of both gentlemen as i did <EOS>	7.075625824495809
+<SOS> <SOS> <SOS> elizabeth listened with delight to the happy though modest hopes which jane entertained of bingleys regard and said all in her power to heighten her confidence in <EOS>	6.554216716401523
+<SOS> <SOS> <SOS> you are not going to introduce yourself to mr<EOS>	4.764352392575034
+<SOS> <SOS> <SOS> elizabeth tried hard to dissuade him from such a scheme assuring him that mr darcy would consider his addressing him without introduction as an impertinent freedom rather than a compliment to his aunt that it was not in the least necessary there should be any notice on either side and that if it were it must belong to mr darcy the superior in consequence to begin the acquaintance.mr collins listened to her with the determined air of following his own inclination and when she ceased speaking replied thus my dear miss elizabeth i have the highest opinion in the world of your excellent judgment in all matters within the scope of your understanding but permit me to say that there must be a wide difference between the established forms of ceremony amongst the laity and those which regulate the clergy for give me leave to observe that i consider the clerical office as equal in point of dignity with the highest rank in the kingdomprovided that a proper humility of behaviour is at the same time <EOS>	7.7435198441379445
+<SOS> <SOS> <SOS> he answered me with the utmost civility and even paid me the compliment of saying that he was so well convinced of lady catherines discernment as to be certain she could never bestow a favour <EOS>	6.830717262184083
+<SOS> <SOS> <SOS> as elizabeth had no longer any interest of her own to pursue she turned her attention almost entirely on her sister and mr bingley and the train of agreeable reflections which her observations gave birth to made her perhaps almost as happy as <EOS>	7.019443955342838
+<SOS> <SOS> <SOS> when they sat down to supper therefore she considered it a most unlucky perverseness which placed them within one of each other and deeply was she vexed to find that her mother was talking to that one person lady lucas freely openly and of nothing else but of her expectation that jane would be soon married to mr bingley.it was an animating subject and mrs bennet seemed incapable of fatigue while enumerating the advantages of the <EOS>	7.414894473037197
+<SOS> <SOS> <SOS> it was moreover such a promising thing for her younger daughters as janes marrying so greatly must throw them in the way of other rich men and lastly it was so pleasant at her time of life to be able to consign her single daughters to the care of their sister that she might not be obliged to go into company more than she <EOS>	7.313454898752099
+<SOS> <SOS> <SOS> it was necessary to make this circumstance a matter of pleasure because on such occasions it is the etiquette but no one was less likely than mrs bennet to find comfort in staying at home at any period of her <EOS>	6.956142215919131
+<SOS> <SOS> <SOS> in vain did elizabeth endeavour to check the rapidity of her mothers words or persuade her to describe her felicity in a less audible whisper for to her inexpressible vexation she could perceive that the chief of it was overheard by mr darcy who sat opposite to <EOS>	7.092974423588428
+<SOS> <SOS> <SOS> her mother only scolded her for being <EOS>	4.544209071498869
+<SOS> <SOS> <SOS> you will never recommend yourself to his friend by so <EOS>	5.132036957500384
+<SOS> <SOS> <SOS> elizabeth now began to <EOS>	3.6728503235444143
+<SOS> <SOS> <SOS> the rest of the evening brought her little <EOS>	4.764352392575034
+<SOS> <SOS> <SOS> she was at least free from the offence of mr darcys farther notice though often standing within a very short distance of her quite disengaged he never came near enough to <EOS>	6.706856451936717
+<SOS> <SOS> <SOS> mr bingley and jane were standing together a little detached from the rest and talked only to each <EOS>	6.035756856319554
+<SOS> <SOS> <SOS> mrs bennet was perfectly satisfied and quitted the house under the delightful persuasion that allowing for the necessary preparations of settlements new carriages and wedding clothes she should undoubtedly see her daughter settled at netherfield in the course of three or four <EOS>	6.9991984869696875
+<SOS> <SOS> <SOS> of having another daughter married to mr collins she thought with equal certainty and with considerable though not equal <EOS>	6.110706865383714
+<SOS> <SOS> <SOS> before elizabeth had time for any thing but a blush of surprise mrs bennet instantly answered oh dear!yescertainly.i am sure lizzy will be very happyi am sure she can have no objection.come kitty i want you up <EOS>	6.884278779551959
+<SOS> <SOS> <SOS> but before i am run away with by my feelings on this subject perhaps it will be advisable for me to state my reasons for marryingand moreover for coming into hertfordshire with the design of selecting a wife as i certainly <EOS>	6.978115559749559
+<SOS> <SOS> <SOS> the idea of mr collins with all his solemn composure being run away with by his feelings made elizabeth so near laughing that she could not use the short pause he allowed in any attempt to stop him farther and he continued my reasons for marrying are first that i think it a right thing for every clergyman in easy circumstances like myself to set the example of matrimony in his <EOS>	7.376408535643011
+<SOS> <SOS> <SOS> you will find her manners beyond any thing i can describe and your wit and vivacity i think must be acceptable to her especially when tempered with the silence and respect which her rank will inevitably <EOS>	6.858115276834963
+<SOS> <SOS> <SOS> it was absolutely necessary to interrupt him <EOS>	4.544209071498869
+<SOS> <SOS> <SOS> i am not now to learn replied mr collins with a formal wave of the hand that it is usual with young ladies to reject the addresses of the man whom they secretly mean to accept when he first applies for their favour and that sometimes the refusal is repeated a second or even a third <EOS>	7.22445200183564
+<SOS> <SOS> <SOS> upon my word sir cried elizabeth your hope is rather an extraordinary one after my <EOS>	5.771218408857729
+<SOS> <SOS> <SOS> i wish you very happy and very rich and by refusing your hand do all in my power to prevent your being <EOS>	6.305171150853872
+<SOS> <SOS> <SOS> in every thing else she is as good natured a girl as ever <EOS>	5.552324557747837
+<SOS> <SOS> <SOS> i have sent for you on an affair of <EOS>	4.958937002444641
+<SOS> <SOS> <SOS> very welland this offer of marriage you have<EOS>	4.544209071498869
+<SOS> <SOS> <SOS> she was met in the vestibule by lydia who flying to her cried in a half whisper i am glad you are come for there is such fun here!what do you think has happened this<EOS>	6.80199548565183
+<SOS> <SOS> <SOS> i have no pleasure in talking to undutiful children.not that i have much pleasure indeed in talking to any <EOS>	6.110706865383714
+<SOS> <SOS> <SOS> those who do not complain are never <EOS>	4.544209071498869
+<SOS> <SOS> <SOS> her daughters listened in silence to this effusion sensible that any attempt to reason with or sooth her would only increase the <EOS>	6.305171150853872
+<SOS> <SOS> <SOS> far be it from me he presently continued in a voice that marked his displeasure to resent the behaviour of your <EOS>	6.244886481337671
+<SOS> <SOS> <SOS> resignation to inevitable evils is the duty of us all the peculiar duty of a young man who has been so fortunate as i have been in early preferment and i trust i am <EOS>	6.80199548565183
+<SOS> <SOS> <SOS> as for the gentleman himself _his_ feelings were chiefly expressed not by embarrassment or dejection or by trying to avoid her but by stiffness of manner and resentful <EOS>	6.595605688657698
+<SOS> <SOS> <SOS> i found said he as the time drew near that i had better not meet mr darcythat to be in the same room the same party with him for so many hours together might be more than i could bear and that scenes might arise unpleasant to more than <EOS>	7.125823557408646
+<SOS> <SOS> <SOS> she highly approved his forbearance and they had leisure for a full discussion of it and for all the commendation which they civilly bestowed on each other as wickham and another officer walked back with them to longbourn and during the walk he particularly attended to <EOS>	7.075625824495809
+<SOS> <SOS> <SOS> but you do not know <EOS>	4.005623370923401
+<SOS> <SOS> <SOS> i really do not think georgiana darcy has her equal for beauty elegance and accomplishments and the affection she inspires in louisa and myself is heightened into something still more interesting from the hope we dare to entertain of her being hereafter our <EOS>	7.019443955342838
+<SOS> <SOS> <SOS> i do not know whether i ever before mentioned to you my feelings on this subject but i will not leave the country without confiding them and i trust you will not esteem them <EOS>	6.80199548565183
+<SOS> <SOS> <SOS> most <EOS>	2.29933403256274
+<SOS> <SOS> <SOS> she is not such a <EOS>	4.005623370923401
+<SOS> <SOS> <SOS> believe her to be deceived by all <EOS>	4.544209071498869
+<SOS> <SOS> <SOS> a thousand things may arise in six months! the idea of his returning no more elizabeth treated with the utmost <EOS>	6.180228357013515
+<SOS> <SOS> <SOS> they agreed that mrs bennet should only hear of the departure of the family without being alarmed on the score of the gentlemans conduct but even this partial communication gave her a great deal of concern and she bewailed it as exceedingly unlucky that the ladies should happen to go away just as they were all getting so intimate <EOS>	7.260345754255357
+<SOS> <SOS> <SOS> this was very amiable but charlottes kindness extended farther than elizabeth had any conception ofits object was nothing less than to secure her from any return of mr collinss addresses by engaging them towards <EOS>	6.80199548565183
+<SOS> <SOS> <SOS> but here she did injustice to the fire and independence of his character for it led him to escape out of longbourn house the next morning with admirable slyness and hasten to lucas lodge to throw himself at her <EOS>	6.933220946371466
+<SOS> <SOS> <SOS> lady lucas began directly to calculate with more interest than the matter had ever excited before how many years longer mr bennet was likely to live and sir william gave it as his decided opinion that whenever mr collins should be in possession of the longbourn estate it would be highly expedient that both he and his wife should make their appearance at <EOS>	7.303437634470123
+<SOS> <SOS> <SOS> charlotte herself was tolerably <EOS>	3.6728503235444143
+<SOS> <SOS> <SOS> she had gained her point and had time to consider of <EOS>	5.286936993301231
+<SOS> <SOS> <SOS> but still he would be her husband.without thinking highly either of men or of matrimony marriage had always been her object it was the only honourable provision for welleducated young women of small fortune and however uncertain of giving happiness must be their pleasantest preservative from <EOS>	7.075625824495809
+<SOS> <SOS> <SOS> she resolved to give her the information herself and therefore charged mr collins when he returned to longbourn to dinner to drop no hint of what had passed before any of the <EOS>	6.740178598023261
+<SOS> <SOS> <SOS> they were all astonished and mr bennet who could by no means wish for so speedy a return immediately said but is there not danger of lady catherines disapprobation here my good<EOS>	6.706856451936717
+<SOS> <SOS> <SOS> risk any thing rather than her displeasure and if you find it likely to be raised by your coming to us again which i should think exceedingly probable stay quietly at home and be satisfied that _we_ shall take no <EOS>	6.956142215919131
+<SOS> <SOS> <SOS> with proper civilities the ladies then withdrew all of them equally surprised to find that he meditated a quick <EOS>	6.110706865383714
+<SOS> <SOS> <SOS> i ask only a comfortable home and considering mr collinss character connections and situation in life i am convinced that my chance of happiness with him is as fair as most people can boast on entering the marriage <EOS>	6.909289192214983
+<SOS> <SOS> <SOS> charlotte did not stay much longer and elizabeth was then left to reflect on what she had <EOS>	5.954723124084382
+<SOS> <SOS> <SOS> chapter <EOS>	2.29933403256274
+<SOS> <SOS> <SOS> with many compliments to them and much selfgratulation on the prospect of a connection between the houses he unfolded the matterto an audience not merely wondering but incredulous for mrs bennet with more perseverance than politeness protested he must be entirely mistaken and lydia always unguarded and often uncivil boisterously exclaimed good lord! sir william how can you tell such a<EOS>	7.27159908262283
+<SOS> <SOS> <SOS> do not you know that mr collins wants to marry<EOS>	4.958937002444641
+<SOS> <SOS> <SOS> her disappointment in charlotte made her turn with fonder regard to her sister of whose rectitude and delicacy she was sure her opinion could never be shaken and for whose happiness she grew daily more anxious as bingley had now been gone a week and nothing was heard of his <EOS>	7.141388487536665
+<SOS> <SOS> <SOS> the very mention of any thing concerning the match threw her into an agony of ill humour and wherever she went she was sure of hearing it talked <EOS>	6.595605688657698
+<SOS> <SOS> <SOS> she complained bitterly of all this to her <EOS>	4.764352392575034
+<SOS> <SOS> <SOS> let us be thankful that you are preserved from a state of such <EOS>	5.552324557747837
+<SOS> <SOS> <SOS> how any one could have the conscience to entail away an estate from ones own daughters i cannot understand and all for the sake of mr collins too!why should _he_ have it more than anybody<EOS>	6.80199548565183
+<SOS> <SOS> <SOS> end of <EOS>	2.831408843767187
+<SOS> <SOS> <SOS> her heart was divided between concern for her sister and resentment against all the <EOS>	5.666796805063259
+<SOS> <SOS> <SOS> that he was really fond of jane she doubted no more than she had ever done and much as she had always been disposed to like him she could not think without anger hardly without contempt on that easiness of temper that want of proper resolution which now made him the slave of his designing friends and led him to sacrifice his own happiness to the caprice of their <EOS>	7.359601023270758
+<SOS> <SOS> <SOS> a day or two passed before jane had courage to speak of her feelings to elizabeth but at last on mrs bennets leaving them together after a longer irritation than usual about netherfield and its master she could not help saying oh! that my dear mother had more command over herself she can have no idea of the pain she gives me by her continual reflections on <EOS>	7.3418882008835755
+<SOS> <SOS> <SOS> it cannot last <EOS>	3.285295070035791
+<SOS> <SOS> <SOS> he will be forgot and we shall all be as we were <EOS>	5.426304982158432
+<SOS> <SOS> <SOS> you doubt me cried jane slightly colouring indeed you have no <EOS>	5.286936993301231
+<SOS> <SOS> <SOS> i have nothing either to hope or fear and nothing to reproach him <EOS>	5.552324557747837
+<SOS> <SOS> <SOS> thank god! i have not _that_ <EOS>	4.293422401174083
+<SOS> <SOS> <SOS> my dear jane! exclaimed elizabeth you are too <EOS>	4.764352392575034
+<SOS> <SOS> <SOS> i feel as if i had never done you justice or loved you as you <EOS>	5.771218408857729
+<SOS> <SOS> <SOS> there are few people whom i really love and still fewer of whom i think <EOS>	5.771218408857729
+<SOS> <SOS> <SOS> consider mr collinss respectability and charlottes prudent steady <EOS>	4.764352392575034
+<SOS> <SOS> <SOS> remember that she is one of a large family that as to fortune it is a most eligible match and be ready to believe for every bodys sake that she may feel something like regard and esteem for our <EOS>	6.933220946371466
+<SOS> <SOS> <SOS> you shall not for the sake of one individual change the meaning of principle and integrity nor endeavour to persuade yourself or me that selfishness is prudence and insensibility of danger security for <EOS>	6.771851908504817
+<SOS> <SOS> <SOS> it is very often nothing but our own vanity that deceives <EOS>	5.286936993301231
+<SOS> <SOS> <SOS> if it is designedly done they cannot be justified but i have no idea of there being so much design in the world as some persons <EOS>	6.510354714573011
+<SOS> <SOS> <SOS> why should they try to influence<EOS>	4.005623370923401
+<SOS> <SOS> <SOS> beyond a doubt they _do_ wish him to chuse miss darcy replied jane but this may be from better feelings than you are <EOS>	6.3615090556320295
+<SOS> <SOS> <SOS> by supposing such an affection you make every body acting unnaturally and wrong and me most <EOS>	5.866842010825683
+<SOS> <SOS> <SOS> do not distress me by the <EOS>	4.293422401174083
+<SOS> <SOS> <SOS> let me take it in the best light in the light in which it may be <EOS>	5.866842010825683
+<SOS> <SOS> <SOS> her daughter endeavoured to convince her of what she did not believe herself that his attentions to jane had been merely the effect of a common and transient liking which ceased when he saw her no more but though the probability of the statement was admitted at the time she had the same story to repeat every <EOS>	7.236788793426273
+<SOS> <SOS> <SOS> you will hardly bear to be long outdone by <EOS>	4.958937002444641
+<SOS> <SOS> <SOS> thank you sir but a less agreeable man would satisfy <EOS>	5.132036957500384
+<SOS> <SOS> <SOS> true said mr bennet but it is a comfort to think that whatever of that kind may befal you you have an affectionate mother who will always make the most of <EOS>	6.706856451936717
+<SOS> <SOS> <SOS> miss bennet was the only creature who could suppose there might be any extenuating circumstances in the case unknown to the society of hertfordshire her mild and steady candour always pleaded for allowances and urged the possibility of mistakesbut by everybody else mr darcy was condemned as the worst of <EOS>	7.141388487536665
+<SOS> <SOS> <SOS> he took leave of his relations at longbourn with as much solemnity as before wished his fair cousins health and happiness again and promised their father another letter of <EOS>	6.634724293164914
+<SOS> <SOS> <SOS> they had frequently been staying with her in <EOS>	4.764352392575034
+<SOS> <SOS> <SOS> it became her turn to <EOS>	4.005623370923401
+<SOS> <SOS> <SOS> mrs bennet had many grievances to relate and much to complain <EOS>	5.286936993301231
+<SOS> <SOS> <SOS> they had all been very illused since she last saw her <EOS>	5.286936993301231
+<SOS> <SOS> <SOS> but that expression of violently in love is so hackneyed so doubtful so indefinite that it gives me very little <EOS>	6.180228357013515
+<SOS> <SOS> <SOS> i never saw a more promising <EOS>	4.293422401174083
+<SOS> <SOS> <SOS> poor jane! i am sorry for her because with her disposition she may not get over it <EOS>	5.954723124084382
+<SOS> <SOS> <SOS> and _that_ is quite impossible for he is now in the custody of his friend and mr darcy would no more suffer him to call on jane in such a part of london! my dear aunt how could you think of<EOS>	6.956142215919131
+<SOS> <SOS> <SOS> i hope they will not meet at <EOS>	4.544209071498869
+<SOS> <SOS> <SOS> but does not jane correspond with the<EOS>	4.293422401174083
+<SOS> <SOS> <SOS> _she_ will not be able to help <EOS>	4.544209071498869
+<SOS> <SOS> <SOS> but in spite of the certainty in which elizabeth affected to place this point as well as the still more interesting one of bingleys being withheld from seeing jane she felt a solicitude on the subject which convinced her on examination that she did not consider it entirely <EOS>	7.10969588174696
+<SOS> <SOS> <SOS> mrs bennet had so carefully provided for the entertainment of her brother and sister that they did not once sit down to a family <EOS>	6.414273468123172
+<SOS> <SOS> <SOS> i will try <EOS>	3.285295070035791
+<SOS> <SOS> <SOS> all that i can promise you therefore is not to be in a <EOS>	5.552324557747837
+<SOS> <SOS> <SOS> and i have another favour to <EOS>	4.293422401174083
+<SOS> <SOS> <SOS> we shall often meet i hope in <EOS>	4.544209071498869
+<SOS> <SOS> <SOS> i am not likely to leave kent for some <EOS>	4.958937002444641
+<SOS> <SOS> <SOS> she wrote cheerfully seemed surrounded with comforts and mentioned nothing which she could not <EOS>	5.666796805063259
+<SOS> <SOS> <SOS> it was mr collinss picture of hunsford and rosings rationally softened and elizabeth perceived that she must wait for her own visit there to know the <EOS>	6.510354714573011
+<SOS> <SOS> <SOS> i wish i could see <EOS>	4.005623370923401
+<SOS> <SOS> <SOS> elizabeth shook her head over this <EOS>	4.293422401174083
+<SOS> <SOS> <SOS> it convinced her that accident only could discover to mr bingley her sisters being in <EOS>	5.771218408857729
+<SOS> <SOS> <SOS> she was very wrong in singling me out as she did i can safely say that every advance to intimacy began on her <EOS>	6.3615090556320295
+<SOS> <SOS> <SOS> but i will endeavour to banish every painful thought and think only of what will make me happy your affection and the invariable kindness of my dear uncle and <EOS>	6.634724293164914
+<SOS> <SOS> <SOS> i am extremely glad that you have such pleasant accounts from our friends at <EOS>	5.666796805063259
+<SOS> <SOS> <SOS> but my feelings are not only cordial towards _him_ they are even impartial towards miss <EOS>	5.771218408857729
+<SOS> <SOS> <SOS> my watchfulness has been effectual and though i should certainly be a more interesting object to all my acquaintance were i distractedly in love with him i cannot say that i regret my comparative <EOS>	6.80199548565183
+<SOS> <SOS> <SOS> march was to take elizabeth to <EOS>	4.293422401174083
+<SOS> <SOS> <SOS> all was joy and <EOS>	3.6728503235444143
+<SOS> <SOS> <SOS> their first subject was her sister and she was more grieved than astonished to hear in reply to her minute enquiries that though jane always struggled to support her spirits there were periods of <EOS>	6.80199548565183
+<SOS> <SOS> <SOS> a man in distressed circumstances has not time for all those elegant decorums which other people may <EOS>	5.954723124084382
+<SOS> <SOS> <SOS> _he_ shall be mercenary and _she_ shall be <EOS>	4.764352392575034
+<SOS> <SOS> <SOS> no lizzy that is what i do _not_ <EOS>	4.764352392575034
+<SOS> <SOS> <SOS> oh! if that is all i have a very poor opinion of young men who live in derbyshire and their intimate friends who live in hertfordshire are not much <EOS>	6.634724293164914
+<SOS> <SOS> <SOS> i am sick of them <EOS>	4.005623370923401
+<SOS> <SOS> <SOS> adieu to disappointment and <EOS>	3.6728503235444143
+<SOS> <SOS> <SOS> lakes mountains and rivers shall not be jumbled together in our imaginations nor when we attempt to describe any particular scene will we begin quarrelling about its relative <EOS>	6.595605688657698
+<SOS> <SOS> <SOS> at length the parsonage was <EOS>	4.005623370923401
+<SOS> <SOS> <SOS> in a moment they were all out of the chaise rejoicing at the sight of each <EOS>	5.866842010825683
+<SOS> <SOS> <SOS> to work in his garden was one of his most respectable pleasures and elizabeth admired the command of countenance with which charlotte talked of the healthfulness of the exercise and owned she encouraged it as much as <EOS>	6.884278779551959
+<SOS> <SOS> <SOS> he could number the fields in every direction and could tell how many trees there were in the most distant <EOS>	6.180228357013515
+<SOS> <SOS> <SOS> she had already learnt that lady catherine was still in the <EOS>	5.286936993301231
+<SOS> <SOS> <SOS> it was spoken of again while they were at dinner when mr collins joining in observed yes miss elizabeth you will have the honour of seeing lady catherine de bourgh on the ensuing sunday at church and i need not say you will be delighted with <EOS>	7.075625824495809
+<SOS> <SOS> <SOS> she is all affability and condescension and i doubt not but you will be honoured with some portion of her notice when service is <EOS>	6.414273468123172
+<SOS> <SOS> <SOS> a lively imagination soon settled it <EOS>	4.293422401174083
+<SOS> <SOS> <SOS> and is this<EOS>	2.831408843767187
+<SOS> <SOS> <SOS> cried <EOS>	2.29933403256274
+<SOS> <SOS> <SOS> i expected at least that the pigs were got into the garden and here is nothing but lady catherine and her daughter! la! my dear said maria quite shocked at the mistake it is not lady <EOS>	6.858115276834963
+<SOS> <SOS> <SOS> the old lady is mrs jenkinson who lives with <EOS>	4.958937002444641
+<SOS> <SOS> <SOS> who would have thought she could be so thin and small! she is abominably rude to keep charlotte out of doors in all this <EOS>	6.414273468123172
+<SOS> <SOS> <SOS> mr collinss triumph in consequence of this invitation was <EOS>	4.958937002444641
+<SOS> <SOS> <SOS> mr collins was carefully instructing them in what they were to expect that the sight of such rooms so many servants and so splendid a dinner might not wholly overpower <EOS>	6.671753721206922
+<SOS> <SOS> <SOS> lady catherine will not think the worse of you for being simply <EOS>	5.426304982158432
+<SOS> <SOS> <SOS> she likes to have the distinction of rank <EOS>	4.764352392575034
+<SOS> <SOS> <SOS> while they were dressing he came two or three times to their different doors to recommend their being quick as lady catherine very much objected to be kept waiting for her dinner.such formidable accounts of her ladyship and her manner of living quite frightened maria lucas who had been little used to company and she looked forward to her introduction at rosings with as much apprehension as her father had done to his presentation at <EOS>	7.407571604919467
+<SOS> <SOS> <SOS> she had heard nothing of lady catherine that spoke her awful from any extraordinary talents or miraculous virtue and the mere stateliness of money and rank she thought she could witness without <EOS>	6.740178598023261
+<SOS> <SOS> <SOS> elizabeth found herself quite equal to the scene and could observe the three ladies before her composedly.lady catherine was a tall large woman with stronglymarked features which might once have been <EOS>	6.706856451936717
+<SOS> <SOS> <SOS> her air was not conciliating nor was her manner of receiving them such as to make her visitors forget their inferior <EOS>	6.244886481337671
+<SOS> <SOS> <SOS> she was not rendered formidable by silence but whatever she said was spoken in so authoritative a tone as marked her selfimportance and brought mr wickham immediately to elizabeths mind and from the observation of the day altogether she believed lady catherine to be exactly what he had <EOS>	7.10969588174696
+<SOS> <SOS> <SOS> we never had any <EOS>	3.6728503235444143
+<SOS> <SOS> <SOS> five daughters brought up at home without a governess!i never heard of such a <EOS>	5.666796805063259
+<SOS> <SOS> <SOS> your mother must have been quite a slave to your <EOS>	5.132036957500384
+<SOS> <SOS> <SOS> then who taught<EOS>	2.831408843767187
+<SOS> <SOS> <SOS> aye no doubt but that is what a governess will prevent and if i had known your mother i should have advised her most strenuously to engage <EOS>	6.554216716401523
+<SOS> <SOS> <SOS> mrs collins did i tell you of lady metcalfes calling yesterday to thank<EOS>	5.426304982158432
+<SOS> <SOS> <SOS> all!what all five out at<EOS>	3.6728503235444143
+<SOS> <SOS> <SOS> lady catherine seemed quite astonished at not receiving a direct answer and elizabeth suspected herself to be the first creature who had ever dared to trifle with so much dignified <EOS>	6.671753721206922
+<SOS> <SOS> <SOS> i am not one and <EOS>	4.005623370923401
+<SOS> <SOS> <SOS> lady catherine sir william and mr and mrs collins sat down to quadrille and as miss de bourgh chose to play at cassino the two girls had the honour of assisting mrs jenkinson to make up her <EOS>	6.884278779551959
+<SOS> <SOS> <SOS> from these instructions they were summoned by the arrival of the coach and with many speeches of thankfulness on mr collinss side and as many bows on sir williams they <EOS>	6.671753721206922
+<SOS> <SOS> <SOS> as soon as they had driven from the door elizabeth was called on by her cousin to give her opinion of all that she had seen at rosings which for charlottes sake she made more favourable than it really <EOS>	6.933220946371466
+<SOS> <SOS> <SOS> but her commendation though costing her some trouble could by no means satisfy mr collins and he was very soon obliged to take her ladyships praise into his own <EOS>	6.634724293164914
+<SOS> <SOS> <SOS> sir william staid only a week at hunsford but his visit was long enough to convince him of his daughters being most comfortably settled and of her possessing such a husband and such a neighbour as were not often met <EOS>	6.956142215919131
+<SOS> <SOS> <SOS> easter was approaching and the week preceding it was to bring an addition to the family at rosings which in so small a circle must be <EOS>	6.510354714573011
+<SOS> <SOS> <SOS> his arrival was soon known at the parsonage for mr collins was walking the whole morning within view of the lodges opening into hunsford lane in order to have the earliest assurance of it and after making his bow as the carriage turned into the park hurried home with the great <EOS>	7.156419585834195
+<SOS> <SOS> <SOS> on the following morning he hastened to rosings to pay his <EOS>	5.286936993301231
+<SOS> <SOS> <SOS> there were two nephews of lady catherine to require them for mr darcy had brought with him a colonel fitzwilliam the younger son of his uncle lord and to the great surprise of all the party when mr collins returned the gentlemen accompanied <EOS>	7.019443955342838
+<SOS> <SOS> <SOS> charlotte had seen them from her husbands room crossing the road and immediately running into the other told the girls what an honour they might expect adding i may thank you eliza for this piece of <EOS>	6.858115276834963
+<SOS> <SOS> <SOS> elizabeth had scarcely time to disclaim all right to the compliment before their approach was announced by the doorbell and shortly afterwards the three gentlemen entered the <EOS>	6.554216716401523
+<SOS> <SOS> <SOS> chapter <EOS>	2.29933403256274
+<SOS> <SOS> <SOS> it is of all subjects my <EOS>	4.293422401174083
+<SOS> <SOS> <SOS> i must have my share in the conversation if you are speaking of <EOS>	5.552324557747837
+<SOS> <SOS> <SOS> i often tell young ladies that no excellence in music is to be acquired without constant <EOS>	5.866842010825683
+<SOS> <SOS> <SOS> mr darcy looked a little ashamed of his aunts ill breeding and made no <EOS>	5.666796805063259
+<SOS> <SOS> <SOS> lady catherine listened to half a song and then talked as before to her other nephew till the latter walked away from her and moving with his usual deliberation towards the pianoforte stationed himself so as to command a full view of the fair performers <EOS>	7.057614183758726
+<SOS> <SOS> <SOS> mr darcy you cannot deny the <EOS>	4.293422401174083
+<SOS> <SOS> <SOS> perhaps said darcy i should have judged better had i sought an introduction but i am ill qualified to recommend myself to <EOS>	6.305171150853872
+<SOS> <SOS> <SOS> i cannot catch their tone of conversation or appear interested in their concerns as i often see <EOS>	5.954723124084382
+<SOS> <SOS> <SOS> my fingers said elizabeth do not move over this instrument in the masterly manner which i see so many womens <EOS>	6.180228357013515
+<SOS> <SOS> <SOS> elizabeth received them with all the forbearance of civility and at the request of the gentlemen remained at the instrument till her ladyships carriage was ready to take them all <EOS>	6.671753721206922
+<SOS> <SOS> <SOS> perfectly soi thank <EOS>	3.285295070035791
+<SOS> <SOS> <SOS> he took the hint and soon began with this seems a very comfortable <EOS>	5.552324557747837
+<SOS> <SOS> <SOS> mr collins appears very fortunate in his choice of a <EOS>	5.132036957500384
+<SOS> <SOS> <SOS> i should never have considered the distance as one of the _advantages_ of the match cried <EOS>	5.866842010825683
+<SOS> <SOS> <SOS> any thing beyond the very neighbourhood of longbourn i suppose would appear <EOS>	5.426304982158432
+<SOS> <SOS> <SOS> a short dialogue on the subject of the country ensued on either side calm and conciseand soon put an end to by the entrance of charlotte and her sister just returned from their <EOS>	6.771851908504817
+<SOS> <SOS> <SOS> but when elizabeth told of his silence it did not seem very likely even to charlottes wishes to be the case and after various conjectures they could at last only suppose his visit to proceed from the difficulty of finding any thing to do which was the more probable from the time of <EOS>	7.184986377459123
+<SOS> <SOS> <SOS> colonel fitzwilliams occasionally laughing at his stupidity proved that he was generally different which her own knowledge of him could not have told her and as she would have liked to believe this change the effect of love and the object of that love her friend eliza she sat herself seriously to work to find it out.she watched him whenever they were at rosings and whenever he came to hunsford but without much <EOS>	7.392378374113114
+<SOS> <SOS> <SOS> she had once or twice suggested to elizabeth the possibility of his being partial to her but elizabeth always laughed at the idea and mrs collins did not think it right to press the subject from the danger of raising expectations which might only end in disappointment for in her opinion it admitted not of a doubt that all her friends dislike would vanish if she could suppose him to be in her <EOS>	7.392378374113114
+<SOS> <SOS> <SOS> it distressed her a little and she was quite glad to find herself at the gate in the pales opposite the <EOS>	6.244886481337671
+<SOS> <SOS> <SOS> no i should have turned in a <EOS>	4.544209071498869
+<SOS> <SOS> <SOS> said <EOS>	2.29933403256274
+<SOS> <SOS> <SOS> but i am at his <EOS>	4.005623370923401
+<SOS> <SOS> <SOS> i do not know any body who seems more to enjoy the power of doing what he likes than mr <EOS>	6.180228357013515
+<SOS> <SOS> <SOS> he likes to have his own way very well replied colonel <EOS>	5.286936993301231
+<SOS> <SOS> <SOS> it is only that he has better means of having it than many others because he is rich and many others are <EOS>	6.305171150853872
+<SOS> <SOS> <SOS> i speak <EOS>	2.831408843767187
+<SOS> <SOS> <SOS> these are home questionsand perhaps i cannot say that i have experienced many hardships of that <EOS>	5.866842010825683
+<SOS> <SOS> <SOS> and she coloured at the idea but recovering herself said in a lively tone and pray what is the usual price of an earls younger<EOS>	6.414273468123172
+<SOS> <SOS> <SOS> are you<EOS>	2.29933403256274
+<SOS> <SOS> <SOS> does your charge give you much<EOS>	4.005623370923401
+<SOS> <SOS> <SOS> their brother is a pleasant gentlemanlike manhe is a great friend of <EOS>	5.426304982158432
+<SOS> <SOS> <SOS> and what arts did he use to separate<EOS>	4.544209071498869
+<SOS> <SOS> <SOS> but she continued recollecting herself as we know none of the particulars it is not fair to condemn <EOS>	6.035756856319554
+<SOS> <SOS> <SOS> it is not to be supposed that there was much affection in the <EOS>	5.552324557747837
+<SOS> <SOS> <SOS> there shut into her own room as soon as their visitor left them she could think without interruption of all that she had <EOS>	6.3615090556320295
+<SOS> <SOS> <SOS> that he had been concerned in the measures taken to separate mr bingley and jane she had never doubted but she had always attributed to miss bingley the principal design and arrangement of <EOS>	6.771851908504817
+<SOS> <SOS> <SOS> to jane herself she exclaimed there could be no possibility of <EOS>	5.286936993301231
+<SOS> <SOS> <SOS> the agitation and tears which the subject occasioned brought on a headache and it grew so much worse towards the evening that added to her unwillingness to see mr darcy it determined her not to attend her cousins to rosings where they were engaged to drink <EOS>	7.075625824495809
+<SOS> <SOS> <SOS> mr darcys shameful boast of what misery he had been able to inflict gave her a keener sense of her sisters <EOS>	6.244886481337671
+<SOS> <SOS> <SOS> she could not think of darcys leaving kent without remembering that his cousin was to go with him but colonel fitzwilliam had made it clear that he had no intentions at all and agreeable as he was she did not mean to be unhappy about <EOS>	7.057614183758726
+<SOS> <SOS> <SOS> elizabeth was surprised but said not a <EOS>	4.544209071498869
+<SOS> <SOS> <SOS> he _spoke_ of apprehension and anxiety but his countenance expressed real <EOS>	5.286936993301231
+<SOS> <SOS> <SOS> it is natural that obligation should be felt and if i could _feel_ gratitude i would now thank <EOS>	6.035756856319554
+<SOS> <SOS> <SOS> it has been most unconsciously done however and i hope will be of short <EOS>	5.666796805063259
+<SOS> <SOS> <SOS> his complexion became pale with anger and the disturbance of his mind was visible in every <EOS>	5.866842010825683
+<SOS> <SOS> <SOS> at length in a voice of forced calmness he said and this is all the reply which i am to have the honour of expecting! i might perhaps wish to be informed why with so little _endeavour_ at civility i am thus <EOS>	6.9991984869696875
+<SOS> <SOS> <SOS> you dare not you cannot deny that you have been the principal if not the only means of dividing them from each other of exposing one to the censure of the world for caprice and instability the other to its derision for disappointed hopes and involving them both in misery of the acutest <EOS>	7.184986377459123
+<SOS> <SOS> <SOS> he even looked at her with a smile of affected <EOS>	5.132036957500384
+<SOS> <SOS> <SOS> with assumed tranquillity he then replied i have no wish of denying that i did every thing in my power to separate my friend from your sister or that i rejoice in my <EOS>	6.771851908504817
+<SOS> <SOS> <SOS> on this subject what can you have to<EOS>	4.544209071498869
+<SOS> <SOS> <SOS> who that knows what his misfortunes have been can help feeling an interest in<EOS>	5.552324557747837
+<SOS> <SOS> <SOS> and of your infliction cried elizabeth with <EOS>	4.544209071498869
+<SOS> <SOS> <SOS> but disguise of every sort is my <EOS>	4.544209071498869
+<SOS> <SOS> <SOS> could you expect me to rejoice in the inferiority of your<EOS>	5.132036957500384
+<SOS> <SOS> <SOS> elizabeth felt herself growing more angry every moment yet she tried to the utmost to speak with composure when she said you are mistaken mr darcy if you suppose that the mode of your declaration affected me in any other way than as it spared me the concern which i might have felt in refusing you had you behaved in a more gentlemanlike <EOS>	7.303437634470123
+<SOS> <SOS> <SOS> but his pride his abominable pride his shameless avowal of what he had done with respect to jane his unpardonable assurance in acknowledging though he could not justify it and the unfeeling manner in which he had mentioned mr wickham his cruelty towards whom he had not attempted to deny soon overcame the pity which the consideration of his attachment had for a moment <EOS>	7.313454898752099
+<SOS> <SOS> <SOS> she was proceeding directly to her favourite walk when the recollection of mr darcys sometimes coming there stopped her and instead of entering the park she turned up the lane which led her farther from the turnpike <EOS>	6.884278779551959
+<SOS> <SOS> <SOS> she was on the point of continuing her walk when she caught a glimpse of a gentleman within the sort of grove which edged the park he was moving that way and fearful of its being mr darcy she was directly <EOS>	6.978115559749559
+<SOS> <SOS> <SOS> with no expectation of pleasure but with the strongest curiosity elizabeth opened the letter and to her still increasing wonder perceived an envelope containing two sheets of letter paper written quite through in a very close hand.the envelope itself was likewise full.pursuing her way along the lane she then began <EOS>	7.141388487536665
+<SOS> <SOS> <SOS> two offences of a very different nature and by no means of equal magnitude you last night laid to my <EOS>	6.180228357013515
+<SOS> <SOS> <SOS> the first mentioned was that regardless of the sentiments of either i had detached mr bingley from your sisterand the other that i had in defiance of various claims in defiance of honour and humanity ruined the immediate prosperity and blasted the prospects of mr wickham.wilfully and wantonly to have thrown off the companion of my youth the acknowledged favourite of my father a young man who had scarcely any other dependence than on our patronage and who had been brought up to expect its exertion would be a depravity to which the separation of two young persons whose affection could be the growth of only a few weeks could bear no comparison.but from the severity of that blame which was last night so liberally bestowed respecting each circumstance i shall hope to be in future secured when the following account of my actions and their motives has been read.if in the explanation of them which is due to myself i am under the necessity of relating feelings which may be offensive to yours i can only say that i am sorry.the necessity must be obeyedand farther apology would be absurd.i had not been long in hertfordshire before i saw in common with others that bingley preferred your eldest sister to any other young woman in the country.but it was not till the evening of the dance at netherfield that i had any apprehension of his feeling a serious attachment.i had often seen him in love before.at that ball while i had the honour of dancing with you i was first made acquainted by sir william lucass accidental information that bingleys attentions to your sister had given rise to a general expectation of their <EOS>	7.844918713861458
+<SOS> <SOS> <SOS> he spoke of it as a certain event of which the time alone could be <EOS>	5.771218408857729
+<SOS> <SOS> <SOS> he had before believed her to return his affection with sincere if not with equal regard.but bingley has great natural modesty with a stronger dependence on my judgment than on his own.to convince him therefore that he had deceived himself was no very difficult <EOS>	7.038900811955651
+<SOS> <SOS> <SOS> if i have wounded your sisters feelings it was unknowingly done and though the motives which governed me may to you very naturally appear insufficient i have not yet learnt to condemn them.with respect to that other more weighty accusation of having injured mr wickham i can only refute it by laying before you the whole of his connection with my <EOS>	7.282522800031377
+<SOS> <SOS> <SOS> mr wickham is the son of a very respectable man who had for many years the management of all the pemberley estates and whose good conduct in the discharge of his trust naturally inclined my father to be of service to him and on george wickham who was his godson his kindness was therefore liberally <EOS>	7.211719125880477
+<SOS> <SOS> <SOS> i thought too ill of him to invite him to pemberley or admit his society in <EOS>	5.866842010825683
+<SOS> <SOS> <SOS> he had found the law a most unprofitable study and was now absolutely resolved on being ordained if i would present him to the living in questionof which he trusted there could be little doubt as he was well assured that i had no other person to provide for and i could not have forgotten my revered fathers <EOS>	7.248747682074272
+<SOS> <SOS> <SOS> how he lived i know <EOS>	4.005623370923401
+<SOS> <SOS> <SOS> about a year ago she was taken from school and an establishment formed for her in london and last summer she went with the lady who presided over it to ramsgate and thither also went mr wickham undoubtedly by design for there proved to have been a prior acquaintance between him and mrs younge in whose character we were most unhappily deceived and by her connivance and aid he so far recommended himself to georgiana whose affectionate heart retained a strong impression of his kindness to her as a child that she was persuaded to believe herself in love and to consent to an <EOS>	7.566480440871132
+<SOS> <SOS> <SOS> she was then but fifteen which must be her excuse and after stating her imprudence i am happy to add that i owed the knowledge of it to <EOS>	6.595605688657698
+<SOS> <SOS> <SOS> i joined them unexpectedly a day or two before the intended elopement and then georgiana unable to support the idea of grieving and offending a brother whom she almost looked up to as a father acknowledged the whole to <EOS>	6.933220946371466
+<SOS> <SOS> <SOS> this madam is a faithful narrative of every event in which we have been concerned together and if you do not absolutely reject it as false you will i hope acquit me henceforth of cruelty towards mr <EOS>	6.884278779551959
+<SOS> <SOS> <SOS> but i was not then master enough of myself to know what could or ought to be <EOS>	5.954723124084382
+<SOS> <SOS> <SOS> if your abhorrence of _me_ should make _my_ assertions valueless you cannot be prevented by the same cause from confiding in my cousin and that there may be the possibility of consulting him i shall endeavour to find some opportunity of putting this letter in your hands in the course of the <EOS>	7.170943821019367
+<SOS> <SOS> <SOS> chapter <EOS>	2.29933403256274
+<SOS> <SOS> <SOS> she read with an eagerness which hardly left her power of comprehension and from impatience of knowing what the next sentence might bring was incapable of attending to the sense of the one before her <EOS>	6.830717262184083
+<SOS> <SOS> <SOS> he expressed no regret for what he had done which satisfied her his style was not penitent but <EOS>	6.035756856319554
+<SOS> <SOS> <SOS> the account of his connection with the pemberley family was exactly what he had related himself and the kindness of the late mr darcy though she had not before known its extent agreed equally well with his own <EOS>	6.909289192214983
+<SOS> <SOS> <SOS> but when she read and reread with the closest attention the particulars immediately following of wickhams resigning all pretensions to the living of his receiving in lieu so considerable a sum as three thousand pounds again was she forced to <EOS>	6.956142215919131
+<SOS> <SOS> <SOS> but alas! the story which followed of his designs on miss darcy received some confirmation from what had passed between colonel fitzwilliam and herself only the morning before and at last she was referred for the truth of every particular to colonel fitzwilliam himselffrom whom she had previously received the information of his near concern in all his cousins affairs and whose character she had no reason to <EOS>	7.350862283542554
+<SOS> <SOS> <SOS> she grew absolutely ashamed of herself.of neither darcy nor wickham could she think without feeling that she had been blind partial prejudiced <EOS>	6.305171150853872
+<SOS> <SOS> <SOS> how despicably have i acted! she cried.i who have prided myself on my discernment!i who have valued myself on my abilities! who have often disdained the generous candour of my sister and gratified my vanity in useless or blameable distrust.how humiliating is this discovery!yet how just a humiliation!had i been in love i could not have been more wretchedly <EOS>	7.260345754255357
+<SOS> <SOS> <SOS> till this moment i never knew <EOS>	4.293422401174083
+<SOS> <SOS> <SOS> widely different was the effect of a second perusal.how could she deny that credit to his assertions in one instance which she had been obliged to give in the<EOS>	6.595605688657698
+<SOS> <SOS> <SOS> it soothed but it could not console her for the contempt which had been thus selfattracted by the rest of her familyand as she considered that janes disappointment had in fact been the work of her nearest relations and reflected how materially the credit of both must be hurt by such impropriety of conduct she felt depressed beyond any thing she had ever known <EOS>	7.313454898752099
+<SOS> <SOS> <SOS> what would she have<EOS>	3.285295070035791
+<SOS> <SOS> <SOS> how would she have<EOS>	3.285295070035791
+<SOS> <SOS> <SOS> mrs collins will be very glad of your company i am <EOS>	5.286936993301231
+<SOS> <SOS> <SOS> why at that rate you will have been here only six <EOS>	5.286936993301231
+<SOS> <SOS> <SOS> mrs collins you must send a servant with <EOS>	4.764352392575034
+<SOS> <SOS> <SOS> when my niece georgiana went to ramsgate last summer i made a point of her having two men servants go with her.miss darcy the daughter of mr darcy of pemberley and lady anne could not have appeared with propriety in a different manner.i am excessively attentive to all those <EOS>	7.125823557408646
+<SOS> <SOS> <SOS> i am glad it occurred to me to mention it for it would really be discreditable to _you_ to let them go <EOS>	6.305171150853872
+<SOS> <SOS> <SOS> i am very glad you have somebody who thinks of those <EOS>	5.286936993301231
+<SOS> <SOS> <SOS> where shall you change<EOS>	3.285295070035791
+<SOS> <SOS> <SOS> oh! bromley of course.if you mention my name at the bell you will be attended <EOS>	5.771218408857729
+<SOS> <SOS> <SOS> lady catherine had many other questions to ask respecting their journey and as she did not answer them all herself attention was necessary which elizabeth believed to be lucky for her or with a mind so occupied she might have forgotten where she <EOS>	7.019443955342838
+<SOS> <SOS> <SOS> while there was an officer in meryton they would flirt with him and while meryton was within a walk of longbourn they would be going there for <EOS>	6.554216716401523
+<SOS> <SOS> <SOS> when they parted lady catherine with great condescension wished them a good journey and invited them to come to hunsford again next year and miss de bourgh exerted herself so far as to curtsey and hold out her hand to <EOS>	6.956142215919131
+<SOS> <SOS> <SOS> the favour of your company has been much felt i assure <EOS>	5.286936993301231
+<SOS> <SOS> <SOS> you see on what a footing we <EOS>	4.544209071498869
+<SOS> <SOS> <SOS> we seem to have been designed for each <EOS>	4.764352392575034
+<SOS> <SOS> <SOS> poor charlotte!it was melancholy to leave her to such society!but she had chosen it with her eyes open and though evidently regretting that her visitors were to go she did not seem to ask for <EOS>	6.830717262184083
+<SOS> <SOS> <SOS> her home and her housekeeping her parish and her poultry and all their dependent concerns had not yet lost their <EOS>	6.180228357013515
+<SOS> <SOS> <SOS> at length the chaise arrived the trunks were fastened on the parcels placed within and it was pronounced to be <EOS>	6.180228357013515
+<SOS> <SOS> <SOS> after an affectionate parting between the friends elizabeth was attended to the carriage by mr collins and as they walked down the garden he was commissioning her with his best respects to all her family not forgetting his thanks for the kindness he had received at longbourn in the winter and his compliments to mr and mrs gardiner though <EOS>	7.260345754255357
+<SOS> <SOS> <SOS> elizabeth made no objectionthe door was then allowed to be shut and the carriage drove <EOS>	5.771218408857729
+<SOS> <SOS> <SOS> good gracious! cried maria after a few minutes silence it seems but a day or two since we first came!and yet how many things have happened! a great many indeed said her companion with a <EOS>	6.830717262184083
+<SOS> <SOS> <SOS> and when her sisters abused it as ugly she added with perfect unconcern oh! but there were two or three much uglier in the shop and when i have bought some prettiercoloured satin to trim it with fresh i think it will be very <EOS>	7.038900811955651
+<SOS> <SOS> <SOS> they are going to be encamped near brighton and i do so want papa to take us all there for the summer! it would be such a delicious scheme and i dare say would hardly cost any thing at <EOS>	6.933220946371466
+<SOS> <SOS> <SOS> it is excellent news capital news and about a certain person that we all <EOS>	5.666796805063259
+<SOS> <SOS> <SOS> jane and elizabeth looked at each other and the waiter was told that he need not <EOS>	5.866842010825683
+<SOS> <SOS> <SOS> have you seen any pleasant<EOS>	3.6728503235444143
+<SOS> <SOS> <SOS> the comfort to _her_ of the regiments approaching removal was indeed beyond <EOS>	5.426304982158432
+<SOS> <SOS> <SOS> in a fortnight they were to go and once gone she hoped there could be nothing more to plague her on his <EOS>	6.305171150853872
+<SOS> <SOS> <SOS> you do not blame me however for refusing<EOS>	4.544209071498869
+<SOS> <SOS> <SOS> take your choice but you must be satisfied with only <EOS>	5.132036957500384
+<SOS> <SOS> <SOS> there is but such a quantity of merit between them just enough to make one good sort of man and of late it has been shifting about pretty <EOS>	6.595605688657698
+<SOS> <SOS> <SOS> it was some time however before a smile could be extorted from <EOS>	5.426304982158432
+<SOS> <SOS> <SOS> i do not know when i have been more shocked said <EOS>	5.286936993301231
+<SOS> <SOS> <SOS> and with no one to speak to of what i felt no jane to comfort me and say that i had not been so very weak and vain and nonsensical as i knew i had! oh! how i wanted you! how unfortunate that you should have used such very strong expressions in speaking of wickham to mr darcy for now they _do_ appear wholly <EOS>	7.313454898752099
+<SOS> <SOS> <SOS> miss bennet paused a little and then replied surely there can be no occasion for exposing him so <EOS>	6.035756856319554
+<SOS> <SOS> <SOS> mr darcy has not authorised me to make his communication <EOS>	5.132036957500384
+<SOS> <SOS> <SOS> we must not make him <EOS>	4.005623370923401
+<SOS> <SOS> <SOS> jane was not <EOS>	3.285295070035791
+<SOS> <SOS> <SOS> having never even fancied herself in love before her regard had all the warmth of first attachment and from her age and disposition greater steadiness than first attachments often boast and so fervently did she value his remembrance and prefer him to every other man that all her good sense and all her attention to the feelings of her friends were requisite to check the indulgence of those regrets which must have been injurious to her own health and their <EOS>	7.442507304826072
+<SOS> <SOS> <SOS> well lizzy said mrs bennet one day what is your opinion _now_ of this sad business of<EOS>	5.866842010825683
+<SOS> <SOS> <SOS> but i cannot find out that jane saw any thing of him in <EOS>	5.552324557747837
+<SOS> <SOS> <SOS> well he is a very undeserving young manand i do not suppose there is the least chance in the world of her ever getting him <EOS>	6.463792293003369
+<SOS> <SOS> <SOS> but as elizabeth could not receive comfort from any such expectation she made no <EOS>	5.666796805063259
+<SOS> <SOS> <SOS> well lizzy continued her mother soon afterwards and so the collinses live very comfortable do<EOS>	5.666796805063259
+<SOS> <SOS> <SOS> but i make no doubt they often talk of it between <EOS>	5.286936993301231
+<SOS> <SOS> <SOS> _i_ should be ashamed of having one that was only entailed on <EOS>	5.426304982158432
+<SOS> <SOS> <SOS> very frequently were they reproached for this insensibility by kitty and lydia whose own misery was extreme and who could not comprehend such hardheartedness in any of the <EOS>	6.595605688657698
+<SOS> <SOS> <SOS> i thought i should have broke my <EOS>	4.544209071498869
+<SOS> <SOS> <SOS> such were the kind of lamentations resounding perpetually through <EOS>	4.958937002444641
+<SOS> <SOS> <SOS> the rapture of lydia on this occasion her adoration of mrs forster the delight of mrs bennet and the mortification of kitty are scarcely to be <EOS>	6.510354714573011
+<SOS> <SOS> <SOS> what has she frightened away some of your<EOS>	4.544209071498869
+<SOS> <SOS> <SOS> our importance our respectability in the world must be affected by the wild volatility the assurance and disdain of all restraint which mark lydias <EOS>	6.414273468123172
+<SOS> <SOS> <SOS> a flirt too in the worst and meanest degree of flirtation without any attraction beyond youth and a tolerable person and from the ignorance and emptiness of her mind wholly unable to ward off any portion of that universal contempt which her rage for admiration will <EOS>	7.075625824495809
+<SOS> <SOS> <SOS> she was confident of having performed her duty and to fret over unavoidable evils or augment them by anxiety was no part of her <EOS>	6.414273468123172
+<SOS> <SOS> <SOS> in lydias imagination a visit to brighton comprised every possibility of earthly <EOS>	5.426304982158432
+<SOS> <SOS> <SOS> had she known that her sister sought to tear her from such prospects and such realities as these what would have been her<EOS>	6.305171150853872
+<SOS> <SOS> <SOS> elizabeth was now to see mr wickham for the last <EOS>	5.132036957500384
+<SOS> <SOS> <SOS> she lost all concern for him in finding herself thus selected as the object of such idle and frivolous gallantry and while she steadily repressed it could not but feel the reproof contained in his believing that however long and for whatever cause his attentions had been withdrawn her vanity would be gratified and her preference secured at any time by their <EOS>	7.293131167174724
+<SOS> <SOS> <SOS> has he deigned to add ought of civility to his ordinary<EOS>	5.132036957500384
+<SOS> <SOS> <SOS> while she spoke wickham looked as if scarcely knowing whether to rejoice over her words or to distrust their <EOS>	6.110706865383714
+<SOS> <SOS> <SOS> elizabeth could not repress a smile at this but she answered only by a slight inclination of the <EOS>	6.035756856319554
+<SOS> <SOS> <SOS> when the party broke up lydia returned with mrs forster to meryton from whence they were to set out early the next <EOS>	6.305171150853872
+<SOS> <SOS> <SOS> kitty was the only one who shed tears but she did weep from vexation and <EOS>	5.771218408857729
+<SOS> <SOS> <SOS> mrs bennet was diffuse in her good wishes for the felicity of her daughter and impressive in her injunctions that she would not miss the opportunity of enjoying herself as much as possible advice which there was every reason to believe would be attended to and in the clamorous happiness of lydia herself in bidding farewell the more gentle adieus of her sisters were uttered without being <EOS>	7.3418882008835755
+<SOS> <SOS> <SOS> chapter <EOS>	2.29933403256274
+<SOS> <SOS> <SOS> respect esteem and confidence had vanished for ever and all his views of domestic happiness were <EOS>	5.866842010825683
+<SOS> <SOS> <SOS> but mr bennet was not of a disposition to seek comfort for the disappointment which his own imprudence had brought on in any of those pleasures which too often console the unfortunate for their folly or their <EOS>	6.884278779551959
+<SOS> <SOS> <SOS> she had always seen it with pain but respecting his abilities and grateful for his affectionate treatment of herself she endeavoured to forget what she could not overlook and to banish from her thoughts that continual breach of conjugal obligation and decorum which in exposing his wife to the contempt of her own children was so highly <EOS>	7.236788793426273
+<SOS> <SOS> <SOS> her tour to the lakes was now the object of her happiest thoughts it was her best consolation for all the uncomfortable hours which the discontentedness of her mother and kitty made inevitable and could she have included jane in the scheme every part of it would have been <EOS>	7.125823557408646
+<SOS> <SOS> <SOS> but it is fortunate thought she that i have something to wish <EOS>	5.426304982158432
+<SOS> <SOS> <SOS> everything wore a happier <EOS>	3.6728503235444143
+<SOS> <SOS> <SOS> mr gardiner would be prevented by business from setting out till a fortnight later in july and must be in london again within a month and as that left too short a period for them to go so far and see so much as they had proposed or at least to see it with the leisure and comfort they had built on they were obliged to give up the lakes and substitute a more contracted tour and according to the present plan were to go no farther northward than <EOS>	7.496243951142596
+<SOS> <SOS> <SOS> but they did pass away and mr and mrs gardiner with their four children did at length appear at <EOS>	6.110706865383714
+<SOS> <SOS> <SOS> the children two girls of six and eight years old and two younger boys were to be left under the particular care of their cousin jane who was the general favourite and whose steady sense and sweetness of temper exactly adapted her for attending to them in every wayteaching them playing with them and loving <EOS>	7.211719125880477
+<SOS> <SOS> <SOS> it was not in their direct road nor more than a mile or two out of <EOS>	5.866842010825683
+<SOS> <SOS> <SOS> a place too with which so many of your acquaintance are <EOS>	5.286936993301231
+<SOS> <SOS> <SOS> she felt that she had no business at pemberley and was obliged to assume a disinclination for seeing <EOS>	6.035756856319554
+<SOS> <SOS> <SOS> elizabeth said no morebut her mind could not <EOS>	4.764352392575034
+<SOS> <SOS> <SOS> it would be dreadful! she blushed at the very idea and thought it would be better to speak openly to her aunt than to run such a <EOS>	6.554216716401523
+<SOS> <SOS> <SOS> illustration matlock pride and prejudice a <EOS>	4.293422401174083
+<SOS> <SOS> <SOS> illustration dovedale pride <EOS>	3.285295070035791
+<SOS> <SOS> <SOS> chapter <EOS>	2.29933403256274
+<SOS> <SOS> <SOS> the park was very large and contained great variety of <EOS>	5.132036957500384
+<SOS> <SOS> <SOS> elizabeths mind was too full for conversation but she saw and admired every remarkable spot and point of <EOS>	6.035756856319554
+<SOS> <SOS> <SOS> elizabeth was <EOS>	2.831408843767187
+<SOS> <SOS> <SOS> they followed her into the <EOS>	4.005623370923401
+<SOS> <SOS> <SOS> it was a large wellproportioned room handsomely fitted <EOS>	4.764352392575034
+<SOS> <SOS> <SOS> elizabeth after slightly surveying it went to a window to enjoy its <EOS>	5.426304982158432
+<SOS> <SOS> <SOS> the hill crowned with wood from which they had descended receiving increased abruptness from the distance was a beautiful <EOS>	6.110706865383714
+<SOS> <SOS> <SOS> this was a lucky recollectionit saved her from something like <EOS>	5.132036957500384
+<SOS> <SOS> <SOS> this room was my late masters favourite room and these miniatures are just as they used to be <EOS>	6.035756856319554
+<SOS> <SOS> <SOS> he was very fond of <EOS>	4.005623370923401
+<SOS> <SOS> <SOS> mr gardiner whose manners were easy and pleasant encouraged her communicativeness by his questions and remarks mrs reynolds either from pride or attachment had evidently great pleasure in talking of her master and his <EOS>	6.80199548565183
+<SOS> <SOS> <SOS> not so much as i could wish sir but i dare say he may spend half his time here and miss darcy is always down for the summer <EOS>	6.595605688657698
+<SOS> <SOS> <SOS> yes sir but i do not know when _that_ will <EOS>	5.132036957500384
+<SOS> <SOS> <SOS> yes maam that he was indeed and his son will be just like himjust as affable to the <EOS>	6.035756856319554
+<SOS> <SOS> <SOS> mrs reynolds could interest her on no other <EOS>	4.764352392575034
+<SOS> <SOS> <SOS> she related the subject of the pictures the dimensions of the rooms and the price of the furniture in <EOS>	6.110706865383714
+<SOS> <SOS> <SOS> in what an amiable light does this place him! thought <EOS>	5.132036957500384
+<SOS> <SOS> <SOS> elizabeth walked on in quest of the only face whose features would be known to <EOS>	5.771218408857729
+<SOS> <SOS> <SOS> there was certainly at this moment in elizabeths mind a more gentle sensation towards the original than she had ever felt in the height of their <EOS>	6.510354714573011
+<SOS> <SOS> <SOS> the commendation bestowed on him by mrs reynolds was of no trifling <EOS>	5.426304982158432
+<SOS> <SOS> <SOS> she had instinctively turned away but stopping on his approach received his compliments with an embarrassment impossible to be <EOS>	6.110706865383714
+<SOS> <SOS> <SOS> had his first appearance or his resemblance to the picture they had just been examining been insufficient to assure the other two that they now saw mr darcy the gardeners expression of surprise on beholding his master must immediately have told <EOS>	6.978115559749559
+<SOS> <SOS> <SOS> had they been only ten minutes sooner they should have been beyond the reach of his discrimination for it was plain that he was that moment arrived that moment alighted from his horse or his <EOS>	6.830717262184083
+<SOS> <SOS> <SOS> her thoughts were all fixed on that one spot of pemberley house whichever it might be where mr darcy then <EOS>	6.180228357013515
+<SOS> <SOS> <SOS> at length however the remarks of her companions on her absence of mind roused her and she felt the necessity of appearing more like <EOS>	6.414273468123172
+<SOS> <SOS> <SOS> her colour changed and she said no <EOS>	4.544209071498869
+<SOS> <SOS> <SOS> it was consoling that he should know she had some relations for whom there was no need to <EOS>	6.035756856319554
+<SOS> <SOS> <SOS> it cannot be for _me_ it cannot be for _my_ sake that his manners are thus <EOS>	5.866842010825683
+<SOS> <SOS> <SOS> after walking some time in this way the two ladies in front the two gentlemen behind on resuming their places after descending to the brink of the river for the better inspection of some curious waterplant there chanced to be a little <EOS>	6.9991984869696875
+<SOS> <SOS> <SOS> she wished him to know that she had been assured of his absence before she came to the place and accordingly began by observing that his arrival had been very unexpectedfor your housekeeper she added informed us that you would certainly not be here till tomorrow and indeed before we left bakewell we understood that you were not immediately expected in the <EOS>	7.293131167174724
+<SOS> <SOS> <SOS> he acknowledged the truth of it all and said that business with his steward had occasioned his coming forward a few hours before the rest of the party with whom he had been <EOS>	6.771851908504817
+<SOS> <SOS> <SOS> her thoughts were instantly driven back to the time when mr bingleys name had been last mentioned between them and if she might judge from his complexion _his_ mind was not very differently <EOS>	6.771851908504817
+<SOS> <SOS> <SOS> it was more than civil it was really attentive and there was no necessity for such <EOS>	5.866842010825683
+<SOS> <SOS> <SOS> elizabeth excused herself as well as she could said that she had liked him better when they met in kent than before and that she had never seen him so pleasant as this <EOS>	6.771851908504817
+<SOS> <SOS> <SOS> and there is something of dignity in his countenance that would not give one an unfavourable idea of his <EOS>	6.110706865383714
+<SOS> <SOS> <SOS> but her conclusion was false for on the very morning after their own arrival at lambton these visitors <EOS>	6.035756856319554
+<SOS> <SOS> <SOS> her uncle and aunt were all amazement and the embarrassment of her manner as she spoke joined to the circumstance itself and many of the circumstances of the preceding day opened to them a new idea on the <EOS>	6.909289192214983
+<SOS> <SOS> <SOS> but though this might be imaginary she could not be deceived as to his behaviour to miss darcy who had been set up as a rival of <EOS>	6.554216716401523
+<SOS> <SOS> <SOS> when she saw him thus seeking the acquaintance and courting the good opinion of people with whom any intercourse a few months ago would have been a disgrace when she saw him thus civil not only to herself but to the very relations whom he had openly disdained and recollected their last lively scene in hunsford parsonage the difference the change was so great and struck so forcibly on her mind that she could hardly restrain her astonishment from being <EOS>	7.442507304826072
+<SOS> <SOS> <SOS> eager to be alone and fearful of enquiries or hints from her uncle and aunt she staid with them only long enough to hear their favourable opinion of bingley and then hurried away to <EOS>	6.80199548565183
+<SOS> <SOS> <SOS> they saw much to interest but nothing to justify <EOS>	4.958937002444641
+<SOS> <SOS> <SOS> it was acknowledged however that he was a liberal man and did much good among the <EOS>	5.866842010825683
+<SOS> <SOS> <SOS> as for elizabeth her thoughts were at pemberley this evening more than the last and the evening though as it passed it seemed long was not long enough to determine her feelings towards _one_ in that mansion and she lay awake two whole hours endeavouring to make them <EOS>	7.10969588174696
+<SOS> <SOS> <SOS> she certainly did not hate <EOS>	4.005623370923401
+<SOS> <SOS> <SOS> it was gratitude.gratitude not merely for having once loved her but for loving her still well enough to forgive all the petulance and acrimony of her manner in rejecting him and all the unjust accusations accompanying her <EOS>	6.884278779551959
+<SOS> <SOS> <SOS> it had been settled in the evening between the aunt and niece that such a striking civility as miss darcys in coming to them on the very day of her arrival at pemberley for she had reached it only to a late breakfast ought to be imitated though it could not be equalled by some exertion of politeness on their side and consequently that it would be highly expedient to wait on her at pemberley the following <EOS>	7.422043502763603
+<SOS> <SOS> <SOS> it was first broken by mrs annesley a genteel agreeablelooking woman whose endeavour to introduce some kind of discourse proved her to be more truly well bred than either of the others and between her and mrs gardiner with occasional help from elizabeth the conversation was carried <EOS>	7.092974423588428
+<SOS> <SOS> <SOS> miss darcy looked as if she wished for courage enough to join in it and sometimes did venture a short sentence when there was least danger of its being <EOS>	6.634724293164914
+<SOS> <SOS> <SOS> after sitting in this manner a quarter of an hour without hearing miss bingleys voice elizabeth was roused by receiving from her a cold enquiry after the health of her <EOS>	6.671753721206922
+<SOS> <SOS> <SOS> they must be a great loss to _your_ <EOS>	4.764352392575034
+<SOS> <SOS> <SOS> not a syllable had ever reached her of miss darcys meditated <EOS>	5.286936993301231
+<SOS> <SOS> <SOS> elizabeths collected behaviour however soon quieted his emotion and as miss bingley vexed and disappointed dared not approach nearer to wickham georgiana also recovered in time though not enough to be able to speak any <EOS>	6.830717262184083
+<SOS> <SOS> <SOS> but georgiana would not join <EOS>	4.005623370923401
+<SOS> <SOS> <SOS> for my own part she rejoined i must confess that i never could see any beauty in <EOS>	5.954723124084382
+<SOS> <SOS> <SOS> persuaded as miss bingley was that darcy admired elizabeth this was not the best method of recommending herself but angry people are not always wise and in seeing him at last look somewhat nettled she had all the success she <EOS>	6.956142215919131
+<SOS> <SOS> <SOS> yes replied darcy who could contain himself no longer but _that_ was only when i first knew her for it is many months since i have considered her as one of the handsomest women of my <EOS>	6.858115276834963
+<SOS> <SOS> <SOS> elizabeth had been a good deal disappointed in not finding a letter from jane on their first arrival at lambton and this disappointment had been renewed on each of the mornings that had now been spent there but on the third her repining was over and her sister justified by the receipt of two letters from her at once on one of which was marked that it had been missent <EOS>	7.3681135520249255
+<SOS> <SOS> <SOS> an express came at twelve last night just as we were all gone to bed from colonel forster to inform us that she was gone off to scotland with one of his officers to own the truth with wickham!imagine our <EOS>	6.956142215919131
+<SOS> <SOS> <SOS> lydia left a few lines for his wife informing her of their <EOS>	5.426304982158432
+<SOS> <SOS> <SOS> gave them to understand that they were going to gretna green something was dropped by denny expressing his belief that <EOS>	6.180228357013515
+<SOS> <SOS> <SOS> never intended to go there or to marry lydia at all which was repeated to colonel <EOS>	5.866842010825683
+<SOS> <SOS> <SOS> all that is known after this is that they were seen to continue the london <EOS>	5.771218408857729
+<SOS> <SOS> <SOS> but no one can throw any blame on <EOS>	4.764352392575034
+<SOS> <SOS> <SOS> many circumstances might make it more eligible for them to be married privately in town than to pursue their first plan and even if _he_ could form such a design against a young woman of lydias connections which is not likely can i suppose her so lost to every<EOS>	7.10969588174696
+<SOS> <SOS> <SOS> could she exert herself it would be better but this is not to be expected and as to my father i never in my life saw him so <EOS>	6.595605688657698
+<SOS> <SOS> <SOS> i take up my pen again to do what i have just told you i would not but circumstances are such that i cannot help earnestly begging you all to come here as soon as <EOS>	6.830717262184083
+<SOS> <SOS> <SOS> oh! where where is my<EOS>	3.6728503235444143
+<SOS> <SOS> <SOS> calling back the servant therefore she commissioned him though in so breathless an accent as made her almost unintelligible to fetch his master and mistress home <EOS>	6.510354714573011
+<SOS> <SOS> <SOS> i am only distressed by some dreadful news which i have just received from <EOS>	5.666796805063259
+<SOS> <SOS> <SOS> darcy in wretched suspense could only say something indistinctly of his concern and observe her in compassionate <EOS>	5.954723124084382
+<SOS> <SOS> <SOS> it cannot be concealed from any <EOS>	4.293422401174083
+<SOS> <SOS> <SOS> i am grieved indeed cried darcy <EOS>	4.293422401174083
+<SOS> <SOS> <SOS> when _my_ eyes were opened to his real character.oh! had i known what i ought what i dared to do! but i knew noti was afraid of doing too <EOS>	6.634724293164914
+<SOS> <SOS> <SOS> elizabeth soon observed and instantly understood <EOS>	4.293422401174083
+<SOS> <SOS> <SOS> this unfortunate affair will i fear prevent my sisters having the pleasure of seeing you at pemberley <EOS>	5.954723124084382
+<SOS> <SOS> <SOS> be so kind as to apologize for us to miss <EOS>	5.132036957500384
+<SOS> <SOS> <SOS> conceal the unhappy truth as long as it is possible.i know it cannot be <EOS>	5.666796805063259
+<SOS> <SOS> <SOS> if gratitude and esteem are good foundations of affection elizabeths change of sentiment will be neither improbable nor <EOS>	6.035756856319554
+<SOS> <SOS> <SOS> never since reading janes second letter had she entertained a hope of wickhams meaning to marry <EOS>	5.866842010825683
+<SOS> <SOS> <SOS> but what is to be done about<EOS>	4.293422401174083
+<SOS> <SOS> <SOS> cried elizabeth brightening up for a <EOS>	4.293422401174083
+<SOS> <SOS> <SOS> it is really too great a violation of decency honour and interest for him to be guilty of <EOS>	6.035756856319554
+<SOS> <SOS> <SOS> if indeed it should be so! but i dare not hope <EOS>	5.286936993301231
+<SOS> <SOS> <SOS> it is not likely that money should be very abundant on either side and it might strike them that they could be more economically though less expeditiously married in london than in <EOS>	6.740178598023261
+<SOS> <SOS> <SOS> but can you think that lydia is so lost to every thing but love of him as to consent to live with him on any other terms than<EOS>	6.554216716401523
+<SOS> <SOS> <SOS> susceptibility to her feelings which are naturally lively <EOS>	4.764352392575034
+<SOS> <SOS> <SOS> and we all know that wickham has every charm of person and address that can captivate a <EOS>	5.954723124084382
+<SOS> <SOS> <SOS> of whom does jane ever think<EOS>	4.005623370923401
+<SOS> <SOS> <SOS> every girl in or near meryton was out of her senses about him for the first two months but he never distinguished _her_ by any particular attention and consequently after a moderate period of extravagant and wild admiration her fancy for him gave way and others of the regiment who treated her with more distinction again became her <EOS>	7.248747682074272
+<SOS> <SOS> <SOS> not yet replied <EOS>	3.285295070035791
+<SOS> <SOS> <SOS> he wrote me a few lines on wednesday to say that he had arrived in safety and to give me his directions which i particularly begged him to <EOS>	6.595605688657698
+<SOS> <SOS> <SOS> she does not yet leave her <EOS>	4.293422401174083
+<SOS> <SOS> <SOS> the sanguine hope of good however which the benevolence of her heart suggested had not yet deserted her she still expected that it would all end well and that every morning would bring some letter either from lydia or her father to explain their proceedings and perhaps announce the <EOS>	7.125823557408646
+<SOS> <SOS> <SOS> as soon as i get to town i shall go to my brother and make him come home with me to gracechurch street and then we may consult together as to what is to be <EOS>	6.830717262184083
+<SOS> <SOS> <SOS> and now do when you get to town find them out wherever they may be and if they are not married already _make_ them <EOS>	6.414273468123172
+<SOS> <SOS> <SOS> though her brother and sister were persuaded that there was no real occasion for such a seclusion from the family they did not attempt to oppose it for they knew that she had not prudence enough to hold her tongue before the servants while they waited at table and judged it better that _one_ only of the household and the one whom they could most trust should comprehend all her fears and solicitude on the <EOS>	7.407571604919467
+<SOS> <SOS> <SOS> one came from her books and the other from her <EOS>	5.132036957500384
+<SOS> <SOS> <SOS> elizabeth lifted up her eyes in amazement but was too much oppressed to make any <EOS>	5.771218408857729
+<SOS> <SOS> <SOS> mary however continued to console herself with such kind of moral extractions from the evil before <EOS>	5.866842010825683
+<SOS> <SOS> <SOS> colonel forster did own that he had often suspected some partiality especially on lydias side but nothing to give him any <EOS>	6.244886481337671
+<SOS> <SOS> <SOS> i am so grieved for <EOS>	4.005623370923401
+<SOS> <SOS> <SOS> his behaviour was attentive and kind to the <EOS>	4.764352392575034
+<SOS> <SOS> <SOS> yes but when questioned by _him_ denny denied knowing any thing of their plan and would not give his real opinion about <EOS>	6.305171150853872
+<SOS> <SOS> <SOS> he believed him to be imprudent and <EOS>	4.544209071498869
+<SOS> <SOS> <SOS> and since this sad affair has taken place it is said that he left meryton greatly in debt but i hope this may be <EOS>	6.414273468123172
+<SOS> <SOS> <SOS> oh jane had we been less secret had we told what we knew of him this could not have happened! perhaps it would have been better replied her <EOS>	6.595605688657698
+<SOS> <SOS> <SOS> but to expose the former faults of any person without knowing what their present feelings were seemed <EOS>	5.954723124084382
+<SOS> <SOS> <SOS> these were the contents my dear harriet you will laugh when you know where i am gone and i cannot help laughing myself at your surprise tomorrow morning as soon as i am <EOS>	6.771851908504817
+<SOS> <SOS> <SOS> i am going to gretna green and if you cannot guess with who i shall think you a simpleton for there is but one man in the world i love and he is an <EOS>	6.80199548565183
+<SOS> <SOS> <SOS> tell him i hope he will excuse me when he knows all and tell him i will dance with him at the next ball we meet with great <EOS>	6.595605688657698
+<SOS> <SOS> <SOS> but at least it shews that _she_ was serious in the object of her <EOS>	5.666796805063259
+<SOS> <SOS> <SOS> he meant i believe replied jane to go to epsom the place where they last changed horses see the postilions and try if any thing could be made out from <EOS>	6.671753721206922
+<SOS> <SOS> <SOS> it had come with a fare from london and as he thought the circumstance of a gentleman and ladys removing from one carriage into another might be remarked he meant to make enquiries at <EOS>	6.80199548565183
+<SOS> <SOS> <SOS> chapter <EOS>	2.29933403256274
+<SOS> <SOS> <SOS> he was declared to be in debt to every tradesman in the place and his intrigues all honoured with the title of seduction had been extended into every tradesmans <EOS>	6.634724293164914
+<SOS> <SOS> <SOS> colonel forster will i dare say do every thing in his power to satisfy us on this <EOS>	5.954723124084382
+<SOS> <SOS> <SOS> elizabeth was at no loss to understand from whence this deference for her authority proceeded but it was not in her power to give any information of so satisfactory a nature as the compliment <EOS>	6.80199548565183
+<SOS> <SOS> <SOS> no arguments shall be wanting on my part that can alleviate so severe a misfortune or that may comfort you under a circumstance that must be of all others most afflicting to a parents <EOS>	6.80199548565183
+<SOS> <SOS> <SOS> they agree with me in apprehending that this false step in one daughter will be injurious to the fortunes of all the others for who as lady catherine herself condescendingly says will connect themselves with such a <EOS>	6.884278779551959
+<SOS> <SOS> <SOS> there was no one therefore who could be pointed out as likely to give any news of <EOS>	5.954723124084382
+<SOS> <SOS> <SOS> i had not an idea of <EOS>	4.293422401174083
+<SOS> <SOS> <SOS> when mrs bennet was told of this she did not express so much satisfaction as her children expected considering what her anxiety for his life had been <EOS>	6.554216716401523
+<SOS> <SOS> <SOS> who is to fight wickham and make him marry her if he comes<EOS>	5.426304982158432
+<SOS> <SOS> <SOS> it was not till the afternoon when he joined them at tea that elizabeth ventured to introduce the subject and then on her briefly expressing her sorrow for what he must have endured he replied say nothing of <EOS>	6.909289192214983
+<SOS> <SOS> <SOS> it has been my own doing and i ought to feel <EOS>	5.286936993301231
+<SOS> <SOS> <SOS> human nature is so prone to fall into it! no lizzy let me once in my life feel how much i have been to <EOS>	6.414273468123172
+<SOS> <SOS> <SOS> do you suppose them to be in<EOS>	4.293422401174083
+<SOS> <SOS> <SOS> then after a short silence he continued lizzy i bear you no illwill for being justified in your advice to me last may which considering the event shews some greatness of <EOS>	6.706856451936717
+<SOS> <SOS> <SOS> they were interrupted by miss bennet who came to fetch her mothers <EOS>	5.426304982158432
+<SOS> <SOS> <SOS> kitty who took all these threats in a serious light began to <EOS>	5.426304982158432
+<SOS> <SOS> <SOS> upon this information they instantly passed through the hall once more and ran across the lawn after their father who was deliberately pursuing his way towards a small wood on one side of the <EOS>	6.80199548565183
+<SOS> <SOS> <SOS> well and what news does it<EOS>	4.005623370923401
+<SOS> <SOS> <SOS> said he taking the letter from his pocket but perhaps you would like to read <EOS>	5.771218408857729
+<SOS> <SOS> <SOS> soon after you left me on saturday i was fortunate enough to find out in what part of london they <EOS>	6.180228357013515
+<SOS> <SOS> <SOS> it is enough to know they are discovered i have seen them both then it is as i always hoped cried jane they are married! elizabeth read on i have seen them <EOS>	6.740178598023261
+<SOS> <SOS> <SOS> they are not married nor can i find there was any intention of being so but if you are willing to perform the engagements which i have ventured to make on your side i hope it will not be long before they <EOS>	6.9991984869696875
+<SOS> <SOS> <SOS> if as i conclude will be the case you send me full powers to act in your name throughout the whole of this business i will immediately give directions to haggerston for preparing a proper <EOS>	6.830717262184083
+<SOS> <SOS> <SOS> wickham is not so undeserving then as we have thought him said her <EOS>	5.552324557747837
+<SOS> <SOS> <SOS> i dislike it very much he replied but it must be <EOS>	5.286936993301231
+<SOS> <SOS> <SOS> and they _must_ marry! yet he is _such_ a man! yes yes they must <EOS>	5.666796805063259
+<SOS> <SOS> <SOS> there is nothing else to be <EOS>	4.293422401174083
+<SOS> <SOS> <SOS> but there are two things that i want very much to knowone is how much money your uncle has laid down to bring it about and the other how i am ever to pay <EOS>	6.80199548565183
+<SOS> <SOS> <SOS> i mean that no man in his senses would marry lydia on so slight a temptation as one hundred ayear during my life and fifty after i am <EOS>	6.595605688657698
+<SOS> <SOS> <SOS> he has children of his own and may have <EOS>	4.958937002444641
+<SOS> <SOS> <SOS> if we are ever able to learn what wickhams debts have been said elizabeth and how much is settled on his side on our sister we shall exactly know what mr gardiner has done for them because wickham has not sixpence of his <EOS>	7.019443955342838
+<SOS> <SOS> <SOS> she was disturbed by no fear for her felicity nor humbled by any remembrance of her <EOS>	5.866842010825683
+<SOS> <SOS> <SOS> lizzy my dear run down to your father and ask him how much he will give <EOS>	5.866842010825683
+<SOS> <SOS> <SOS> ring the bell kitty for <EOS>	4.005623370923401
+<SOS> <SOS> <SOS> and she was only sixteen last <EOS>	4.293422401174083
+<SOS> <SOS> <SOS> we will settle with your father about the money afterwards but the things should be ordered <EOS>	5.866842010825683
+<SOS> <SOS> <SOS> and as i come back i can call on lady lucas and mrs <EOS>	5.552324557747837
+<SOS> <SOS> <SOS> chapter <EOS>	2.29933403256274
+<SOS> <SOS> <SOS> he now wished it more than <EOS>	4.293422401174083
+<SOS> <SOS> <SOS> mrs bennet had no turn for economy and her husbands love of independence had alone prevented their exceeding their <EOS>	6.110706865383714
+<SOS> <SOS> <SOS> this was one point with regard to lydia at least which was now to be settled and mr bennet could have no hesitation in acceding to the proposal before <EOS>	6.634724293164914
+<SOS> <SOS> <SOS> he had never before supposed that could wickham be prevailed on to marry his daughter it would be done with so little inconvenience to himself as by the present <EOS>	6.634724293164914
+<SOS> <SOS> <SOS> his letter was soon dispatched for though dilatory in undertaking business he was quick in its <EOS>	5.866842010825683
+<SOS> <SOS> <SOS> he begged to know farther particulars of what he was indebted to his brother but was too angry with lydia to send any message to <EOS>	6.463792293003369
+<SOS> <SOS> <SOS> she was busily searching through the neighbourhood for a proper situation for her daughter and without knowing or considering what their income might be rejected many as deficient in size and <EOS>	6.706856451936717
+<SOS> <SOS> <SOS> but when they had withdrawn he said to her mrs bennet before you take any or all of these houses for your son and daughter let us come to a right <EOS>	6.706856451936717
+<SOS> <SOS> <SOS> into _one_ house in this neighbourhood they shall never have <EOS>	5.132036957500384
+<SOS> <SOS> <SOS> a long dispute followed this declaration but mr bennet was firm it soon led to another and mrs bennet found with amazement and horror that her husband would not advance a guinea to buy clothes for his <EOS>	6.884278779551959
+<SOS> <SOS> <SOS> not however from any fear of disadvantage from it individually to herself for at any rate there seemed a gulf impassable between <EOS>	6.305171150853872
+<SOS> <SOS> <SOS> she became jealous of his esteem when she could no longer hope to be benefited by <EOS>	5.866842010825683
+<SOS> <SOS> <SOS> but no such happy marriage could now teach the admiring multitude what connubial felicity really <EOS>	5.771218408857729
+<SOS> <SOS> <SOS> mr bennet and his daughters saw all the advantages of wickhams removal from the shire as clearly as mr gardiner could <EOS>	6.244886481337671
+<SOS> <SOS> <SOS> she is so fond of mrs forster said she it will be quite shocking to send her away! and there are several of the young men too that she likes very <EOS>	6.706856451936717
+<SOS> <SOS> <SOS> and their mother had the satisfaction of knowing that she should be able to shew her married daughter in the neighbourhood before she was banished to the <EOS>	6.554216716401523
+<SOS> <SOS> <SOS> elizabeth was surprised however that wickham should consent to such a scheme and had she consulted only her own inclination any meeting with him would have been the last object of her <EOS>	6.740178598023261
+<SOS> <SOS> <SOS> smiles decked the face of mrs bennet as the carriage drove up to the door her husband looked impenetrably grave her daughters alarmed anxious <EOS>	6.414273468123172
+<SOS> <SOS> <SOS> she turned from sister to sister demanding their congratulations and when at length they all sat down looked eagerly round the room took notice of some little alteration in it and observed with a laugh that it was a great while since she had been <EOS>	7.057614183758726
+<SOS> <SOS> <SOS> elizabeth had not before believed him quite equal to such assurance but she sat down resolving within herself to draw no limits in future to the impudence of an impudent <EOS>	6.671753721206922
+<SOS> <SOS> <SOS> the bride and her mother could neither of them talk fast enough and wickham who happened to sit near elizabeth began enquiring after his acquaintance in that neighbourhood with a good humoured ease which she felt very unable to equal in her <EOS>	6.9991984869696875
+<SOS> <SOS> <SOS> it was not to be supposed that time would give lydia that embarrassment from which she had been so wholly free at <EOS>	6.305171150853872
+<SOS> <SOS> <SOS> mr wickham had received his commission before he left london and he was to join his regiment at the end of a <EOS>	6.305171150853872
+<SOS> <SOS> <SOS> and there was my aunt all the time i was dressing preaching and talking away just as if she was reading a <EOS>	6.305171150853872
+<SOS> <SOS> <SOS> however i did not hear above one word in ten for i was thinking you may suppose of my dear <EOS>	6.180228357013515
+<SOS> <SOS> <SOS> you may depend upon my seeking no <EOS>	4.544209071498869
+<SOS> <SOS> <SOS> thank you said lydia for if you did i should certainly tell you all and then wickham would be <EOS>	6.110706865383714
+<SOS> <SOS> <SOS> chapter <EOS>	2.29933403256274
+<SOS> <SOS> <SOS> she was no sooner in possession of it than hurrying into the little copse where she was least likely to be interrupted she sat down on one of the benches and prepared to be happy for the length of the letter convinced her that it did not contain a <EOS>	7.125823557408646
+<SOS> <SOS> <SOS> my dear niece i have just received your letter and shall devote this whole morning to answering it as i foresee that a _little_ writing will not comprise what i have to tell <EOS>	6.771851908504817
+<SOS> <SOS> <SOS> but if you are really innocent and ignorant i must be more <EOS>	5.426304982158432
+<SOS> <SOS> <SOS> she would not betray her trust i suppose without bribery and corruption for she really did know where her friend was to be <EOS>	6.3615090556320295
+<SOS> <SOS> <SOS> but he found in reply to this question that wickham still cherished the hope of more effectually making his fortune by marriage in some other <EOS>	6.463792293003369
+<SOS> <SOS> <SOS> it was not all settled before monday as soon as it was the express was sent off to <EOS>	6.035756856319554
+<SOS> <SOS> <SOS> i fancy lizzy that obstinacy is the real defect of his character after <EOS>	5.552324557747837
+<SOS> <SOS> <SOS> he has been accused of many faults at different times but _this_ is the true <EOS>	5.771218408857729
+<SOS> <SOS> <SOS> they battled it together for a long time which was more than either the gentleman or lady concerned in it <EOS>	6.180228357013515
+<SOS> <SOS> <SOS> the reason why all this was to be done by him alone was such as i have given <EOS>	6.035756856319554
+<SOS> <SOS> <SOS> i believe i have now told you every <EOS>	4.764352392575034
+<SOS> <SOS> <SOS> pray forgive me if i have been very presuming or at least do not punish me so far as to exclude me from <EOS>	6.3615090556320295
+<SOS> <SOS> <SOS> the contents of this letter threw elizabeth into a flutter of spirits in which it was difficult to determine whether pleasure or pain bore the greatest <EOS>	6.510354714573011
+<SOS> <SOS> <SOS> for herself she was humbled but she was proud of <EOS>	5.132036957500384
+<SOS> <SOS> <SOS> she was even sensible of some pleasure though mixed with regret on finding how steadfastly both she and her uncle had been persuaded that affection and confidence subsisted between mr darcy and <EOS>	6.740178598023261
+<SOS> <SOS> <SOS> she was roused from her seat and her reflections by some ones approach and before she could strike into another path she was overtaken by <EOS>	6.463792293003369
+<SOS> <SOS> <SOS> i am afraid i interrupt your solitary ramble my dear<EOS>	4.958937002444641
+<SOS> <SOS> <SOS> i almost envy you the pleasure and yet i believe it would be too much for me or else i could take it in my way to <EOS>	6.554216716401523
+<SOS> <SOS> <SOS> and do you like<EOS>	3.285295070035791
+<SOS> <SOS> <SOS> i have heard indeed that she is uncommonly improved within this year or <EOS>	5.552324557747837
+<SOS> <SOS> <SOS> did you go by the village of<EOS>	4.293422401174083
+<SOS> <SOS> <SOS> she held out her hand he kissed it with affectionate gallantry though he hardly knew how to look and they entered the <EOS>	6.305171150853872
+<SOS> <SOS> <SOS> not these two or three years <EOS>	4.293422401174083
+<SOS> <SOS> <SOS> but you know married women have never much time for <EOS>	5.132036957500384
+<SOS> <SOS> <SOS> they will have nothing else to <EOS>	4.293422401174083
+<SOS> <SOS> <SOS> one seems so forlorn without <EOS>	4.005623370923401
+<SOS> <SOS> <SOS> well well and so mr bingley is coming down sister for mrs philips first brought her the <EOS>	5.954723124084382
+<SOS> <SOS> <SOS> well so much the <EOS>	3.6728503235444143
+<SOS> <SOS> <SOS> not that i care about it <EOS>	4.293422401174083
+<SOS> <SOS> <SOS> and so is it quite certain he is<EOS>	4.544209071498869
+<SOS> <SOS> <SOS> you may depend on it replied the other for mrs nicholls was in meryton last night i saw her passing by and went out myself on purpose to know the truth of it and she told me that it was certain <EOS>	6.978115559749559
+<SOS> <SOS> <SOS> had she not seen him in derbyshire she might have supposed him capable of coming there with no other view than what was acknowledged but she still thought him partial to jane and she wavered as to the greater probability of his coming there _with_ his friends permission or being bold enough to come without <EOS>	7.211719125880477
+<SOS> <SOS> <SOS> no <EOS>	2.29933403256274
+<SOS> <SOS> <SOS> you forced me into visiting him last year and promised if i went to see him he should marry one of my <EOS>	6.305171150853872
+<SOS> <SOS> <SOS> we must have mrs long and the gouldings <EOS>	4.764352392575034
+<SOS> <SOS> <SOS> that will make thirteen with ourselves so there will be just room at table for <EOS>	5.771218408857729
+<SOS> <SOS> <SOS> mrs bennet through the assistance of servants contrived to have the earliest tidings of it that the period of anxiety and fretfulness on her side might be as long as it <EOS>	6.706856451936717
+<SOS> <SOS> <SOS> she counted the days that must intervene before their invitation could be sent hopeless of seeing him <EOS>	5.954723124084382
+<SOS> <SOS> <SOS> some acquaintance or other my dear i suppose i am sure i do not <EOS>	5.666796805063259
+<SOS> <SOS> <SOS> but elizabeth had sources of uneasiness which could not be suspected by jane to whom she had never yet had courage to shew mrs gardiners letter or to relate her own change of sentiment towards <EOS>	6.830717262184083
+<SOS> <SOS> <SOS> on the gentlemens appearing her colour increased yet she received them with tolerable ease and with a propriety of behaviour equally free from any symptom of resentment or any unnecessary <EOS>	6.671753721206922
+<SOS> <SOS> <SOS> he was received by mrs bennet with a degree of civility which made her two daughters ashamed especially when contrasted with the cold and ceremonious politeness of her curtsey and address to his <EOS>	6.771851908504817
+<SOS> <SOS> <SOS> he was not seated by her perhaps that was the reason of his silence but it had not been so in <EOS>	6.244886481337671
+<SOS> <SOS> <SOS> she enquired after his sister but could do no <EOS>	4.958937002444641
+<SOS> <SOS> <SOS> it was only said lately george wickham <EOS>	4.544209071498869
+<SOS> <SOS> <SOS> how mr darcy looked therefore she could not <EOS>	4.764352392575034
+<SOS> <SOS> <SOS> they are gone down to newcastle a place quite northward it seems and there they are to stay i do not know how <EOS>	6.3615090556320295
+<SOS> <SOS> <SOS> jane was anxious that no difference should be perceived in her at all and was really persuaded that she talked as much as <EOS>	6.3615090556320295
+<SOS> <SOS> <SOS> but her mind was so busily engaged that she did not always know when she was <EOS>	5.866842010825683
+<SOS> <SOS> <SOS> when the gentlemen rose to go away mrs bennet was mindful of her intended civility and they were invited and engaged to dine at longbourn in a few days <EOS>	6.634724293164914
+<SOS> <SOS> <SOS> they then went <EOS>	3.285295070035791
+<SOS> <SOS> <SOS> why if he came only to be silent grave and indifferent said she did he come at<EOS>	5.866842010825683
+<SOS> <SOS> <SOS> i am glad he dines here on <EOS>	4.544209071498869
+<SOS> <SOS> <SOS> he placed himself by <EOS>	3.6728503235444143
+<SOS> <SOS> <SOS> is there one among the sex who would not protest against such a weakness as a second proposal to the same<EOS>	6.180228357013515
+<SOS> <SOS> <SOS> mrs annesley is with <EOS>	3.6728503235444143
+<SOS> <SOS> <SOS> the venison was roasted to a turnand everybody said they never saw so fat a <EOS>	5.771218408857729
+<SOS> <SOS> <SOS> i do think mrs long is as good a creature as ever livedand her nieces are very pretty behaved girls and not at all handsome i like them <EOS>	6.595605688657698
+<SOS> <SOS> <SOS> you are very cruel said her sister you will not let me smile and are provoking me to it every <EOS>	6.180228357013515
+<SOS> <SOS> <SOS> how hard it is in some cases to be believed! and how impossible in others! but why should you wish to persuade me that i feel more than i<EOS>	6.595605688657698
+<SOS> <SOS> <SOS> he sat with them above an hour and was in remarkably good <EOS>	5.426304982158432
+<SOS> <SOS> <SOS> and if she would give him leave would take an early opportunity of waiting on <EOS>	5.771218408857729
+<SOS> <SOS> <SOS> he came and in such very good time that the ladies were none of them <EOS>	5.771218408857729
+<SOS> <SOS> <SOS> never mind miss lizzys <EOS>	3.6728503235444143
+<SOS> <SOS> <SOS> after this day jane said no more of her <EOS>	4.958937002444641
+<SOS> <SOS> <SOS> seriously however she felt tolerably persuaded that all this must have taken place with that gentlemans <EOS>	5.866842010825683
+<SOS> <SOS> <SOS> but on returning to the drawingroom when her letter was finished she saw to her infinite surprise there was reason to fear that her mother had been too ingenious for <EOS>	6.671753721206922
+<SOS> <SOS> <SOS> elizabeth who was left by herself now smiled at the rapidity and ease with which an affair was finally settled that had given them so many previous months of suspense and <EOS>	6.706856451936717
+<SOS> <SOS> <SOS> where is your<EOS>	2.831408843767187
+<SOS> <SOS> <SOS> with my mother up <EOS>	3.6728503235444143
+<SOS> <SOS> <SOS> it was an evening of no common delight to them all the satisfaction of miss bennets mind gave a glow of such sweet animation to her face as made her look handsomer than <EOS>	6.771851908504817
+<SOS> <SOS> <SOS> mrs bennet could not give her consent or speak her approbation in terms warm enough to satisfy her feelings though she talked to bingley of nothing else for half an hour and when mr bennet joined them at supper his voice and manner plainly shewed how really happy he <EOS>	7.125823557408646
+<SOS> <SOS> <SOS> i have not a doubt of your doing very well <EOS>	5.132036957500384
+<SOS> <SOS> <SOS> i always said it must be so at <EOS>	4.764352392575034
+<SOS> <SOS> <SOS> it must have been his sisters <EOS>	4.293422401174083
+<SOS> <SOS> <SOS> they were certainly no friends to his acquaintance with me which i cannot wonder at since he might have chosen so much more advantageously in many <EOS>	6.510354714573011
+<SOS> <SOS> <SOS> but when they see as i trust they will that their brother is happy with me they will learn to be contented and we shall be on good terms again though we can never be what we once were to each <EOS>	6.978115559749559
+<SOS> <SOS> <SOS> good girl! it would vex me indeed to see you again the dupe of miss bingleys pretended <EOS>	5.954723124084382
+<SOS> <SOS> <SOS> this naturally introduced a panegyric from jane on his diffidence and the little value he put on his own good <EOS>	6.180228357013515
+<SOS> <SOS> <SOS> i am certainly the most fortunate creature that ever existed! cried <EOS>	5.286936993301231
+<SOS> <SOS> <SOS> chapter <EOS>	2.29933403256274
+<SOS> <SOS> <SOS> one morning about a week after bingleys engagement with jane had been formed as he and the females of the family were sitting together in the diningroom their attention was suddenly drawn to the window by the sound of a carriage and they perceived a chaise and four driving up the <EOS>	7.156419585834195
+<SOS> <SOS> <SOS> they were of course all intending to be surprised but their astonishment was beyond their expectation and on the part of mrs bennet and kitty though she was perfectly unknown to them even inferior to what elizabeth <EOS>	6.884278779551959
+<SOS> <SOS> <SOS> mrs bennet all amazement though flattered by having a guest of such high importance received her with the utmost <EOS>	6.110706865383714
+<SOS> <SOS> <SOS> after sitting for a moment in silence she said very stiffly to elizabeth i hope you are well miss <EOS>	6.110706865383714
+<SOS> <SOS> <SOS> and _that_ i suppose is one of your <EOS>	4.764352392575034
+<SOS> <SOS> <SOS> yes very <EOS>	2.831408843767187
+<SOS> <SOS> <SOS> mrs bennet with great civility begged her ladyship to take some refreshment but lady catherine very resolutely and not very politely declined eating any thing and then rising up said to elizabeth miss bennet there seemed to be a prettyish kind of a little wilderness on one side of your <EOS>	7.141388487536665
+<SOS> <SOS> <SOS> what could your ladyship propose by<EOS>	4.005623370923401
+<SOS> <SOS> <SOS> has it not been industriously circulated by<EOS>	4.293422401174083
+<SOS> <SOS> <SOS> and can you likewise declare that there is no _foundation_ for<EOS>	5.132036957500384
+<SOS> <SOS> <SOS> miss bennet i insist on being <EOS>	4.293422401174083
+<SOS> <SOS> <SOS> has he has my nephew made you an offer of<EOS>	4.958937002444641
+<SOS> <SOS> <SOS> it ought to be so it must be so while he retains the use of his <EOS>	5.866842010825683
+<SOS> <SOS> <SOS> mr darcy is engaged to _my <EOS>	4.293422401174083
+<SOS> <SOS> <SOS> but what is that to<EOS>	3.6728503235444143
+<SOS> <SOS> <SOS> if there is no other objection to my marrying your nephew i shall certainly not be kept from it by knowing that his mother and aunt wished him to marry miss de <EOS>	6.740178598023261
+<SOS> <SOS> <SOS> you will be censured slighted and despised by every one connected with <EOS>	5.426304982158432
+<SOS> <SOS> <SOS> i have not been in the habit of brooking <EOS>	4.958937002444641
+<SOS> <SOS> <SOS> hear me in <EOS>	3.285295070035791
+<SOS> <SOS> <SOS> in marrying your nephew i should not consider myself as quitting that <EOS>	5.426304982158432
+<SOS> <SOS> <SOS> though elizabeth would not for the mere purpose of obliging lady catherine have answered this question she could not but say after a moments deliberation i am <EOS>	6.554216716401523
+<SOS> <SOS> <SOS> and i certainly _never_ shall give <EOS>	4.293422401174083
+<SOS> <SOS> <SOS> and is _such_ a girl to be my nephews<EOS>	4.764352392575034
+<SOS> <SOS> <SOS> heaven and earth!of what are you<EOS>	4.005623370923401
+<SOS> <SOS> <SOS> lady catherine rose also and they turned <EOS>	4.544209071498869
+<SOS> <SOS> <SOS> it is <EOS>	2.831408843767187
+<SOS> <SOS> <SOS> in this manner lady catherine talked on till they were at the door of the carriage when turning hastily round she added i take no leave of you miss <EOS>	6.634724293164914
+<SOS> <SOS> <SOS> you deserve no such <EOS>	3.6728503235444143
+<SOS> <SOS> <SOS> elizabeth made no answer and without attempting to persuade her ladyship to return into the house walked quietly into it <EOS>	6.180228357013515
+<SOS> <SOS> <SOS> her mother impatiently met her at the door of the dressingroom to ask why lady catherine would not come in again and rest <EOS>	6.3615090556320295
+<SOS> <SOS> <SOS> she did not choose it said her daughter she would <EOS>	5.132036957500384
+<SOS> <SOS> <SOS> the discomposure of spirits which this extraordinary visit threw elizabeth into could not be easily overcome nor could she for many hours learn to think of it less than <EOS>	6.634724293164914
+<SOS> <SOS> <SOS> i shall then give over every expectation every wish of his <EOS>	5.286936993301231
+<SOS> <SOS> <SOS> the surprise of the rest of the family on hearing who their visitor had been was very great but they obligingly satisfied it with the same kind of supposition which had appeased mrs bennets curiosity and elizabeth was spared from much teazing on the <EOS>	7.038900811955651
+<SOS> <SOS> <SOS> lizzy said he i was going to look for you come into my <EOS>	5.552324557747837
+<SOS> <SOS> <SOS> something very much to the purpose of <EOS>	4.544209071498869
+<SOS> <SOS> <SOS> i shall not sport with your impatience by reading what he says on that <EOS>	5.666796805063259
+<SOS> <SOS> <SOS> but now it comes <EOS>	3.6728503235444143
+<SOS> <SOS> <SOS> never had his wit been directed in a manner so little agreeable to <EOS>	5.552324557747837
+<SOS> <SOS> <SOS> oh! <EOS>	2.29933403256274
+<SOS> <SOS> <SOS> after mentioning the likelihood of this marriage to her ladyship last night she immediately with her usual condescension expressed what she felt on the occasion when it became apparent that on the score of some family objections on the part of my cousin she would never give her consent to what she termed so disgraceful a <EOS>	7.22445200183564
+<SOS> <SOS> <SOS> you ought certainly to forgive them as a christian but never to admit them in your sight or allow their names to be mentioned in your <EOS>	6.510354714573011
+<SOS> <SOS> <SOS> nay when i read a letter of his i cannot help giving him the preference even over wickham much as i value the impudence and hypocrisy of my <EOS>	6.595605688657698
+<SOS> <SOS> <SOS> mrs bennet was not in the habit of walking mary could never spare time but the remaining five set off <EOS>	6.180228357013515
+<SOS> <SOS> <SOS> they lagged behind while elizabeth kitty and darcy were to entertain each <EOS>	5.426304982158432
+<SOS> <SOS> <SOS> i did not think mrs gardiner was so little to be <EOS>	5.286936993301231
+<SOS> <SOS> <SOS> lydias thoughtlessness first betrayed to me that you had been concerned in the matter and of course i could not rest till i knew the <EOS>	6.463792293003369
+<SOS> <SOS> <SOS> let me thank you again and again in the name of all my family for that generous compassion which induced you to take so much trouble and bear so many mortifications for the sake of discovering <EOS>	6.858115276834963
+<SOS> <SOS> <SOS> if your feelings are still what they were last april tell me so at <EOS>	5.666796805063259
+<SOS> <SOS> <SOS> the happiness which this reply produced was such as he had probably never felt before and he expressed himself on the occasion as sensibly and as warmly as a man violently in love can be supposed to <EOS>	6.884278779551959
+<SOS> <SOS> <SOS> for though your accusations were illfounded formed on mistaken premises my behaviour to you at the time had merited the severest <EOS>	6.244886481337671
+<SOS> <SOS> <SOS> we will not quarrel for the greater share of blame annexed to that evening said <EOS>	5.771218408857729
+<SOS> <SOS> <SOS> i was certainly very far from expecting them to make so strong an <EOS>	5.552324557747837
+<SOS> <SOS> <SOS> these recollections will not do at <EOS>	4.293422401174083
+<SOS> <SOS> <SOS> did you on reading it give any credit to its<EOS>	4.958937002444641
+<SOS> <SOS> <SOS> i hope you have destroyed the <EOS>	4.293422401174083
+<SOS> <SOS> <SOS> i can remember some expressions which might justly make you hate <EOS>	5.286936993301231
+<SOS> <SOS> <SOS> i was given good principles but left to follow them in pride and <EOS>	5.552324557747837
+<SOS> <SOS> <SOS> such i was from eight to eight and twenty and such i might still have been but for you dearest loveliest elizabeth! what do i not owe you! you taught me a lesson hard indeed at first but most <EOS>	6.933220946371466
+<SOS> <SOS> <SOS> what will you think of my<EOS>	4.005623370923401
+<SOS> <SOS> <SOS> hate you! i was angry perhaps at first but my anger soon began to take a proper <EOS>	5.954723124084382
+<SOS> <SOS> <SOS> no indeed i felt nothing but <EOS>	4.293422401174083
+<SOS> <SOS> <SOS> she expressed her gratitude again but it was too painful a subject to each to be dwelt on <EOS>	6.035756856319554
+<SOS> <SOS> <SOS> that is to say you had given your <EOS>	4.764352392575034
+<SOS> <SOS> <SOS> he had never had the slightest <EOS>	4.293422401174083
+<SOS> <SOS> <SOS> did you speak from your own observation said she when you told him that my sister loved him or merely from my information last<EOS>	6.3615090556320295
+<SOS> <SOS> <SOS> my dear lizzy where can you have been walking<EOS>	4.764352392575034
+<SOS> <SOS> <SOS> she had only to say in reply that they had wandered about till she was beyond her own <EOS>	6.035756856319554
+<SOS> <SOS> <SOS> the acknowledged lovers talked and laughed the unacknowledged were <EOS>	4.958937002444641
+<SOS> <SOS> <SOS> i know it to be <EOS>	4.005623370923401
+<SOS> <SOS> <SOS> jane looked at her <EOS>	3.6728503235444143
+<SOS> <SOS> <SOS> but in such cases as these a good memory is <EOS>	5.132036957500384
+<SOS> <SOS> <SOS> elizabeth again and more seriously assured her of its <EOS>	4.958937002444641
+<SOS> <SOS> <SOS> forgive the questionare you quite certain that you can be happy with<EOS>	5.286936993301231
+<SOS> <SOS> <SOS> but are you pleased<EOS>	3.285295070035791
+<SOS> <SOS> <SOS> are you quite sure that you feel what you ought to<EOS>	5.132036957500384
+<SOS> <SOS> <SOS> let me know every thing that i am to know without <EOS>	5.286936993301231
+<SOS> <SOS> <SOS> i always had a value for <EOS>	4.293422401174083
+<SOS> <SOS> <SOS> elizabeth told her the motives of her <EOS>	4.544209071498869
+<SOS> <SOS> <SOS> but now she would no longer conceal from her his share in lydias <EOS>	5.552324557747837
+<SOS> <SOS> <SOS> i had no notion but he would go a shooting or something or other and not disturb us with his <EOS>	6.180228357013515
+<SOS> <SOS> <SOS> i advise mr darcy and lizzy and kitty said mrs bennet to walk to oakham mount this <EOS>	5.954723124084382
+<SOS> <SOS> <SOS> it is a nice long walk and mr darcy has never seen the <EOS>	5.552324557747837
+<SOS> <SOS> <SOS> wont it<EOS>	2.29933403256274
+<SOS> <SOS> <SOS> as she went up stairs to get ready mrs bennet followed her saying i am quite sorry lizzy that you should be forced to have that disagreeable man all to <EOS>	6.671753721206922
+<SOS> <SOS> <SOS> so do not put yourself to <EOS>	4.293422401174083
+<SOS> <SOS> <SOS> but whether she were violently set against the match or violently delighted with it it was certain that her manner would be equally ill adapted to do credit to her sense and she could no more bear that mr darcy should hear the first raptures of her joy than the first vehemence of her <EOS>	7.198570800162678
+<SOS> <SOS> <SOS> in a few minutes he approached the table where she was sitting with kitty and while pretending to admire her work said in a whisper go to your father he wants you in the <EOS>	6.80199548565183
+<SOS> <SOS> <SOS> lizzy said he what are you<EOS>	4.005623370923401
+<SOS> <SOS> <SOS> none at <EOS>	2.831408843767187
+<SOS> <SOS> <SOS> indeed he has no improper <EOS>	4.005623370923401
+<SOS> <SOS> <SOS> elizabeth still more affected was earnest and solemn in her reply and at length by repeated assurances that mr darcy was really the object of her choice by explaining the gradual change which her estimation of him had undergone relating her absolute certainty that his affection was not the work of a day but had stood the test of many months suspense and enumerating with energy all his good qualities she did conquer her fathers incredulity and reconcile him to the <EOS>	7.449019371607151
+<SOS> <SOS> <SOS> to complete the favourable impression she then told him what mr darcy had voluntarily done for <EOS>	5.866842010825683
+<SOS> <SOS> <SOS> when her mother went up to her dressingroom at night she followed her and made the important <EOS>	5.954723124084382
+<SOS> <SOS> <SOS> nor was it under many many minutes that she could comprehend what she heard though not in general backward to credit what was for the advantage of her family or that came in the shape of a lover to any of <EOS>	6.978115559749559
+<SOS> <SOS> <SOS> but before she had been three minutes in her own room her mother followed <EOS>	5.666796805063259
+<SOS> <SOS> <SOS> elizabeths spirits soon rising to playfulness again she wanted mr darcy to account for his having ever fallen in love with <EOS>	6.244886481337671
+<SOS> <SOS> <SOS> how could you<EOS>	2.831408843767187
+<SOS> <SOS> <SOS> i was in the middle before i knew that i _had_ <EOS>	5.286936993301231
+<SOS> <SOS> <SOS> my beauty you had early withstood and as for my mannersmy behaviour to _you_ was at least always bordering on the uncivil and i never spoke to you without rather wishing to give you pain than <EOS>	6.858115276834963
+<SOS> <SOS> <SOS> for the liveliness of your mind i <EOS>	4.544209071498869
+<SOS> <SOS> <SOS> the fact is that you were sick of civility of deference of officious <EOS>	5.552324557747837
+<SOS> <SOS> <SOS> you were disgusted with the women who were always speaking and looking and thinking for _your_ approbation <EOS>	5.954723124084382
+<SOS> <SOS> <SOS> but make a virtue of it by all <EOS>	4.764352392575034
+<SOS> <SOS> <SOS> and so was <EOS>	3.285295070035791
+<SOS> <SOS> <SOS> how unlucky that you should have a reasonable answer to give and that i should be so reasonable as to admit it! but i wonder how long you _would_ have gone on if you had been left to <EOS>	6.909289192214983
+<SOS> <SOS> <SOS> lady catherine has been of infinite use which ought to make her happy for she loves to be of <EOS>	6.110706865383714
+<SOS> <SOS> <SOS> but it ought to be done and if you will give me a sheet of paper it shall be done <EOS>	6.180228357013515
+<SOS> <SOS> <SOS> we will go round the park every <EOS>	4.544209071498869
+<SOS> <SOS> <SOS> dear sir i must trouble you once more for <EOS>	4.958937002444641
+<SOS> <SOS> <SOS> four sides of paper were insufficient to contain all her delight and all her earnest desire of being loved by her <EOS>	6.244886481337671
+<SOS> <SOS> <SOS> mrs philipss vulgarity was another and perhaps a greater tax on his forbearance and though mrs philips as well as her sister stood in too much awe of him to speak with the familiarity which bingleys good humour encouraged yet whenever she _did_ speak she must be <EOS>	7.092974423588428
+<SOS> <SOS> <SOS> i wish i could say for the sake of her family that the accomplishment of her earnest desire in the establishment of so many of her children produced so happy an effect as to make her a sensible amiable wellinformed woman for the rest of her life though perhaps it was lucky for her husband who might not have relished domestic felicity in so unusual a form that she still was occasionally nervous and invariably <EOS>	7.407571604919467
+<SOS> <SOS> <SOS> so near a vicinity to her mother and meryton relations was not desirable even to _his_ easy temper or _her_ affectionate <EOS>	6.244886481337671
+<SOS> <SOS> <SOS> it is a great comfort to have you so rich and when you have nothing else to do i hope you will think of <EOS>	6.414273468123172
+<SOS> <SOS> <SOS> any place would do of about three or four hundred a year but however do not speak to mr darcy about it if you had rather <EOS>	6.510354714573011
+<SOS> <SOS> <SOS> their manner of living even when the restoration of peace dismissed them to a home was unsettled in the <EOS>	6.110706865383714
+<SOS> <SOS> <SOS> they were always moving from place to place in quest of a cheap situation and always spending more than they <EOS>	6.180228357013515
+<SOS> <SOS> <SOS> though darcy could never receive _him_ at pemberley yet for elizabeths sake he assisted him farther in his <EOS>	6.035756856319554
+<SOS> <SOS> <SOS> lydia was occasionally a visitor there when her husband was gone to enjoy himself in london or bath and with the bingleys they both of them frequently staid so long that even bingleys good humour was overcome and he proceeded so far as to _talk_ of giving them a hint to be <EOS>	7.170943821019367
+<SOS> <SOS> <SOS> he who had always inspired in herself a respect which almost overcame her affection she now saw the object of open <EOS>	6.244886481337671
+<SOS> <SOS> <SOS> with the gardiners they were always on the most intimate <EOS>	5.132036957500384
+<SOS> <SOS> <SOS> transcribers note spelling and hyphen changes have been made so that there is consistency within the <EOS>	5.866842010825683
+<SOS> <SOS> <SOS> start full license the full project gutenberg license please read this before you distribute or use this work to protect the project gutenbergtm mission of promoting the free distribution of electronic works by using or distributing this work or any other work associated in any way with the phrase project gutenberg you agree to comply with all the terms of the full project gutenbergtm license available with this file or online at www.gutenberg.<EOS>	7.384494203189552
+<SOS> <SOS> <SOS> section <EOS>	2.29933403256274
+<SOS> <SOS> <SOS> it may only be used on or associated in any way with an electronic work by people who agree to be bound by the terms of this <EOS>	6.554216716401523
+<SOS> <SOS> <SOS> the project gutenberg literary archive foundation the foundation or pglaf owns a compilation copyright in the collection of project gutenbergtm electronic <EOS>	6.244886481337671
+<SOS> <SOS> <SOS> of course we hope that you will support the project gutenbergtm mission of promoting free access to electronic works by freely sharing project gutenbergtm works in compliance with the terms of this agreement for keeping the project gutenbergtm name associated with the <EOS>	6.9991984869696875
+<SOS> <SOS> <SOS> the foundation makes no representations concerning the copyright status of any work in any country outside the united <EOS>	6.035756856319554
+<SOS> <SOS> <SOS> additional terms will be linked to the project gutenbergtm license for all works posted with the permission of the copyright holder found at the beginning of this <EOS>	6.554216716401523
+<SOS> <SOS> <SOS> NUM.e.<EOS>	1.6826790673705985
+<SOS> <SOS> <SOS> royalty payments must be paid within NUM days following each date on which you prepare or are legally required to prepare your periodic tax <EOS>	6.414273468123172
+<SOS> <SOS> <SOS> if you wish to charge a fee or distribute a project gutenbergtm electronic work or group of works on different terms than are set forth in this agreement you must obtain permission in writing from both the project gutenberg literary archive foundation and michael hart the owner of the project gutenbergtm <EOS>	7.156419585834195
+<SOS> <SOS> <SOS> NUM.<EOS>	1.6826790673705985
+<SOS> <SOS> <SOS> you agree that you have no remedies for negligence strict liability breach of warranty or breach of contract except those provided in paragraph NUM.f.<EOS>	6.3615090556320295
+<SOS> <SOS> <SOS> NUM.f.<EOS>	1.6826790673705985
+<SOS> <SOS> <SOS> the person or entity that provided you with the defective work may elect to provide a replacement copy in lieu of a <EOS>	6.305171150853872
+<SOS> <SOS> <SOS> if the second copy is also defective you may demand a refund in writing without further opportunities to fix the <EOS>	6.180228357013515
+<SOS> <SOS> <SOS> some states do not allow disclaimers of certain implied warranties or the exclusion or limitation of certain types of <EOS>	6.110706865383714
+<SOS> <SOS> <SOS> it exists because of the efforts of hundreds of volunteers and donations from people in all walks of <EOS>	6.035756856319554
+<SOS> <SOS> <SOS> in NUM the project gutenberg literary archive foundation was created to provide a secure and permanent future for project gutenbergtm and future <EOS>	6.305171150853872
+<SOS> <SOS> <SOS> information about the project gutenberg literary archive foundation the project gutenberg literary archive foundation is a non profit NUMcNUM educational corporation organized under the laws of the state of mississippi and granted tax exempt status by the internal revenue <EOS>	6.933220946371466
+<SOS> <SOS> <SOS> fairbanks ak <EOS>	2.831408843767187
+<SOS> <SOS> <SOS> gregory <EOS>	2.29933403256274
+<SOS> <SOS> <SOS> information about donations to the project gutenberg literary archive foundation project gutenbergtm depends upon and cannot survive without wide spread public support and donations to carry out its mission of increasing the number of public domain and licensed works that can be freely distributed in machine readable form accessible by the widest array of equipment including outdated <EOS>	7.236788793426273
+<SOS> <SOS> <SOS> compliance requirements are not uniform and it takes a considerable effort much paperwork and many fees to meet and keep up with these <EOS>	6.3615090556320295
+<SOS> <SOS> <SOS> most people start at our web site which has the main pg search facility www.gutenberg.org this web site includes information about project gutenbergtm including how to make donations to the project gutenberg literary archive foundation how to help produce our new ebooks and how to subscribe to our email newsletter to hear about new ebooks.<EOS>	7.198570800162678
