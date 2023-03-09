@@ -275,7 +275,7 @@ optimizer = torch.optim.Adam(model.parameters(), lr=learning_rate, weight_decay=
 # torch.save(model.state_dict(), 'model_pos_tagger.pth')
 
 # model.load_state_dict(torch.load("/content/drive/MyDrive/model_pos_tagger.pth",map_location=torch.device('cpu')))
-model.load_state_dict(torch.load("model/model_pos_tagger.pth",map_location=torch.device('cpu')))
+model.load_state_dict(torch.load("model_pos_tagger.pth",map_location=torch.device('cpu')))
 
 from sklearn.metrics import precision_recall_fscore_support,f1_score,accuracy_score
 
