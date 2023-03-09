@@ -910,3 +910,5 @@
 <SOS> lady catherine s unjustifiable endeavours to separate us  were the means of removing all my doubts <EOS> 461.45288441564765
 <SOS> my real purpose was to see  you   and to judge  if i could  whether i might ever hope to make you love me <EOS> 176.03548626755156
 <SOS> but it ought to be done  and if you will give me a sheet of paper  it shall be done directly <EOS> 128.75743854554526
+Average value: 
+367.37609308721008
