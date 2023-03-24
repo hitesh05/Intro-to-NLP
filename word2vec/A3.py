@@ -24,6 +24,8 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.manifold import TSNE
 import gensim.downloader as api
 from sklearn.neighbors import NearestNeighbors
+from sklearn.metrics.pairwise import cosine_similarity
+
 from tqdm import tqdm
 
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
@@ -206,13 +208,14 @@ class Datasets():
         self.window_size = window_size
         self.unk_word = '<UNK>'
         self.data = list()
-        self.data_skip = list()
+        # self.data_skip = list()
         self.pad_val = pad_val
 
     def padding(self):
         # CBOW
         self.context = [sent[0] for sent in self.data]
         self.words = np.array([sent[1] for sent in self.data])
+        self.target = np.array([sent[2] for sent in self.data])
         max_len = max(len(arr) for arr in self.context)
         for ind, arr in enumerate(self.context):
             x = max_len - len(arr)
@@ -220,14 +223,10 @@ class Datasets():
                 self.context[ind].append(self.pad_val)
         self.data.clear()
         for ind, i in enumerate(self.context):
-            self.data.append((i, self.words[ind]))
+            self.data.append((i, self.words[ind], self.target[ind]))
 
         for ind, i in enumerate(self.data):
-            self.data[ind] = (torch.tensor(self.data[ind][0]), torch.tensor(self.data[ind][1]))
-
-        # SKIPGRAM
-        for ind, i in enumerate(self.data_skip):
-            self.data_skip[ind] = (torch.tensor(self.data_skip[ind][0]), torch.tensor(self.data_skip[ind][1]), torch.tensor(self.data_skip[ind][2]))   
+            self.data[ind] = (torch.tensor(self.data[ind][0]), torch.tensor(self.data[ind][1]), torch.tensor(self.data[ind][2]))
 
     def create_cbow_dataset(self):
         len_corpus = len(self.corpus)
@@ -249,32 +248,11 @@ class Datasets():
                     except:
                         i_idx = self.word_to_idx[self.unk_word]
                     i_idx_arr.append(i_idx)
-                self.data.append((i_idx_arr, dict_idx))
+                self.data.append((i_idx_arr, dict_idx, 1))
 
-    def create_skipgram_dataset(self):
-        len_corpus = len(self.corpus)
-        for doc_ind, doc in enumerate(self.corpus):
-            doc_size = len(doc)
-            for cur_doc_idx in range(doc_size):
-                l = max(0, cur_doc_idx - self.window_size)
-                r = min(doc_size - 1, cur_doc_idx + self.window_size)
-                w = doc[cur_doc_idx]
-                try:
-                    dict_idx = self.word_to_idx[w]
-                except:
-                    dict_idx = self.word_to_idx[self.unk_word]
-                outside_words = doc[l:cur_doc_idx]+doc[cur_doc_idx+1:r+1]
-                i_idx_arr = list()
-                for i in outside_words:
-                    try:
-                        i_idx = self.word_to_idx[i]
-                    except:
-                        i_idx = self.word_to_idx[self.unk_word]
-                    self.data_skip.append((dict_idx, i_idx, 1))
-        
                 # negative sampling
-                rand_id_arr = set()
-                while len(rand_id_arr) != 2:
+                neg_arr = []
+                for _ in range(4):
                     ind = random.randint(1, len_corpus -1)
                     doc_ind_neg = (doc_ind + ind) % len_corpus
                     doc_neg = self.corpus[doc_ind_neg]
@@ -284,79 +262,59 @@ class Datasets():
                         ind_word_neg = self.word_to_idx[word_neg]
                     except:
                         ind_word_neg = self.word_to_idx[self.unk_word]
-                    self.data_skip.append((dict_idx, ind_word_neg, 0))
+                    neg_arr.append(ind_word_neg)
+                self.data.append((neg_arr, dict_idx, 0))
 
     def work(self):
         self.create_cbow_dataset()
-        # self.create_skipgram_dataset()
-        self.padding()
-       
+        self.padding()       
+
 class cbow_word2vec(nn.Module):
-    def __init__(self, vocab_size, embed_size, hidden_size, pad_val, window_size=2):
+    def __init__(self, vocab_size, embed_size, pad_val):
         super(cbow_word2vec, self).__init__()
-        self.embeddings = nn.Embedding(vocab_size, embed_size, padding_idx=pad_val)
-        self.linear1 = nn.Linear(2*window_size*embed_size, hidden_size)
-        self.linear2 = nn.Linear(hidden_size, vocab_size)
+        self.in_embeddings = nn.Embedding(vocab_size, embed_size, padding_idx=pad_val)
+        self.in_embeddings.weight.data.uniform_(-1, 1)
         
-    def forward(self, inputs):
-        embeds = self.embeddings(inputs).view((inputs.size(0),-1))
-        hid = F.relu(self.linear1(embeds))
-        out = self.linear2(hid)
-        probs = F.log_softmax(out, dim=1)
+    def forward(self, i, o):
+        in_embeds = self.in_embeddings(i).mean(dim=1)
+        out_embeds = self.in_embeddings(o)
+        score = torch.mm(in_embeds, torch.t(out_embeds))
+        probs = F.logsigmoid(score)
         return probs
 
-    def predict(self, idx):
-        return self.embeddings(idx)
-    
-class skipgram_word2vec(nn.Module):
-    def __init__(self, vocab_size, embed_size, hidden_size, pad_val, window_size=2):
-        super(skipgram_word2vec, self).__init__()
-        self.in_embeddings = nn.Embedding(vocab_size, embed_size, padding_idx=pad_val)
-        self.out_embeddings = nn.Embedding(vocab_size, embed_size, padding_idx=pad_val)
-        self.pred = torch.tensor([])
-        
-    def forward(self, i, o, neg):
-        in_embeds = self.in_embeddings(i)
-        out_embeds = self.out_embeddings(o)
-        
-        self.pred = out_embeds
-        pos_val = F.logsigmoid(torch.bmm(out_embeds, in_embeds.unsqueeze(2)).squeeze(2).sum(1))
-        neg_embeds = self.out_embeddings(neg)
-        neg_val = - F.logsigmoid(torch.bmm(neg_embeds, in_embeds.unsqueeze(2)).squeeze(2).sum(1))
-        return - (pos_val + neg_val).mean()
-
-    def predict(self, idx):
-        return self.in_embeddings(idx)
-
 class CBOW_model():
-    def __init__(self):
-        pass
+    def __init__(self, vocab_size, data, pad_val=0, hidden_size=64, batch_size=512,lr=0.001, num_epochs=6, window_size=2, embedding_size=300):
+        self.vocab_size = vocab_size
+        self.data = data
+        self.pad_val = pad_val
+        self.hidden_size = hidden_size
+        self.batch_size = batch_size
+        self.lr = lr
+        self.num_epochs = num_epochs
+        self.window_size = window_size
+        self.embedding_size = embedding_size
+        self.w2v = cbow_word2vec(vocab_size, embedding_size, pad_val).to(device)
 
-    def train_cbow_word2vec(self, vocab_size, data, hidden_size=64, batch_size=32,lr=0.001, num_epochs=10, window_size=2, embedding_size=64):
-        self.w2v = cbow_word2vec(vocab_size, embedding_size, hidden_size, PAD_VALUE).to(device)
-        dataload = DataLoader(data, batch_size=batch_size, num_workers=0)
+    def train_cbow_word2vec(self):
+        dataload = DataLoader(self.data, batch_size=self.batch_size, num_workers=0)
         loss_func = nn.NLLLoss().to(device)
-        optim = torch.optim.Adam(params=self.w2v.parameters(), lr=lr, weight_decay=1e-4)
-        for epoch in tqdm(range(num_epochs), desc='epoch'):
+        optim = torch.optim.Adam(params=self.w2v.parameters(), lr=self.lr, weight_decay=1e-4)
+        for epoch in tqdm(range(self.num_epochs), desc='epoch'):
             self.w2v.train()
             total_loss = 0
             total_acc = 0
             for ind, i in enumerate(dataload):
-                context, target = map(lambda x:x.to(device), i)
-                # context = i[0]
-                # target = i[1]
-                # context = Variable(torch.LongTensor(context)).to(device)
-                # target = Variable(torch.LongTensor([target])).to(device)
+                context, word, target = map(lambda x:x.to(device), i)
 
                 optim.zero_grad()
-                pred = self.w2v(context)
+                pred = self.w2v(context, word)
                 loss = loss_func(pred, target)
 
                 loss.backward()
                 optim.step()
 
-                total_loss += loss.item()    
-            print(f'\tEpoch {epoch + 1}\tTrain Loss: {total_loss}')
+                total_loss += loss.item() 
+            print(f'\tEpoch {epoch + 1}\tTrain Loss: {total_loss/len(dataload)}')
         torch.save(self.w2v.state_dict(), 'cbow_w2v.pth')
 
     def load_model(self):
@@ -365,79 +323,8 @@ class CBOW_model():
                 "/content/drive/MyDrive/cbow_w2v.pth", map_location=torch.device("cpu")
             )
         )
-        return self.w2v
-
-    def nearest_words(self,word, word_to_idx, idx_to_word, num=10):
-        try:
-            idx = word_to_idx[word]
-        except:
-            idx = word_to_idx['<UNK>']
-        emb = self.w2v.predict(torch.tensor(idx).to(device)).unsqueeze(0)
-        sims = torch.mm(emb, self.w2v.embeddings.weight.transpose(0,1)).squeeze(0)
-        sims = (-sims).sort()[1][0: num+1]
-        tops = list()
-        for k in range(num):
-            tops.append(idx_to_word[sims[k].item()])
-        return tops  
-
-class Skipgram_model():
-    def __init__(self):
-        pass  
+        return self.w2v.state_dict()
     
-    def train_skipgram_word2vec(self, vocab_size, data, pad_val=0, hidden_size=64, batch_size=32,lr=0.001, num_epochs=10, window_size=2, embedding_size=64):
-        self.w2v = skipgram_word2vec(vocab_size, embedding_size, hidden_size, pad_val).to(device)
-        dataload = DataLoader(data, batch_size=batch_size, num_workers=0)
-        loss_func = nn.NLLLoss().to(device)
-        optim = torch.optim.Adam(params=self.w2v.parameters(), lr=lr, weight_decay=1e-4)
-        for epoch in tqdm(range(num_epochs), desc='epoch'):
-            self.w2v.train()
-            total_loss = 0
-            total_acc = 0
-            for ind, i in enumerate(dataload):
-                inp, out, neg = map(lambda x:x.to(device), i)
-
-                optim.zero_grad()
-                loss = self.w2v(inp, out, neg)
-                loss.backward()
-                optim.step()
-
-                total_loss += loss.item()    
-            print(f'\tEpoch {epoch + 1}\tTrain Loss: {total_loss}')
-        torch.save(self.w2v.state_dict(), 'skipgram_w2v.pth')
-        
-    def load_model(self):
-        self.w2v.load_state_dict(
-            torch.load(
-                "/content/drive/MyDrive/skipgram_w2v.pth", map_location=torch.device("cpu")
-            )
-        )
-        return self.w2v
-
-    def nearest_words(self,word, word_to_idx, idx_to_word, num=10):
-        try:
-            idx = word_to_idx[word]
-        except:
-            idx = word_to_idx['<UNK>']
-        emb = self.w2v.predict(torch.tensor(idx).to(device)).unsqueeze(0)
-        sims = torch.mm(emb, self.w2v.in_embeddings.weight.transpose(0,1)).squeeze(0)
-        sims = (-sims).sort()[1][0: num+1]
-        tops = list()
-        for k in range(num):
-            tops.append(idx_to_word[sims[k].item()])
-        return tops
-    
-# visualising word embeddings
-def plot(word_embeddings, word_to_idx, words):
-    for word in words:
-        try:
-            idx = word_to_idx[word]
-        except:
-            idx = word_to_idx['<UNK>']
-        x, y = word_embeddings[idx]
-        plt.scatter(x, y, marker='x', color='red')
-        plt.text(x,y,word,fontsize=9)
-    plt.show()
-
 # plotting embeddings according to tsne (method #3)
 # ERROR
 def plot_tsne(model, word_to_idx, words):
@@ -459,60 +346,65 @@ def plot_tsne(model, word_to_idx, words):
         plt.text(x,y,fontsize=9)
     plt.show()
 
-# finding the n closest words according to the pretrained word2vec model and my program
-def find_closest_words(word_embeddings, word_to_idx, idx_to_word, word, top_n=10):
-    ### pretrained model ###
-    pretrained_model = api.load('word2vec-google-news-300')
-    pretrained_closest_words = pretrained_model.most_similar(word, topn=top_n)
-    print(f"Closest words to {word} according to word2vec:")
-    for i in pretrained_closest_words:
-        print(i, end=' ')
-    
-    ### my program ###  
+# finding the n closest words according to my program
+def find_nearest_words(word_embeddings, word_to_idx, idx_to_word, word, num=10):
     try:
         idx = word_to_idx[word]
     except:
         idx = word_to_idx['<UNK>']
-    word_vector = word_embeddings[idx]
-    knn = NearestNeighbors(metric='cosine', algorithm='brute')
-    knn.fit(word_embeddings)
-    dist, ind = knn.kneighbors(word_vector.reshape(1,-1), n_neighbors=11)
-    closest_words = []
-    for i in ind.flatten()[1:]:
-        closest_words.append(idx_to_word[i])
-    print(f"Closest words to {word} according to my program:")
-    for i in closest_words:
-        print(i, end = ' ')
+    similarity_scores = cosine_similarity(word_embeddings[idx].reshape(1, -1), word_embeddings)
+    top_indices = similarity_scores.argsort()[0][::-1][:num+1]
+    tops = [idx_to_word[i] for i in top_indices]
+    return tops
+
+def find_nearest_pretrained(word, num=10):
+    pretrained_model = api.load("word2vec-google-news-300")
+    pretrained_closest_words = pretrained_model.most_similar(word, topn=num)
+    return pretrained_closest_words
 
 if __name__ == '__main__':   
     path = '/media/hitesh/DATA/IIIT-H/3rd_year/INLP/A3/reviews_Movies_and_TV.json'       
     sentences = 45000
+    PAD_VALUE = 0
     textProcesser = TextProcessing(path, sentences)
     textProcesser.indenture()
     
     ### PART 1: SVD
-    # svd = SVD(textProcesser.corpus, textProcesser.word_to_idx, textProcesser.vocab, textProcesser.num_words)
-    # svd.indenture()
-    # scaler = StandardScaler()
+    svd = SVD(textProcesser.corpus, textProcesser.word_to_idx, textProcesser.vocab, textProcesser.num_words)
+    svd.indenture()
+    scaler = StandardScaler()
     
     # word_embeddings = svd.word_embeddings
     word_to_idx = textProcesser.word_to_idx
     idx_to_word = textProcesser.idx_to_word
-    # word_embeddings = scaler.fit_transform(word_embeddings)
-    test_words = ["funny", "hilarious", "good", "bad", "king", "beggar"]
-    # plot(word_embeddings, word_to_idx, test_words)
     
     ### PART 2: WORD2VEC
     datasets = Datasets(textProcesser.vocab, textProcesser.corpus, word_to_idx, idx_to_word,PAD_VALUE)
     datasets.work()
-    
-    # CBOW
- 
-    # SKIPGRAM
-    
+    w2v_model = CBOW_model(datasets.vocab_size, datasets.data)
+    w2v_model.train_cbow_word2vec()
+    # w2v.load_model()
         
     ### PART 3: TSNE
     # plot_tsne(word_embeddings, word_to_idx, test_words)
     
     ### PART 4: 10 CLOSEST WORDS
-    # find_closest_words(word_embeddings, word_to_idx, idx_to_word, "titanic")
+    word = "titanic"
+    word_embeddings_svd = svd.word_embeddings
+    word_embeddings_w2v = w2v_model.w2v.in_embeddings.weight.data.cpu().numpy()
+    
+    svd_nearest = find_nearest_words(word_embeddings_svd, word_to_idx, idx_to_word, word)
+    w2v_nearest = find_nearest_words(word_embeddings_w2v, word_to_idx, idx_to_word, word)
+    pretrained_nearest = find_nearest_pretrained(word)
+    
+    print(f"Closest words to {word} according to SVD model trained:")
+    for i in svd_nearest:
+        print(i, end=' ')
+    print(f"Closest words to {word} according to CBOW with negative sampling model trained:")
+    for i in w2v_nearest:
+        print(i, end=' ')
+    print(f"Closest words to {word} according to pretrained word2vec model:")
+    for i in pretrained_nearest:
+        print(i, end=' ')
+
+    
