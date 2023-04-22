@@ -30,6 +30,8 @@ nltk.download('stopwords')
 nltk.download('punkt')
 nltk.download('wordnet')
 
+"""#### Download sst dataset"""
+
 sst_dataset_init = load_dataset('sst')
 
 sst_dataset_init
@@ -37,6 +39,18 @@ sst_dataset_init
 sst_train_len = 8544
 sst_valid_len = 1101
 sst_test_len = 2210
+
+"""#### Download nli dataset"""
+
+nli_dataset_init = load_dataset('multi_nli')
+nli_dataset_init
+
+nli_train_len = 392702
+nli_train_len_new = 40000
+nli_valid_len = 9815
+nli_test_len = 9832
+
+"""#### Preprocess sst dataset"""
 
 class Preprocess_sst():
     def __init__(self, data):
@@ -112,6 +126,78 @@ len(sst_dataset)
 
 print(vocabulary_sst['audience'])
 
+"""#### Preprocess nli dataset"""
+
+class Preprocess_nli():
+    def __init__(self, data):
+        self.data = data
+        self.stop_words = set(stopwords.words('english'))
+        self.lemmatizer = WordNetLemmatizer()
+        self.preprocessed_data = list()
+        self.unk = '<UNK>'
+        self.pad = '<PAD>'
+        self.min_freq = 5
+
+    def build_vocab(self):
+        self.words = [[word] for sent in self.preprocessed_data for word in sent[0]]
+        self.vocab = build_vocab_from_iterator(self.words, min_freq = self.min_freq, specials = [self.unk, self.pad])
+        self.vocab.set_default_index(self.vocab[self.unk])
+
+    def rem_punctuations(self):
+        self.text = self.text.translate(str.maketrans('', '', string.punctuation)).lower()
+
+    def tokenise(self):
+        self.text = word_tokenize(self.text)
+
+    def rem_stopwords(self):
+        self.text = [word for word in self.text if word not in self.stop_words]
+
+    def rem_single(self):
+        self.text = [word for word in self.text if not re.match(r'\d+', word) and len(word) > 1]
+
+    def lemmatiser(self):
+        self.text = [self.lemmatizer.lemmatize(word) for word in self.text]
+    
+    def caller(self):
+        self.rem_punctuations()
+        self.tokenise()
+        self.rem_stopwords()
+        self.rem_single()
+        self.lemmatiser()
+        
+    def main(self):
+        for ind, example in enumerate(self.data['train']):
+            if ind > nli_train_len_new:
+                break
+            self.label = example['label']
+            self.text = example['premise']
+            self.caller()
+            self.preprocessed_data.append((self.text, self.label))
+
+        for example in self.data['validation_matched']:
+            self.label = example['label']
+            self.text = example['premise']
+            self.caller()
+            self.preprocessed_data.append((self.text, self.label))
+
+        for example in self.data['validation_mismatched']:
+            self.label = example['label']
+            self.text = example['premise']
+            self.caller()
+            self.preprocessed_data.append((self.text, self.label))
+
+        self.build_vocab()
+
+# preprocessing and getting datasets
+preprocesser_nli = Preprocess_nli(nli_dataset_init)
+preprocesser_nli.main()
+nli_dataset = preprocesser_nli.preprocessed_data
+vocabulary_nli = preprocesser_nli.vocab
+
+print(len(nli_dataset))
+
+"""#### Create dataset for sentiment classification"""
+
 # perform dataset creation for pretraining and sentiment classification
 def create_data_for_sst_classification():
     tokens = []
@@ -136,6 +222,33 @@ sst_tokens, sst_labels = create_data_for_sst_classification()
 sst_tokens_train, sst_tokens_valid, sst_tokens_test = sst_tokens[:sst_train_len], sst_tokens[sst_train_len:sst_valid_len], sst_tokens[sst_train_len + sst_valid_len:]
 sst_labels_train, sst_labels_valid, sst_labels_test = sst_labels[:sst_train_len], sst_labels[sst_train_len:sst_valid_len], sst_labels[sst_train_len + sst_valid_len:]
 print(sst_tokens_train.shape, sst_labels_train.shape)
+
+"""#### create dataset for NLI"""
+
+# perform dataset creation for pretraining and sentiment classification
+def create_data_for_nli_classification():
+    tokens = []
+    labels = []
+    l = set()
+    pad = [vocabulary_nli['<PAD>']]
+    max_len = 0
+    for sent, label in nli_dataset:
+        ind = [vocabulary_nli[word] for word in sent]
+        tokens.append(ind)
+        labels.append(label)
+        l.add(label)
+        max_len = max(max_len, len(ind))
+    tokens = list(sent + pad * (max_len-len(sent)) for sent in tokens)
+    tokens = torch.tensor(tokens)
+    labels = torch.tensor(labels)
+    print(l)
+    return tokens, labels
+nli_tokens, nli_labels = create_data_for_nli_classification() 
+nli_tokens_train, nli_tokens_valid, nli_tokens_test = nli_tokens[:nli_train_len_new], nli_tokens[nli_train_len:nli_valid_len], nli_tokens[nli_train_len + nli_valid_len:]
+nli_labels_train, nli_labels_valid, nli_labels_test = nli_labels[:nli_train_len_new], nli_labels[nli_train_len:nli_valid_len], nli_labels[nli_train_len + nli_valid_len:]
+print(nli_tokens_train.shape, nli_labels_train.shape)
+
+"""#### Create dataset using sst for elmo pretraining"""
 
 class Create_data_for_pretraining():
     def __init__(self):
@@ -169,6 +282,43 @@ class Create_data_for_pretraining():
         return self.contexts.shape[0]
 
 sst_word_pred_dataset = Create_data_for_pretraining()
+
+"""#### Create dataset using nli for elmo pretraining"""
+
+class Create_data_for_pretraining_nli():
+    def __init__(self):
+        self.preds = []
+        self.contexts = []
+        self.build()
+
+    def build(self):
+        pad = [vocabulary_nli['<PAD>']]
+        max_len = 0
+        for sent, label in nli_dataset:
+            ind = [vocabulary_nli[word] for word in sent]
+            l = len(ind)
+            self.contexts += [ind[:i] for i in range(1, l)]
+            self.preds += ind[1:]
+
+            ind.reverse()
+            self.contexts += [ind[:i] for i in range(1, l)]
+            self.preds += ind[1:]
+
+            max_len = max(max_len, l-1)
+
+        self.contexts = list(sent + pad*(max_len - len(sent) ) for sent in self.contexts)
+        self.contexts = torch.tensor(self.contexts)
+        self.preds = torch.tensor(self.preds)
+    
+    def __getitem__(self, index):
+        return self.contexts[index], self.preds[index]
+
+    def __len__(self):
+        return self.contexts.shape[0]
+
+nli_word_pred_dataset = Create_data_for_pretraining_nli()
+
+"""#### for dataloader of sst"""
 
 class Sst_class_train():
     def __init__(self, tokens, labels):
@@ -207,6 +357,45 @@ sst_class_train = Sst_class_train(sst_tokens_train, sst_labels_train)
 sst_class_valid = Sst_class_valid(sst_tokens_valid, sst_labels_valid)
 sst_class_test = Sst_class_test(sst_tokens_test, sst_labels_test)
 
+"""#### for dataloader of nli"""
+
+class Nli_class_train():
+    def __init__(self, tokens, labels):
+        self.tokens = tokens
+        self.labels = labels
+
+    def __getitem__(self, index):
+        return self.tokens[index], self.labels[index]
+
+    def __len__(self):
+        return self.tokens.shape[0]
+
+class Nli_class_valid():
+    def __init__(self, tokens, labels):
+        self.tokens = tokens
+        self.labels = labels
+
+    def __getitem__(self, index):
+        return self.tokens[index], self.labels[index]
+
+    def __len__(self):
+        return self.tokens.shape[0]
+
+class Nli_class_test():
+    def __init__(self, tokens, labels):
+        self.tokens = tokens
+        self.labels = labels
+
+    def __getitem__(self, index):
+        return self.tokens[index], self.labels[index]
+
+    def __len__(self):
+        return self.tokens.shape[0]
+
+nli_class_train = Nli_class_train(nli_tokens_train, nli_labels_train)
+nli_class_valid = Nli_class_valid(nli_tokens_valid, nli_labels_valid)
+nli_class_test = Nli_class_test(nli_tokens_test, nli_labels_test)
+
 """## ELMo
 
 #### Glove embeddings load
@@ -218,7 +407,7 @@ glove_vectors = glove_embeds.vectors
 unk = torch.mean(glove_vectors, dim=0)
 
 embeddings = list()
-for word in vocabulary_sst.get_itos():
+for word in vocabulary_nli.get_itos():
     if word not in glove_embeds.itos:
         embeddings.append(unk)
     else:
@@ -237,7 +426,8 @@ class Elmo(nn.Module):
         self.vocab = vocab
         self.vocab_len = len(vocab)
         self.pad = self.vocab['<PAD>']
-        self.labels_num = 2
+        # self.labels_num = 2 # for sst
+        self.labels_num = 3 # for NLI
 
         # self.embedding = nn.Embedding.from_pretrained(embeddings, freeze=True, padding_idx = self.pad)
         self.embedding = nn.Embedding.from_pretrained(embeddings, freeze=True)
@@ -271,10 +461,10 @@ class Elmo(nn.Module):
 
         return y
 
-"""#### pretraining"""
-
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 print('Device available now:', device)
+
+"""#### pretraining sst"""
 
 elmo = Elmo(vocabulary_sst,torch.stack(embeddings))
 
@@ -313,6 +503,48 @@ elmo
 
 for param in elmo.lstm.parameters():
     param.requires_grad = False
+
+"""#### pretraining NLI"""
+
+elmo = Elmo(vocabulary_nli,torch.stack(embeddings))
+data = DataLoader(nli_word_pred_dataset, batch_size = 128)
+
+def pretrain_elmo_nli(model, data, num_epochs = 1):
+    model = model.to(device)
+    pad = vocabulary_nli['<PAD>']
+    # loss_fn = nn.CrossEntropyLoss(ignore_index=pad).to(device)
+    loss_fn = nn.CrossEntropyLoss().to(device)
+    optim = torch.optim.Adam(model.parameters(), lr=1e-3)
+    for epoch in tqdm(range(num_epochs), desc='epoch'):
+        model.train()
+        total_loss = 0
+        for ind, i in enumerate(data):
+            print(ind/len(data))
+            x, label = i
+            x = x.to(device)
+            label = label.to(device)
+            optim.zero_grad()
+            # ans, ans2 = model(x, label)
+            ans = model(x, label)
+            ans = model.word_pred(ans)
+            loss = loss_fn(ans, label)
+            loss.backward()
+            optim.step()
+            total_loss += loss.item()
+        print(f'\tEpoch {epoch + 1}\tTrain Loss: {total_loss/len(data)}')
+    return model
+
+elmo = pretrain_elmo_nli(elmo, data)
+
+torch.save(elmo.state_dict(), 'elmo_pretrain_nli.pth')
+
+elmo.load_state_dict(torch.load('/content/elmo_pretrain_nli.pth'))
+elmo
+
+for param in elmo.lstm.parameters():
+    param.requires_grad = False
+
+"""#### Sentiment Classification"""
 
 def elmo_sst(model, data, num_epochs = 50):
     model = model.to(device)
@@ -358,6 +590,7 @@ data = DataLoader(sst_class_train, batch_size=4)
 elmo = elmo_sst(elmo, data)
 
 from sklearn.metrics import classification_report
+from sklearn.metrics import confusion_matrix
 def get_stats(mdl, dl):
     y_true = []
     y_pred = []
@@ -368,13 +601,74 @@ def get_stats(mdl, dl):
         y_true += label.tolist()
         preds = mdl(x, label)
         preds = mdl.classifier(preds)
+        preds = mdl.softmax(preds)
         preds = preds.argmax(dim=1)
         y_pred += preds.tolist()
+    print('Classification Report:')
     print(classification_report(y_true, y_pred))
+    print('\nConfusion Matrix:')
+    print(confusion_matrix(y_true, y_pred))
 
     return sum(1 for i in range(1,len(y_pred)) if y_pred[i] == y_true[i])/len(y_pred)
 
-data = DataLoader(sst_class_test, batch_size=256)
+data = DataLoader(sst_class_test, batch_size=4)
 x = get_stats(elmo, data)
-x
+
+data = DataLoader(sst_class_train, batch_size=4)
+x = get_stats(elmo, data)
+
+"""#### NLI"""
+
+def elmo_nli(model, data, num_epochs = 2):
+    model = model.to(device)
+    pad = vocabulary_nli['<PAD>']
+    loss_fn = nn.CrossEntropyLoss().to(device)
+    optim = torch.optim.Adam(model.parameters(), lr=1e-3)
+    for epoch in tqdm(range(num_epochs), desc='epoch'):
+        model.train()
+        total_loss = 0
+        for ind, i in enumerate(data):
+            # print(ind/len(data))
+            x, label = i
+            # print(i)
+            x = x.to(device)
+            label = label.to(device)
+            optim.zero_grad()
+            ans = model(x, label)
+            ans = model.classifier(ans)
+            # print(ans)
+            ans = model.softmax(ans)
+            # print(ans)
+            loss = loss_fn(ans, label)
+            loss.backward()
+            optim.step()
+            total_loss += loss.item()
+        print(f'\tEpoch {epoch + 1}\tTrain Loss: {total_loss/len(data)}')
+    return model
+
+data = DataLoader(nli_class_train, batch_size=4)
+elmo = elmo_nli(elmo, data)
+
+def get_stats_nli(mdl, dl):
+    y_true = []
+    y_pred = []
+    for batch in tqdm(dl):
+        x, label = batch
+        x = x.to(device)
+        label = label.to(device)
+        y_true += label.tolist()
+        preds = mdl(x, label)
+        preds = mdl.classifier(preds)
+        preds = mdl.softmax(preds)
+        preds = preds.argmax(dim=1)
+        y_pred += preds.tolist()
+    print('\nClassification Report:')
+    print(classification_report(y_true, y_pred))
+    print('\nConfusion Matrix:')
+    print(confusion_matrix(y_true, y_pred))
+
+    return sum(1 for i in range(1,len(y_pred)) if y_pred[i] == y_true[i])/len(y_pred)
+
+data = DataLoader(nli_class_train, batch_size=4)
+x = get_stats_nli(elmo, data)
 
