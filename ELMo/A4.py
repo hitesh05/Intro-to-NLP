@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1uMnoDiT_IzUdG2QNq7HPorRHo2GDiHhG
 """
 
-!pip install datasets
+# !pip install datasets
 
 from datasets import load_dataset
 import re
@@ -25,6 +25,8 @@ from torchtext import vocab
 from torchtext.vocab import build_vocab_from_iterator
 from torch.utils.data import DataLoader
 from tqdm import tqdm
+import scikitplot as skplt
+import matplotlib.pyplot as plt
 
 nltk.download('stopwords')
 nltk.download('punkt')
@@ -122,9 +124,9 @@ preprocesser_sst.main()
 sst_dataset = preprocesser_sst.preprocessed_data
 vocabulary_sst = preprocesser_sst.vocab
 
-len(sst_dataset)
+# print(len(sst_dataset))
 
-print(vocabulary_sst['audience'])
+# print(vocabulary_sst['audience'])
 
 """#### Preprocess nli dataset"""
 
@@ -194,7 +196,7 @@ preprocesser_nli.main()
 nli_dataset = preprocesser_nli.preprocessed_data
 vocabulary_nli = preprocesser_nli.vocab
 
-print(len(nli_dataset))
+# print(len(nli_dataset))
 
 """#### Create dataset for sentiment classification"""
 
@@ -221,7 +223,7 @@ def create_data_for_sst_classification():
 sst_tokens, sst_labels = create_data_for_sst_classification() 
 sst_tokens_train, sst_tokens_valid, sst_tokens_test = sst_tokens[:sst_train_len], sst_tokens[sst_train_len:sst_valid_len], sst_tokens[sst_train_len + sst_valid_len:]
 sst_labels_train, sst_labels_valid, sst_labels_test = sst_labels[:sst_train_len], sst_labels[sst_train_len:sst_valid_len], sst_labels[sst_train_len + sst_valid_len:]
-print(sst_tokens_train.shape, sst_labels_train.shape)
+# print(sst_tokens_train.shape, sst_labels_train.shape)
 
 """#### create dataset for NLI"""
 
@@ -246,7 +248,7 @@ def create_data_for_nli_classification():
 nli_tokens, nli_labels = create_data_for_nli_classification() 
 nli_tokens_train, nli_tokens_valid, nli_tokens_test = nli_tokens[:nli_train_len_new], nli_tokens[nli_train_len:nli_valid_len], nli_tokens[nli_train_len + nli_valid_len:]
 nli_labels_train, nli_labels_valid, nli_labels_test = nli_labels[:nli_train_len_new], nli_labels[nli_train_len:nli_valid_len], nli_labels[nli_train_len + nli_valid_len:]
-print(nli_tokens_train.shape, nli_labels_train.shape)
+# print(nli_tokens_train.shape, nli_labels_train.shape)
 
 """#### Create dataset using sst for elmo pretraining"""
 
@@ -407,14 +409,22 @@ glove_vectors = glove_embeds.vectors
 unk = torch.mean(glove_vectors, dim=0)
 
 embeddings = list()
-for word in vocabulary_nli.get_itos():
+
+for word in vocabulary_sst.get_itos():
     if word not in glove_embeds.itos:
         embeddings.append(unk)
     else:
         w = glove_embeds[word]
         embeddings.append(w)
+        
+# for word in vocabulary_nli.get_itos():
+#     if word not in glove_embeds.itos:
+#         embeddings.append(unk)
+#     else:
+#         w = glove_embeds[word]
+#         embeddings.append(w)
 
-len(embeddings[0])
+# len(embeddings[0])
 
 """#### architecture"""
 
@@ -422,14 +432,13 @@ class Elmo(nn.Module):
     def __init__(self, vocab, embeddings, hidden_size=300):
         super().__init__()
         self.num_layers = 2
-        self.hidden_size = 300
+        self.hidden_size = hidden_size
         self.vocab = vocab
         self.vocab_len = len(vocab)
         self.pad = self.vocab['<PAD>']
         # self.labels_num = 2 # for sst
         self.labels_num = 3 # for NLI
 
-        # self.embedding = nn.Embedding.from_pretrained(embeddings, freeze=True, padding_idx = self.pad)
         self.embedding = nn.Embedding.from_pretrained(embeddings, freeze=True)
         self.lstm = nn.LSTM(self.hidden_size, self.hidden_size, num_layers = self.num_layers, bidirectional=True, batch_first = True)
         # self.weights = torch.tensor([0.5, 0.5])
@@ -439,7 +448,6 @@ class Elmo(nn.Module):
 
         in_features = self.hidden_size*2
         self.word_pred = nn.Linear(in_features, self.vocab_len)
-        # in_features = self.hidden_size*4
         self.classifier = nn.Linear(in_features, self.labels_num)
 
     def forward(self, x, label):
@@ -499,7 +507,6 @@ elmo = pretrain_elmo_sst(elmo, data)
 torch.save(elmo.state_dict(), 'elmo_pretrain_sst.pth')
 
 elmo.load_state_dict(torch.load('/content/elmo_pretrain_sst.pth'))
-elmo
 
 for param in elmo.lstm.parameters():
     param.requires_grad = False
@@ -539,7 +546,6 @@ elmo = pretrain_elmo_nli(elmo, data)
 torch.save(elmo.state_dict(), 'elmo_pretrain_nli.pth')
 
 elmo.load_state_dict(torch.load('/content/elmo_pretrain_nli.pth'))
-elmo
 
 for param in elmo.lstm.parameters():
     param.requires_grad = False
@@ -591,6 +597,7 @@ elmo = elmo_sst(elmo, data)
 
 from sklearn.metrics import classification_report
 from sklearn.metrics import confusion_matrix
+
 def get_stats(mdl, dl):
     y_true = []
     y_pred = []
@@ -609,13 +616,13 @@ def get_stats(mdl, dl):
     print('\nConfusion Matrix:')
     print(confusion_matrix(y_true, y_pred))
 
-    return sum(1 for i in range(1,len(y_pred)) if y_pred[i] == y_true[i])/len(y_pred)
+    # return sum(1 for i in range(1,len(y_pred)) if y_pred[i] == y_true[i])/len(y_pred)
 
 data = DataLoader(sst_class_test, batch_size=4)
-x = get_stats(elmo, data)
+get_stats(elmo, data)
 
 data = DataLoader(sst_class_train, batch_size=4)
-x = get_stats(elmo, data)
+get_stats(elmo, data)
 
 """#### NLI"""
 
@@ -667,8 +674,25 @@ def get_stats_nli(mdl, dl):
     print('\nConfusion Matrix:')
     print(confusion_matrix(y_true, y_pred))
 
-    return sum(1 for i in range(1,len(y_pred)) if y_pred[i] == y_true[i])/len(y_pred)
+    # return sum(1 for i in range(1,len(y_pred)) if y_pred[i] == y_true[i])/len(y_pred)
 
 data = DataLoader(nli_class_train, batch_size=4)
-x = get_stats_nli(elmo, data)
+get_stats_nli(elmo, data)
+
+def roc_curve(model,data,batch_sizeroc_auc[i] = auc(fpr[i], tpr[i])=BATCH_SIZE):
+    y_true = list()
+    y_pred = list()
+    model.eval()
+    for batch in data:
+        x, label = batch
+        x = x.to(device)
+        label = label.to(device)
+        y_true += label.tolist()
+        preds = model(x)
+        preds=model.classifier(preds)
+        p = nn.Softmax(preds, dim=1).cpu().detach().numpy().tolist()
+        y_pred+=p
+    skplt.metrics.plot_roc_curve(y_true, y_pred)
+    plt.show()
+roc_curve(elmo, nli_class_test)
 
